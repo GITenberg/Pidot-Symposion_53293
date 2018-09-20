@@ -1,0 +1,2845 @@
+The Project Gutenberg EBook of Pidot, by Platon
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org/license
+
+
+Title: Pidot
+       (Symposion)
+
+Author: Platon
+
+Translator: Niilo Lehmuskoski
+
+Release Date: October 16, 2016 [EBook #53293]
+
+Language: Finnish
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK PIDOT ***
+
+
+
+
+Produced by Tapio Riikonen
+
+
+
+
+
+
+PIDOT
+
+(Symposion)
+
+
+Kirj.
+
+PLATON
+
+
+Suom. Niilo Lehmuskoski
+
+
+
+
+
+WSOY, Porvoo, 1919.
+
+
+
+
+JOHDANTO.
+
+
+Viisas Sokrates vakuuttaa Symposionissa ymm‰rt‰v‰ns‰, jollei mit‰‰n
+muuta, niin ainakin rakkautta. Saman tunnustuksen voisi Platon antaa
+itsest‰‰n. Siit‰ mit‰ molemmat t‰ss‰ suhteessa ovat tehneet tai
+lausuneet, on paljon kirjoitettu ja paljon kiistelty. Kauniita
+nuorukaisia mets‰st‰v‰ Sokrates ja poikarakkaudesta avoimesti puhuva
+Platon ovat olleet monelle loukkauskivi‰, ja jo muuan muinaisajan
+filosofi n‰kee Symposionissa pelkk‰‰ paheen ylistyst‰. Tuomiot ovat
+kuitenkin olleet liian ‰kkipikaisia. Rakkaudessakin on Sokrates se
+suuri moralisti, joksi me muuten olemme oppineet h‰net tuntemaan. H‰n
+tahtoo voittaa nuorukaiset itselleen voidakseen heit‰ kasvattaa ja
+ohjata tietoon ja tiedon omistamisen kautta hyveeseen. Miten syv‰
+Sokrateen vaikutus holhotteihinsa on ollut, sen osoittaa parhaiten
+Alkibiadeen Symposionissa siit‰ antama todistus. Platonille laajenee
+rakkaus universaaliseksi pyrkimykseksi ikuisuutta kohti, siksi
+voimaksi, joka johtaa totuuden etsij‰‰ tavoittamaan korkeinta tietoa,
+tietoa ainoasta tosiolevaisesta, ideamaailmasta. N‰in Phaidros
+dialogissa, n‰in myˆs Symposionissa.
+
+Eros -- niin kertoo _Sokrates_ Diotiman, viisaan mantineialaisen vaimon
+h‰nelle opettaneen -- on pyrkimyst‰ hyv‰‰n, halua sen ikuiseen
+omistamiseen, kuolemattomuuden kaipuuta. T‰m‰ kuolemattomuuden kaipuu
+ilmenee ja voi saada tyydytyksens‰ siten, ett‰ kaikki olennot pyrkiv‰t
+synnytt‰m‰‰n sek‰ ruumiillisesti ett‰ henkisesti, sill‰ tavoin
+s‰ilytt‰‰kseen jotakin olemuksestaan. T‰m‰ synnytt‰minen voi tapahtua
+vain siin‰, mik‰ on kaunista. Ja n‰in johtaa Eros kaikkeen, miss‰
+kauneus ilmenee. Ensin syttyy rakkaus kauniiseen ruumiiseen, sitten
+osoittaa l‰hempi tarkastelu, ett‰ kaikissa ruumiissa asuva kauneus on
+sukulaiskauneutta. Mutta sen, joka vihkiytyy Erokselle, tulee havaita,
+ett‰ sielujen kauneus on jotakin korkeampaa kuin ruumiiden, tulee
+tajuta harrastuksiin ja lakeihin sis‰ltyv‰ kauneus, ja pyrki‰ yh‰
+ylˆsp‰in tietojen kauneuteen, kunnes kauneuden ulappa avautuu katsojan
+eteen, ja h‰n voi omaksua tiedon kauneudesta itsest‰‰n.
+
+T‰m‰ kauneus itsess‰‰n, kauneuden idea -- Platon ei t‰ss‰ k‰yt‰ t‰t‰
+sanaa -- on syntym‰tˆn ja h‰vi‰m‰tˆn, ikuinen ja muuttumaton,
+riippumaton kaikesta yksityisest‰, jotakin itsess‰‰n ja itsest‰‰n
+olevaista, josta kaikki muu kauneus on osallisena.
+
+Sille, joka on saavuttanut korkeimman p‰‰m‰‰r‰n, oppinut tuntemaan,
+mit‰ kauneus itsess‰‰n on, on el‰m‰ vasta el‰misen arvoinen. Se ihminen
+on saavuttanut totuuden ja kykenee synnytt‰m‰‰n todellisen hyveen.
+H‰nen on suotu tulla jumalille rakkaaksi ja, jos ylip‰‰ns‰ kenenk‰‰n,
+kuolemattomaksi.
+
+N‰in on kauneus kohotettu aistinmaailman yl‰puolelle, ideamaailmaan.
+Mutta kuten Platonille usein, j‰‰ nytkin suhde aistin- ja ideamaailman
+v‰lill‰ ep‰selv‰ksi. Niin riippumaton kuin kauneus itsess‰‰n
+aistinmaailmasta onkin, on kaikki yksityinen kauneus kuitenkin siit‰
+osallinen. Ristiriita on Platonilta j‰‰nyt huomaamatta, eik‰ h‰n
+yrit‰k‰‰n sit‰ ratkaista.
+
+Kauneuden idea ei Pidoissa ole niink‰‰n ajattelun tiet‰ saavutettu --
+kuten pyhiin salamenoihin vihkii Diotima Sokrateen oppiinsa rakkaudesta
+-- kuin runoilijan voimakas sis‰inen n‰kemys, joka kokonaan t‰ytt‰‰
+h‰nen sielunsa dionyysisell‰ hurmiolla. T‰m‰n yleisen kauneuden
+rinnalla j‰‰ kaikessa yksityisess‰ ilmenev‰ kauneus Platonille
+yhdentekev‰ksi. Kielteiselle kannalle h‰n ei kuitenkaan siihen n‰hden
+asetu, vaan pit‰‰ sit‰ tien‰, joka johdattaa kauneuden ideaan.
+
+Siihen, mit‰ dialogin muut henkilˆt esitt‰v‰t rakkaudesta ja Eroksesta,
+sis‰ltynee myˆs sellaisia ajatuksia, joita Platon ei hylk‰‰, ja h‰n
+antaakin Sokrateen hyv‰ksy‰ joitakin niist‰. Ylimalkaan n‰m‰
+sivuhenkilˆt kuitenkin k‰sittelev‰t kysymyst‰ pinnallisesti ja kukin
+kannaltaan yksipuolisesti ja kuvastavat sit‰ keskitasoa, jolla
+keskustelut p‰iv‰n ja el‰m‰n polttavista kysymyksist‰ Ateenan
+filosofoivan sivistyneistˆn piiriss‰ liikkuivat. On arveltu, ett‰ n‰m‰
+henkilˆt ovat enemm‰n vissien koulukuntien mielipiteitten ja
+esitystavan tulkkeja -- ennen muita puhuja Isokrateen ja sofisti
+Gorgiaan -- kuin esitt‰v‰t omia ajatuksiaan ja omaa itse‰ns‰, ja
+Sokrateen pilanteko Agathonin Gorgianisesta puhetaidosta n‰ytt‰isi
+antavan t‰llaiselle otaksumalle tukea. Eikˆh‰n kuitenkin ole oikeampaa
+ja yksinkertaisempaakin ajatella, ett‰ Platon on kullekin dialogin
+henkilˆlle sovittanut sek‰ ajatuksiltaan ett‰ muodoltaan mahdollisimman
+karakteristiset lausunnot, joskin niiss‰ on yht‰ ja toista, joka on
+kotoisin jostakin koulukunnasta, johon asianomaiset sit‰paitsi
+saattoivat kuulua? Joka tapauksessa tuskin voi mestarillisemmin
+j‰ljitell‰ Aristophanesta kuin Platon on tehnyt, ja kaikki mit‰ me
+tied‰mme Agathonista, antaa meid‰n aavistaa h‰nen karakteristiikkansa
+sek‰ ajatuksiin ett‰ esitystapaan n‰hden erinomaisen sattuvaksi.
+
+Erikoista ihmettely‰ her‰tt‰‰ _Aristophaneen_ esiintyminen pidoissa
+t‰ydess‰ sovussa Sokrateen seurassa. Tunnettuahan on, miten
+Aristophanes komediassaan Pilvet saattaa Sokrateen karkean pilkkansa
+esineeksi kuvatessaan h‰net sellaiseksi, mit‰ h‰n kaikista v‰himmin
+oli, pahimmaksi sofistiksi ja ihmisten petkuttajaksi. Miten tyynesti
+Sokrates katsojien joukossa t‰m‰n kestikin, hieman katkerasti antaa
+Platon Sokrateen Puolustuspuheessaan t‰h‰n viitata.
+
+Muut dialogin henkilˆt ovat hekin enemm‰n tai v‰hemm‰n tunnettuja
+Sokrateen aikalaisia. _Agathon_, pitojen is‰nt‰, oli aikansa etevimpi‰
+murhen‰ytelm‰n kirjoittajia, hienostunut maailmanmies, jota
+Aristophanes Thesmophoriazusai n‰ytelm‰ss‰ purevasti ivaa. _Pausanias_
+kuului Agathonin ihailijoihin ja opinto- sek‰ kenties myˆs
+ammattitovereihin. H‰net mainitaan myˆs Protagoras dialogissa.
+_Phaidros_ kuvataan innostuneeksi v‰ittelij‰ksi, mutta ei eritt‰in
+ter‰v‰ksi ajattelijaksi. H‰n oli Platonin l‰himpi‰ yst‰vi‰, ja er‰s
+t‰m‰n dialogeista on saanut h‰nen mukaan nimens‰. _Eryximakhos_
+mainitaan myˆs dialogeissa Protagoras ja Phaidros. H‰n, kuten h‰nen
+is‰ns‰kin Akumenos, oli kuuluisa l‰‰k‰ri.
+
+Aivan erillisen kokonaisuuden muodostaa dialogin ihmeellinen loppu,
+miss‰ juopunut _Alkibiades_ tuodaan n‰ytt‰mˆlle. On niit‰, jotka
+arvelevat juuri t‰st‰ osasta koko dialogin kasvaneen ja pit‰v‰t Pitoja
+etusijassa puolustuskirjoituksena niit‰ h‰v‰istysjuttuja vastaan, mit‰
+Sokrateesta ja Alkibiadeesta oli liikkeell‰. Oli miten tahansa, joka
+tapauksessa t‰m‰ kohtaus on suuremmoisinta, mit‰ Platon on
+kirjoittanut. Ei ainoastaan Alkibiades ole siin‰ ilmiel‰v‰n‰ edess‰mme,
+myˆskin Sokrateen ihmeellinen persoonallisuus tulee Alkibiadeen
+kuvauksessa meit‰ l‰hemm‰ksi kuin miss‰‰n muualla.
+
+Koko dialogin Platon esitt‰‰ kertomuksena. _Apollodoros_, er‰s
+Sokrateen uskollisimpia oppilaita -- Phaidron dialogissa h‰n on yksi
+niit‰, jotka Sokrateen kuolinhetkell‰ olivat h‰nen luonaan --
+kertoo keskustelun sellaisena kuin h‰n sen on kuullut er‰‰lt‰
+Aristodemokselta. Meist‰ tuntuu silt‰, ettei t‰m‰ muoto ole
+onnistuneesti valittu, emmek‰ voi kielt‰‰, ett‰ yht‰mittaa toistuva
+"h‰n sanoi" oratio obliquoineen vaikuttaa yksitoikkoiselta. Itse
+dialogia ei t‰m‰ teknillinen virhe kuitenkaan tee kuolleeksi.
+P‰invastoin se el‰‰ enemm‰n kuin miss‰‰n muussa Platonin teoksessa. Se
+paljastaa Platonin taiteilijaluonteen monipuolisuuden ja h‰nen
+ilmaisukeinojensa rikkauden. Aina esitett‰v‰n henkilˆn ja aiheen
+mukaisesti vaihtelee onnistuneesti matala arkip‰iv‰isyys ja dionyysinen
+haltioituminen, karkea komiikka ja juhlallinen vakavuus ja kaikki
+sulautuu harmooniseksi kokonaisuudeksi. Pidot onkin ennen kaikkea, niin
+syv‰ filosofinen sis‰ltˆ kuin siin‰ onkin, taideteos. T‰ss‰ dialogissa
+on Platon enemm‰n itse‰ns‰ kuin miss‰‰n muualla. H‰n on enemm‰n
+taiteilija kuin ajattelija, enemm‰n runoilija kuin dialektikko.
+
+Myˆskin Xenophon on kirjoittanut Symposionin, ja kummankin teoksen
+v‰lill‰ on lukuisia kosketuskohtia. Toistaiseksi ei ole voitu osoittaa,
+kumpi n‰ist‰ kirjoitelmista on vanhempi. Platonin omassa tuotannossa
+kuuluu Pidot h‰nen kyps‰n miehuusik‰ns‰ teoksiin, niihin dialogeihin,
+jotka varsinaisesti johtavat h‰nen filosofiansa ydinajatukseen --
+ideaoppiin. Jos se k‰sitys on oikea, ett‰ Aristophaneen mainitsema
+historiallinen tapahtuma tarkoittaa spartalaisten hyˆkk‰yst‰
+Mantineiaan v. 385, on dialogi kirjoitettu t‰m‰n vuoden j‰lkeen ja
+luultavasti heti sen j‰lkeen, jolloin tapahtuma viel‰ oli tuoreessa
+muistissa. Joka tapauksessa on t‰ss‰ silloin anakhronisrni, koska
+Sokrates tyhjensi myrkkymaljan 14 vuotta aikaisemmin, ja Agathonin
+murhen‰ytelm‰ll‰‰n saavuttama voitto, jonka kunniaksi pidot pidettiin,
+tapahtui v. 417.
+
+_Suomentaja_.
+
+
+
+
+PIDOT.
+
+
+Vuoropuhelun henkilˆt:
+
+ Apollodoros
+ Apollodoroksen yst‰v‰
+ Glaukon
+ Aristodemos
+ Sokrates
+ Agathon
+ Phaidros
+ Pausanias
+ Eryximakhos
+ Aristophanes
+ Diotima
+ Alkibiades
+
+
+
+APOLLODOROS: En luullakseni ole valmistumaton siihen, mit‰ te minulta
+kyselette. Satuin n‰et hiljattain kulkemaan kaupunkiin kotoani
+Phaleronista,[1] kun muuan tuttavistani, joka minut takaap‰in huomasi,
+huusi minua kaukaa nimelt‰ ja puhutteli minua leikillisesti: "Kuule,
+sin‰ Phaleronin[2] mies, Apollodoros, odotahan toki!" Min‰ pys‰hdyin ja
+j‰in odottamaan. H‰n sanoi: "Apollodoros, min‰ olen todenteolla ‰sken
+etsinyt sinua haluten saada tietoja Agathonin, Sokrateen, Alkibiadeen
+ja muitten silloin pidoissa l‰sn‰olleitten keskustelusta, nimitt‰in
+siit‰, mit‰ rakkaudesta lausuttiin. Muuan toinen on n‰et minulle siit‰
+kertonut kuultuaan siit‰ Phoinixilta, Philippoksen pojalta, mutta h‰n
+mainitsi sinunkin siit‰ tiet‰v‰n. H‰nen oma esityksens‰ ei ollut
+ollenkaan selv‰. Kerro siis sin‰ minulle, sill‰ sin‰ olet eniten
+oikeutettu esitt‰m‰‰n yst‰v‰si sanoja. Mutta", lausui h‰n, "sano
+minulle ensin, olitko sin‰ l‰sn‰ tuossa kohtauksessa vai etkˆ." Min‰
+vastasin: "Eip‰ sinun kertojasi esitys tosiaankaan n‰yt‰ olleen
+ollenkaan selv‰, jos luulet tuon kohtauksen, jota kyselet, tapahtuneen
+‰skett‰in, niin ett‰ min‰kin olisin ollut l‰sn‰." -- "Niin min‰ todella
+luulen", sanoi h‰n. -- "Mutta", sanoin min‰, "mist‰ sin‰ olet tullut
+siihen k‰sitykseen, Glaukon? Etkˆ tied‰, ettei Agathon moneen vuoteen
+ole asunut t‰‰ll‰? Siit‰ taas, jolloin min‰ olen alkanut viett‰‰
+aikaani Sokrateen seurassa ja pit‰‰ huolenani joka p‰iv‰ tiet‰‰, mit‰
+h‰n puhuu tai tekee, ei ole viel‰ kolmea vuotta. Sit‰ ennen min‰
+juoksentelin ymp‰ri miss‰ milloinkin ja luulin toimittavani jotakin,
+vaikka olin kurjempi kuin kuka tahansa, yht‰ kurja kuin sin‰ nyt
+arvellessasi, ett‰ tulee tehd‰ kaikkea mieluummin kuin harrastaa
+filosofiaa." -- "ƒl‰ pilkkaa", sanoi h‰n, "vaan kerro, milloin tuo
+kohtaus tapahtui." -- Min‰ sanoin, ett‰ se tapahtui meid‰n
+viel‰ ollessamme lapsia, kun Agathon sai voiton ensim‰isell‰
+murhen‰ytelm‰ll‰‰n, sen p‰iv‰n j‰lkeisen‰ p‰iv‰n‰, jolloin h‰n ja h‰nen
+khoorinsa j‰senet viettiv‰t uhrijuhlaa voiton kunniaksi. -- "Siis,
+kuten n‰ytt‰‰, kauan sitten", sanoi h‰n. "Mutta kuka on siit‰ sinulle
+kertonut; itse Sokratesko?" -- "Ei, kautta Zeun", sanoin min‰, "vaan
+sama kuin Phoinixillekin, muuan Aristodemos, Kydathenalainen,[3] pieni
+mies, joka aina kulki avojaloin. H‰n oli ollut kohtauksessa l‰sn‰, h‰n
+kun minun n‰hd‰kseni oli Sokrateen innokkaimpia silloisia ihailijoita.
+Kuitenkin olen myˆs Sokrateelta kysellyt muutamia kohtia siit‰, mit‰
+h‰nelt‰ kuulin, ja h‰n on myˆnt‰nyt t‰m‰n kertomuksen oikeaksi." --
+"Miksi siis et tahdo kertoa asiata minulle? Onhan kaupunkiin viev‰ tie
+sit‰ kulkeville eritt‰in sovelias sek‰ puhumiseen ett‰ kuulemiseen." --
+Niin me kuljimme ja keskustelimme asiasta. Siksip‰ en ole, kuten alussa
+sanoin, aivan valmistumaton. Jos tekin siis vaaditte minua kertomaan,
+niin t‰ytyy kai tehd‰ niin. Sill‰ muutenkin min‰ puolestani, kun joko
+itse puhun filosofiasta tai kuulen muiden puhuvan, paitsi sit‰ ett‰
+pid‰n sit‰ hyˆdyllisen‰, nautin siit‰ tavattomasti. Kun taas kuulen
+muita puheita ja eritt‰inkin teid‰n rikkaiden ja rahamiesten, niin ne
+toiselta puolen tymp‰isev‰t minua, toiselta puolen s‰‰lin teit‰,
+yst‰v‰t, sentakia, ett‰ luulette jotakin tekev‰nne, vaikka ette tee
+mit‰‰n. Te puolestanne pid‰tte ehk‰ minua onnettomana ja uskon, ett‰
+luulonne on oikea. Minun mielipiteeni teist‰ taas ei perustu luuloon,
+vaan varmaan tietoon.
+
+YSTƒVƒ: Sin‰ olet aina samanlainen, Apollodoros. Sill‰ aina sin‰ moitit
+sek‰ itse‰si ett‰ muita ja n‰yt‰t minusta yksinkertaisesti pit‰v‰n
+kaikkia itsest‰si alkaen kurjina olentoina, Sokratesta lukuunottamatta.
+Min‰ en tied‰, mist‰ olet saanut tuon liikanimen kiihkoilija, jota
+sinusta k‰ytet‰‰n, mutta puheissasi olet aina sellainen. Sin‰ olet
+raivoissasi sek‰ itsellesi ett‰ muille paitsi Sokrateelle.
+
+APOLLODOROS: Hyv‰ yst‰v‰, selv‰‰h‰n on, ett‰ jos min‰ ajattelen sill‰
+tavoin sek‰ itsest‰ni ett‰ muista, min‰ olen kiihkoilija ja mielipuoli.
+
+YSTƒVƒ: Ei kannata nyt riidell‰ t‰st‰, Apollodoros. ƒl‰k‰ tee vastoin
+pyyntˆ‰mme, vaan kerro mit‰ silloin esitetyt lausunnot sis‰lsiv‰t.
+
+APOLLODOROS: Ne sis‰lsiv‰t suunnilleen seuraavaa. -- Mutta mieluummin
+koetan esitt‰‰ kaiken alusta alkaen niinkuin h‰nkin.
+
+H‰n kertoi kohdanneensa Sokrateen, joka tuli kylvyst‰ ja oli sitonut
+keng‰t jalkoihin, mit‰ h‰n harvoin teki. H‰n oli kysynyt h‰nelt‰, minne
+h‰n menee niin juhlakunnossa. H‰n oli vastannut: "P‰iv‰llisille
+Agathonin huoneeseen. Sill‰ eilen voitonjuhlassa min‰ pakenin h‰nen
+luotaan pel‰ten vierasten paljoutta, mutta suostuin t‰ksi p‰iv‰ksi
+saapumaan h‰nen luokseen. Sent‰hden olen n‰in siistinyt itse‰ni,
+ollakseni hieno menness‰ni hienon miehen luo. Mutta", sanoi h‰n, "mit‰
+tuumit siit‰, ett‰ kutsumatta l‰htisit p‰iv‰llisille?" "Min‰ vastasin",
+kertoi h‰n: "kuten sin‰ k‰sket." -- "Tule siis mukaan", sanoi h‰n,
+"jotta voisimme tehd‰ korjauksen sananlaskuun ja muuttaa sen
+seuraavantapaiseksi: 'Hyvien miesten pitoihin saapuvat hyv‰t miehet
+kutsumatta'.[4] Homeros taas ei n‰yt‰ ainoastaan korjanneen t‰t‰
+sananlaskua, vaan tykk‰n‰‰n v‰‰rent‰neen sen ajatuksen. Sill‰ vaikka
+h‰n on esitt‰nyt Agamemnonin eritt‰in etev‰ksi soturiksi ja Menelaoksen
+taas veltoksi peitsimieheksi, on h‰n kuvannut, Agamemnonin valmistaessa
+juhla- ja uhriateriaa, Menelaoksen kutsumatta saapuvan juhlaan,
+huonomman miehen paremman pitoihin." -- T‰m‰n kuultuaan kertoi
+Aristodemos sanoneensa: "Mutta kenties en min‰ menek‰‰n sinne niin kuin
+sin‰ sanot, Sokrates, vaan Homeroksen mukaan kehnona miehen‰ viisaan
+miehen juhlaan kutsumatta. Voitkohan esitt‰‰ mit‰‰n puolustukseksi, jos
+viet minut mukaasi? Sill‰ min‰ en tule myˆnt‰m‰‰n sit‰, ett‰ olen
+saapunut kutsumatta, vaan sanon, ett‰ sin‰ olet minut k‰skenyt." --
+"Kulkiessamme kahden", sanoi Sokrates, "neuvottelemme me yhdess‰, mit‰
+vastaamme. Mutta l‰htek‰‰mme matkaan."
+
+T‰h‰n tapaan suunnilleen h‰n kertoi heid‰n matkalla keskustelleen.
+Mutta kulkiessaan Sokrates vaipui omiin ajatuksiinsa ja j‰tt‰ytyi
+j‰lkeen, ja kun h‰n j‰i odottamaan, k‰ski t‰m‰ h‰nen jatkaa matkaa. Kun
+h‰n oli tullut Agathonin talolle, havaitsi h‰n oven olevan avoinna ja
+siell‰ kertoi h‰n kokeneensa jotakin hullunkurista. H‰nt‰ vastaan tuli
+n‰et heti sis‰lt‰ muuan orjapoika, joka vei h‰net sinne, miss‰ muut
+lep‰siv‰t, ja h‰n yll‰tti heid‰t juuri ryhtym‰ss‰ aterioimaan.
+Niinpiankuin Agathon oli h‰net n‰hnyt, lausui h‰n: "Kas, Aristodemos,
+tulet juuri parhaaseen aikaan syˆm‰‰n p‰iv‰llist‰ kanssamme. Jos taas
+olet tullut jonkun muun asian takia, niin lykk‰‰ se toiseen kertaan.
+Sill‰ eilenkin min‰ haeskelin sinua, kutsuakseni sinut, mutta en voinut
+sinua lˆyt‰‰. Mutta miksi et tuo Sokratesta meid‰n luoksemme;1" -- Min‰
+k‰‰nnyn ymp‰ri, kertoi h‰n, mutten n‰e miss‰‰n j‰lemp‰n‰ Sokratesta.
+Min‰ sanoin silloin, ett‰ olin juuri tullut Sokrateen seurassa ja ett‰
+h‰n minut oli t‰nne p‰iv‰llisille kutsunutkin. "Siin‰ teit aivan
+oikein", sanoi Agathon. "Mutta miss‰ on tuo mies?" -- "H‰n tuli juuri
+‰sken j‰less‰ni sis‰‰n ja itsekin ihmettelen, miss‰ h‰n saattaa olla."
+-- "Katsoppas poika, miss‰ Sokrates on", sanoi Agathon, "ja tuo h‰net
+sis‰lle. Sin‰, Aristodemos", sanoi h‰n, "asetu sin‰ Eryximakhoksen
+viereen."
+
+Poika pesi sitten h‰net, kertoi h‰n, jotta h‰n saattaisi asettua
+aterialle. Muuan toinen poika oli tullut ja ilmoittanut, ett‰ Sokrates
+oli poistunut ja seisoi nyt naapurin eteispihalla eik‰ h‰nen kutsustaan
+tahtonut tulla sis‰lle. "Sin‰h‰n kerrot kummia", sanoi Agathon. "Kutsu
+h‰nt‰, ‰l‰k‰ p‰‰st‰ h‰nt‰ menem‰‰n." -- Mutta Aristodemos kertoi
+sanoneensa: "ƒl‰ mill‰‰n muotoa tee niin, vaan antakaa h‰nen olla.
+H‰nell‰ on n‰et sellainen tapa, ett‰ h‰n toisinaan pys‰htyy ja j‰‰
+seisomaan minne sattuu. Kyll‰ h‰n luullakseni kohta tulee. ƒlk‰‰ siis
+h‰iritkˆ h‰nt‰, vaan antakaa h‰nen olla." -- "T‰ytyy tehd‰ niin, jos
+sinusta silt‰ tuntuu", sanoi Agathon. "Mutta kestitk‰‰ meit‰ toisia,
+pojat. Tarjotkaa aivan kuten haluatte, koska teit‰ ei ole kukaan
+komentamassa, mik‰ milloinkaan ei ole kuulunut tapoihini. Kuvitelkaa
+nyt mieless‰nne, ett‰ te olisitte kutsuneet minut ja n‰m‰ muut
+p‰iv‰llisille ja palvelkaa meit‰ niin, ett‰ voimme teit‰ kiitt‰‰."
+
+Senj‰lkeen kertoi h‰n heid‰n aterioineen. Mutta Sokrates ei tullut
+sis‰lle. Agathon k‰ski monta kertaa menn‰ Sokratesta noutamaan, mutta
+Aristodemos ei sallinut. Sokrates oli kuitenkin tullut, viipym‰tt‰
+tapansa mukaan kovin pitk‰‰ aikaa, kun he juuri olivat keskell‰
+ateriaa. Agathonin, joka lep‰si ‰‰rim‰isen‰ yksin‰‰n, kertoi
+Aristodemos lausuneen: "Asetu t‰nne viereeni, Sokrates, jotta min‰kin
+saisin nauttia siit‰ viisaudesta, joka sinulle tuolla eteispihassa
+ilmestyi. Sill‰ varmasti sin‰ sen lˆysit ja nyt se on sinulla."
+Sokrates istuutui ja lausui: "Hyvin olisivat asiat, Agathon, jos
+viisaus olisi sellaista, ett‰ se saattaisi, meid‰n tullessamme l‰helle
+toinen toistamme, virrata t‰ysin‰isemm‰st‰ tyhjemp‰‰n, kuten maljoista
+vesi, joka villalankaa myˆten juoksee t‰ysin‰isemm‰st‰ tyhjemp‰‰n. Jos
+n‰in on viisauden laita, pid‰n paikkaa vieress‰si suurenarvoisena.
+Sill‰ luulen, ett‰ sin‰ t‰yt‰t minua paljolla kauniilla viisaudella.
+Minun viisauteni n‰et lienee kehnoa ja kiistanalaista ollen kuin unta,
+sinun taas loistaa ja kasvaa valtavasti. Sill‰ niin nuori kuin oletkin,
+on se niin voimakkaasti s‰teillyt sinusta ja k‰ynyt niin ilmeiseksi
+‰sken enemm‰n kuin kolmenkymmenentuhannen helleenin ollessa sen
+todistajana." -- "Sin‰ pilkkaat, Sokrates", sanoi Agathon. "Mutta me
+saamme v‰h‰n myˆhemmin ratkaista t‰m‰n kysymyksen viisaudesta, kun
+meill‰ on tuomarina Dionysos. Nyt pit‰‰ sinun ensiksi k‰yd‰ aterialle."
+
+T‰m‰n j‰lkeen, kertoi Aristodemos, asettui Sokrates leposijalle ja
+aterioitsi. Niin tekiv‰t toisetkin. Kun he olivat uhranneet juomauhrin,
+laulaneet jumalan kunniaksi ja t‰ytt‰neet muut tavalliset menot, olivat
+he k‰yneet juomiin k‰siksi. Pausaniaan kertoi Aristodemos silloin
+alkaneen puhua jotenkin seuraavaan tapaan: "Hyv‰t miehet, mill‰h‰n
+tavoin saisimme juomisemme kaikkein v‰himmin rasittavaksi. Sill‰ min‰
+sanon teille, ett‰ itse asiassa voin sangen huonosti eilisten
+juominkien j‰lkeen ja kaipaan nyt v‰h‰n heng‰hdysaikaa. Useat teist‰
+ovat luullakseni samassa kunnossa, sill‰ olittehan eilen mukana.
+Miettik‰‰h‰n nyt, mitenk‰ juominen saataisiin v‰himmin voimia
+kysyv‰ksi." -- Aristophanes sanoi t‰h‰n: "Sin‰ puhut aivan oikein, ett‰
+kaikin tavoin pit‰isi hankkia hiukan helpoitusta juopotteluun. Sill‰
+min‰kin kuulun niihin, jotka eilen ajoivat aikalailla nestett‰
+sis‰‰ns‰." -- N‰iden sanat kuultuaan sanoi Eryximakhos Akumenoksen
+poika Aristodemoksen kertoman mukaan: "Hyvin puhuttu, tosiaankin! Mutta
+er‰s asia olisi viel‰ hyv‰ saada tiet‰‰: Miss‰ juomakunnossa Agathon
+on?" -- "En kerrassaan miss‰‰n kunnossa", vastasi t‰m‰. -- "Olisi
+suuremmoinen voitto meille", jatkoi Eryximakhos, "nimitt‰in minulle,
+Aristodemokselle ja Phaidrokselle sek‰ n‰ille t‰ss‰, jos te, jotka
+kest‰tte enimm‰n, nyt annatte per‰‰n. Sill‰ meh‰n emme koskaan kest‰
+mit‰‰n. Sokrateen min‰ kuitenkin luen pois joukosta, sill‰ h‰n kykenee
+kumpaankin, niin ett‰ h‰nest‰ on samantekev‰‰, kumman teemme. Koska
+siis minusta n‰ytt‰‰, ettei kukaan l‰sn‰olevista ole halukas juomaan
+paljon viini‰, niin kenties en ik‰vystyt‰ seuraa, jos selit‰n
+todenper‰isesti, millaista juopumus oikeastaan on. Sill‰ luulen
+l‰‰ketieteest‰ tulleeni selville siit‰, ett‰ juopumus on ihmisille
+jotakin vahingollista. Itse puolestani en min‰, jos vain itse saisin
+m‰‰r‰t‰, tahtoisi jatkaa juomista, enk‰ neuvoisi ket‰‰n toistakaan niin
+tekem‰‰n, etenkin jos h‰nt‰ eilisp‰iv‰n j‰lkeen vaivaa kohmelo." -- Nyt
+kertoi Aristodemos myrrinusilaisen[5] Phaidroksen puuttuneen puheeseen:
+"Min‰ puolestani olen tottunut sinua tottelemaan ja eritt‰inkin milloin
+puhut l‰‰ketaidosta. T‰ll‰ kertaa tottelevat sinua toisetkin, jos
+ajattelevat j‰rkev‰sti." -- T‰m‰n kuultuaan myˆntyiv‰t kaikki siihen,
+etteiv‰t viett‰isi yhdess‰oloa juopottelussa, vaan noin vain
+nautinnoksi maistellen.
+
+"Koska nyt siis on p‰‰tetty", sanoi Eryximakhos, "ett‰ jokainen saa
+juoda niin paljon kuin h‰nt‰ haluttaa ja ettei mit‰‰n pakkoa ole
+olemassa, niin ehdotan min‰ t‰m‰n j‰lkeen, ett‰ ‰sken sis‰‰n tulleen
+huilunsoittajattaren annettaisiin menn‰ tiehens‰ ja soittaa itselleen
+tai -- jos h‰nt‰ haluttaa -- tuolla sis‰ll‰ oleville naisille, ja ett‰
+me t‰n‰‰n keskustellen viett‰isimme aikaamme. Jos haluatte, tahdon
+ehdottaa teille keskusteluaiheen." -- Kaikki sanoivat haluavansa, ja
+k‰skiv‰t h‰nen tehd‰ ehdotuksen. Eryximakhos lausui nyt: "Alan puheeni
+Euripideen Melonippen[6] mukaan. 'Sanani, jotka aion esitt‰‰ eiv‰t ole
+omiani', vaan t‰m‰n Phaidroksen t‰ss‰. Phaidros puhuu n‰et aina
+kiukuissaan minulle: 'Eikˆ ole ihmeellist‰, Eryximakhos, ett‰
+runoilijat ovat sepitt‰neet hymnej‰ ja ylistyslauluja kaikille muille
+jumalille, mutta ettei koskaan kukaan runoilijoista, niin monta kuin
+heit‰ onkin, ole tehnyt yht‰‰n kiitosrunoa Eroksen kunniaksi, joka
+kuitenkin on niin suuri ja mahtava jumala? Jos taas tahdot ajatella
+meid‰n kelpo sofistejamme, niin kirjoittavat he suorasanaisesti
+Herakleen ja muitten kiitospuheita, kuten mainio Prodikos.[7] T‰m‰ ei
+viel‰ ole niin ihmeellist‰; mutta ‰sken sain k‰siini kirjan, jossa oli
+suolalle sen hyˆdyn takia suitsutettu ihmeellinen ylistys. Ja paljon
+muuta t‰m‰ntapaista saattaisit n‰hd‰ kiitetyn. Huomauttaessaan siit‰,
+ett‰ he t‰llaisten asioitten takia n‰kev‰t paljon vaivaa, mutta ettei
+Erosta ole kenk‰‰n ihmisist‰ t‰h‰n p‰iv‰‰n saakka rohjennut h‰nen
+arvonsa mukaisesti ylist‰‰, vaan ett‰ siten on laiminlyˆty niin mahtava
+jumala, on Phaidros minusta aivan oikeassa. Sent‰hden tahdon min‰
+toiselta puolen tehd‰ h‰nelle palveluksen ja olla h‰nelle mieliksi,
+toiselta puolen pid‰n min‰ sopivana, ett‰ me l‰sn‰olevat t‰ss‰
+tilaisuudessa ylist‰mme jumalaa. Jos te olette samaa mielt‰, niin olisi
+meill‰ puheista kyll‰ riitt‰v‰sti ajanvietett‰. Min‰ siis ehdotan, ett‰
+jokainen meist‰, puheenvuoron siirtyess‰ aina oikealle, pit‰‰ Eroksen
+kunniaksi niin kauniin puheen kuin vain taitaa, ja ett‰ Phaidros alkaa,
+koska h‰n sek‰ lep‰‰ ensim‰isen‰ ett‰ on koko asian is‰." -- "Kukaan ei
+tule ‰‰nest‰m‰‰n sinua vastaan, Eryximakhos", sanoi Sokrates. "Sill‰
+min‰, joka v‰it‰n, etten mit‰‰n muuta ymm‰rr‰ kuin rakkausasioita, en
+mitenk‰‰n tahtoisi kielt‰yty‰, eik‰ kai Agathon eik‰ Pausanias eik‰
+suinkaan Aristophanes, jonka koko harrastuspiiri liikkuu Dionysoksen ja
+Aphroditen ymp‰rill‰, eik‰ kukaan muu n‰ist‰, jotka t‰ss‰ n‰en.
+Kuitenkaan emme me, jotka lep‰‰mme ‰‰rim‰isin‰, ole yht‰ hyv‰ss‰
+asemassa. Mutta meille on kylliksi, jos ne, jotka ovat meid‰n
+edell‰mme, puhuvat tarpeeksi laajasti ja kauniisti. Mutta hyv‰ll‰
+onnella alkakoon Phaidros ja ylist‰kˆˆn Erosta."
+
+Kaikki muutkin yhtyiv‰t n‰ihin Sokrateen sanoihin ja toivomuksiin.
+Mutta kaikkea sit‰, mit‰ kukin lausui, ei Aristodemos tarkoin muistanut
+enk‰ min‰k‰‰n muista kaikkea, mit‰ h‰n puhui. Mutta kaikkien niiden
+lausunnot, joitten sanat minusta n‰yttiv‰t enimmin muistamisen
+arvoisilta, min‰ kyll‰ esit‰n teille.
+
+Ensinn‰ siis kertoi h‰n, kuten sanottu, Phaidroksen puhuneen. H‰n alkoi
+suunnilleen siit‰ ajatuksesta, ett‰ Eros on suuri ja ihmeellinen sek‰
+ihmisten ett‰ jumalien joukossa hyvin monessakin suhteessa, mutta
+eritt‰inkin syntyns‰ puolesta. "Sill‰ on kunniakasta olla jumalista
+vanhimpia", sanoi h‰n. "Siit‰ on olemassa todistus. Eroksella ei
+nimitt‰in ole vanhempia eik‰ niit‰ mainitse kukaan proosakirjailija
+eik‰ runoilija, vaan Hesiodos v‰itt‰‰ ensin syntyneen Khaoksen ja h‰nen
+j‰lkeens‰
+
+    "'Laajalle rintavan Maan, ikiturvaisan sijan kaikkein
+    Ynn‰ Eros jumalan.'
+
+"Hesiodokseen yhtyy Akusilaos,[8] joka v‰itt‰‰ Khaoksen j‰lkeen n‰iden
+kahden, Maan ja Eroksen syntyneen. Parmenides[9] taas esitt‰‰ n‰in
+Luomisen:
+
+    "'Ennen multapa toi el‰m‰n h‰n Eros jumalalle.'
+
+"N‰in monelta taholta esitet‰‰n se yhteinen ajatus, ett‰ Eros on
+vanhimpia. Mutta koska h‰n on vanhin, on h‰n suurimman meit‰ kohdanneen
+hyv‰n aiheuttaja. Sill‰ min‰ en ainakaan osaa sanoa, mit‰ suurempaa
+onnea saattaa olla aivan nuoruusi‰ss‰ olevalla kuin hyv‰‰tarkoittava
+rakastaja ja rakastajalla lemmikki. Sill‰ sit‰, mink‰ tulee johtaa
+l‰vitse koko el‰m‰n ihmisi‰, jotka tahtovat el‰‰ jalosti, sit‰ ei voi
+heille hankkia sukulaisuus eik‰ arvossapidetty asema eik‰ rikkaus eik‰
+mik‰‰n muu niin runsain m‰‰rin kuin rakkaus. Mit‰ min‰ t‰ll‰ tarkoitan?
+H‰veli‰isyytt‰ h‰pe‰lliseen n‰hden, harrasta pyrkimyst‰ kauniiseen.
+Sill‰ ilman sit‰ ei ole mahdollista valtion eik‰ yksityisen kansalaisen
+suorittaa suuria ja kauniita tekoja. Min‰ v‰it‰n nyt, ett‰ jos joku
+mies, joka rakastaa, tulee ilmi jostakin h‰pe‰llisest‰ teosta tai
+siit‰, ett‰ h‰n on k‰rsinyt jotakin sellaista jonkun taholta sent‰hden,
+ettei pelkuruudesta ole puolustautunut, h‰n ei tuntisi niin suurta
+tuskaa joutuessaan is‰ns‰ tai yst‰v‰ns‰ tai kenenk‰ muun tahansa
+silmien eteen kuin lemmikkins‰ edess‰. T‰m‰n saman huomion teemme
+rakastetun suhteen, nimitt‰in ett‰ h‰n erikoisesti h‰pe‰‰ rakastajiaan,
+kun h‰net on tavattu jossakin h‰pe‰llisess‰ teossa. Jos siis olisi
+mahdollinen jokin keino sellaisen valtion tai leirikunnan
+aikaansaamiseen jossa olisi pelkki‰ rakastajia ja lemmikkej‰, niin he
+eiv‰t voisi paremmalla tavalla el‰‰ n‰iss‰ yhteiskunnissaan kuin
+pysytt‰ytym‰ll‰ erill‰‰n kaikesta h‰pe‰llisest‰ ja kilpailemalla t‰ss‰
+pyrkimyksess‰ kesken‰‰n. Ja taistellen toinen toisensa vieress‰
+voittaisivat t‰llaiset miehet harvalukuisinakin suoraan sanoen koko
+maailman. Sill‰ mies, joka rakastaa, antaisi mieluummin kenenk‰ muun
+tahansa n‰hd‰ h‰nen j‰tt‰v‰n rivit tai heitt‰v‰n aseensa kuin
+rakastettunsa ja tahtoisi monta vertaa ennemmin kuolla kuin tehd‰ n‰in.
+Ja niin huono ei toki ole kukaan, ett‰ j‰tt‰isi rakastettunsa tai olisi
+rient‰m‰tt‰ h‰nen avukseen, kun h‰n on vaarassa. Kukaan ei ole niin
+huono, ettei Eros innostaisi h‰nt‰ sellaiseen urhoollisuuteen, ett‰ h‰n
+vet‰‰ vertoja sille, joka luonnostaan on paras. Lyhyesti sanoen, kuten
+Homeros kertoo, ett‰ jumala puhalsi muutamiin urhoista rohkeutta, niin
+tekee Eroskin antaessaan sit‰ itsest‰‰n rakastaville.
+
+"Viel‰p‰ kuollakin toinen toisensa puolesta tahtovat yksinomaan
+rakastavaiset, eiv‰tk‰ vain miehet, vaan myˆskin naiset. T‰m‰n
+v‰itteeni puolesta tarjoaa kaikille helleeneille riitt‰v‰n todistuksen
+Alkestis,[10] Peliaksen tyt‰r, joka yksin tahtoi kuolla miehens‰
+puolesta, vaikka t‰ll‰ oli sek‰ is‰ ett‰ ‰iti. Ja h‰n voitti n‰m‰ siin‰
+m‰‰r‰ss‰ yst‰vyydess‰ rakkautensa takia ett‰ osoitti heid‰n olevan
+pojalleen vieraita ja vain nimelt‰‰n kuuluvan yhteen. Ja n‰in
+tehdess‰‰n n‰ytti h‰n ei vain ihmisist‰ vaan myˆskin jumalista tehneen
+niin kauniin teon, ett‰ kun jumalat vain luetuille niist‰ monista,
+jotka ovat suorittaneet useita kauniita tekoja, ovat suoneet sen
+kunnialahjan, ett‰ ovat sallineet heid‰n sielunsa j‰lleen nousta
+Hadeksesta, he h‰nen tekoaan ihaillen p‰‰stiv‰t h‰nen sielunsa sielt‰.
+N‰in jumalatkin kunnioittavat sit‰ puhdasta innostusta, jonka rakkaus
+synnytt‰‰. Mutta Orpheuksen,[11] Oiagroksen pojan, antoivat he tyhjin
+toimin poistua Hadeksesta, n‰ytetty‰‰n h‰nelle valekuvan h‰nen
+vaimostaan, jota varten h‰n oli tullut, mutta antamatta h‰nelle t‰t‰
+itse‰‰n, koska h‰n n‰ytti olevan hempe‰, kuten kitaransoittaja ainakin,
+eik‰ rohkenevan rakkautensa takia kuolla, kuten Alkestis, vaan el‰v‰n‰
+pyrkiv‰n Hadekseen. Sent‰hden he s‰‰siv‰t h‰nelle tuomion ja antoivat
+h‰nen kuolla naisten k‰tten kautta, eiv‰tk‰ kunnioittaneet h‰nt‰ kuten
+Akhilleusta, Thetiksen poikaa, jonka he l‰hettiv‰t autuaitten saarille,
+koska h‰n kuultuaan ‰idilt‰‰n, ett‰ kuolisi, jos tappaisi Hektorin,
+mutta jollei tappaisi t‰t‰, voisi palata kotiansa ja kuolla korkeassa
+i‰ss‰, uskalsi mieluummin rient‰‰ yst‰v‰ns‰ avuksi ja kostaa h‰net ja
+niin ei ainoastaan kuolla h‰nen puolestaan, vaan myˆskin seurata h‰nt‰
+kuolemaan. Aiskhylos lˆrpˆttelee sanoessaan, ett‰ Akhilleus oli
+Patrokloksen rakastaja. Akhilleushan ei ollut ainoastaan Patroklosta
+vaan kaikkia sankareita kauniimpi ja viel‰ parraton sek‰ Homeroksen
+sanojen mukaan paljoa nuorempi. Sill‰ vaikka jumalat todellisuudessa
+pit‰v‰t suurimmassa arvossa rakkauden hyvett‰, niin he kuitenkin
+enemm‰n ihailevat, kunnioittavat ja tekev‰t hyv‰‰, kun lemmikki
+rakastaa rakastajaansa kuin kun rakastaja rakastaa lemmikki‰. Sill‰
+rakastaja on jotakin jumalallisempaa kuin lemmikki. H‰ness‰ asuu n‰et
+jumala. Sentakia he Akhilleustakin kunnioittivat enemm‰n kuin
+Alkestista l‰hett‰ess‰‰n h‰net autuaitten saarille.
+
+"Niin min‰ siis v‰it‰n, ett‰ Eros on jumalista sek‰ vanhin ett‰ jaloin
+ja mahtavin hankkimaan hyveen ja onnen omistuksen ihmisille, niin hyvin
+el‰ville kuin kuolleillekin."
+
+Jotenkin t‰h‰n suuntaan h‰n kertoi Phaidroksen puhuneen ja sen j‰lkeen
+esiintyneen joidenkuiden muiden, joiden puheita h‰n ei tarkoin
+muistanut. H‰n sivuutti ne ja esitti Pausaniaan lausunnon. T‰m‰ taas
+sanoi: "Minusta teht‰v‰mme ei ole hyvin m‰‰ritelty, Phaidros, kun me
+noin vaan ilman muuta olemme saaneet k‰skyn ylist‰‰ Erosta. Jos Eros
+olisi vain yksi, olisi kaikki hyvin, mutta nyt ei Eros ole vain yksi.
+Ja kun h‰n ei ole vain yksi, on oikeampaa edelt‰p‰in ilmoittaa, kumpaa
+tulee ylist‰‰.
+
+"Min‰ koetan nyt oikaista t‰m‰n ja ensin osoittaa, mit‰ Erosta tulee
+ylist‰‰, ja sitten ylist‰‰ jumalaa h‰nen arvonsa mukaisesti. Sill‰ me
+kaikki tied‰mme, ettei ole Aphroditea ilman Erosta. Jos taas olisi vain
+yksi Aphrodite, olisi Eroskin yksi. Mutta koska kerran on olemassa
+kaksi Aphroditea, t‰ytyy olla kaksi Erostakin. Mutta miksi ei
+jumalattaria olisi kaksi? Toinenhan on vanhempi ja ‰iditˆn Uranoksen
+(taivaan) tyt‰r, jota me nimit‰mmekin taivaalliseksi. Nuorempi taas on
+Zeun ja Dionen[12] tyt‰r ja h‰nt‰ me kutsumme yleiseksi. V‰ltt‰m‰tt‰ on
+siis sit‰ Erosta, joka on viimeksi mainitun apulainen, kutsuttava
+oikealla nimell‰ yleiseksi, edellist‰ taivaalliseksi. Tosin kaikkia
+jumalia tulee ylist‰‰; mutta on koetettava lausua, mit‰ kummallekin
+(Erokselle) on ominaista. Sill‰ jokaisen teon luonne on sellainen,
+ettei teko viel‰ itsess‰‰n ole kaunis eik‰ h‰pe‰llinen. Niinp‰ siit‰,
+mit‰ nyt teemme, joko juomme tai laulamme tai keskustelemme, ei mik‰‰n
+itsess‰‰n ole kaunista, vaan sen suorituksessa, siin‰ tavassa miten se
+suoritetaan, se tulee sellaiseksi. Sill‰ jos se tehd‰‰n kauniisti ja
+oikein, tulee se kauniiksi, jos taas v‰‰rin, h‰pe‰lliseksi. N‰in on
+rakastamisenkin laita, eik‰ jokainen Eros ole kaunis ja ylist‰misen
+arvoinen, vaan ainoastaan se, joka johdattaa kauniisti rakastamaan.
+
+"Yleisen Aphroditen Eros on totisesti yleinen ja tekee, mit‰ sattuu. Ja
+t‰t‰ rakastavat kehnot ihmiset. N‰m‰ t‰llaiset rakastavat ensiksi yht‰
+paljon naisia kuin poikia, ja edelleen, ket‰ he rakastavatkin, he
+enemm‰n rakastavat ruumista kuin sielua, edelleen, mik‰li voivat,
+j‰rjettˆmimpi‰, pit‰en silm‰ll‰ ainoastaan halunsa tyydytt‰mist‰,
+v‰litt‰m‰tt‰ siit‰, tapahtuuko se kauniisti vai eikˆ. Sent‰hden k‰ykin
+heid‰n niin, ett‰ he tekev‰t, mit‰ heid‰n eteens‰ kulloinkin sattuu,
+samalla tapaa hyv‰‰ kuin sen vastakohtaa. Sill‰ onhan t‰m‰ Eros
+syntyisin siit‰ jumalattaresta, joka sek‰ on paljoa nuorempi kuin
+toinen ett‰ syntym‰ss‰‰n osallinen sek‰ nais- ett‰ miessukupuolesta.
+Taivaallisen Aphroditen Eros taas on jumalattaresta, joka ensiksi ei
+ole osallinen naissukupuolesta, vaan ainoastaan miessukupuolesta --
+siit‰ poikarakkaus -- ja toiseksi on vanhempi, vapaa rikoksesta.
+Sentakia t‰m‰n Eroksen innoittamat k‰‰ntyv‰t miehisen suvun puoleen,
+rakastaen sit‰, mik‰ on luonnostaan voimakkaampaa ja mill‰ on enemm‰n
+j‰rke‰. Ja itse poikarakkaudessakin saattaisi tuntea ne, jotka ovat
+puhtaasti t‰m‰n Eroksen kiihoittamia. Sill‰ he eiv‰t rakasta n‰it‰
+heid‰n poikai‰ss‰ ollessaan, vaan vasta sitten, kun heill‰ alkaa olla
+j‰rke‰. T‰m‰ taas lankeaa l‰heisesti yhteen ensi parrankasvun kanssa.
+Ne, jotka t‰st‰ ajankohdasta alkavat rakastaa, ovat luullakseni valmiit
+koko elini‰n olemaan ja el‰m‰‰n yhdess‰, mutta eiv‰t, kun ovat
+valloittaneet jonkun, joka on nuori ja ymm‰rt‰m‰tˆn, pett‰m‰‰n ja
+pilkkaamaan h‰nt‰ ja sitten poistumaan h‰nen luotaan ja juoksemaan
+toisen luo. Pit‰isi olla laki, joka kielt‰isi rakastamasta lapsia,
+jottei niin paljon vaivann‰kˆ‰ tuhlattaisi ep‰varmaan tarkoitukseen.
+Sill‰ lapsiin n‰hden on lopputulos ep‰varma, mihin se p‰‰ttyy, sielun
+ja ruumiin huonouteenko vai hyveeseen. Hyv‰t tosin asettavat itse
+itselleen vapaaehtoisesti t‰m‰n lain, mutta tulisi myˆs n‰it‰ yleisi‰
+rakastajia pakottaa t‰llaiseen, kuten pakotamme voimaimme mukaan heit‰
+olemaan rakastamatta vapaita naisiakin. Sill‰ n‰m‰ ne ovat
+aikaansaaneet sellaisen h‰pe‰n, ett‰ jotkut tohtivat sanoa, ett‰ on
+h‰pe‰llist‰ antautua rakastajille. He sanovat n‰in pit‰m‰ll‰ n‰it‰
+silm‰ll‰ n‰hdess‰‰n heid‰n tahdittomuutensa ja ep‰siveellisyytens‰,
+sill‰ eih‰n toki mik‰‰n teko, joka suoritetaan tahdikkaasti ja
+siveellisesti, voi oikeudenmukaisesti saada osakseen moitetta. Ja
+rakkauteen n‰hden voimassa oleva siveyslaki on muissa valtioissa helppo
+tuntea. Se sis‰lt‰‰ nimitt‰in yksinkertaisia m‰‰r‰yksi‰. Mutta t‰‰ll‰
+ja Lakedaimonissa voimassaoleva on monimutkainen. Sill‰ Eliiss‰ ja
+Boiotiassa ja siell‰, miss‰ ei olla taitavia puhujia, on
+yksinkertaisesti hyv‰ksytty, ett‰ rakastajille mieliksi olo on
+kaunista, eik‰ kukaan, ei nuori eik‰ vanha, sanoisi t‰t‰ h‰pe‰lliseksi,
+luullakseni sen takia, ettei kenenk‰‰n tarvitsisi n‰hd‰ vaivaa
+koettamalla sanoilla taivuttaa nuoria, huonoja puhujia kun he ovat.
+Ioniassa ja monessa muussa seudussa, miss‰ vain asukkaat ovat barbarien
+vallan alaisia, pidet‰‰n t‰t‰ tapaa h‰pe‰llisen‰. Sill‰ barbareille on
+t‰m‰ rajattoman itsevaltiuden johdosta h‰pe‰llist‰ samoin kuin myˆs
+pyrkimys viisauteen ja ruumiin jalostamiseen. Hallitseville ei n‰et
+k‰sitt‰‰kseni ole hyˆdyksi, ett‰ suuria ajatuksia syntyy hallittavissa
+ja lujia yst‰vyyssuhteita ja liittoja, mit‰ etup‰‰ss‰ varsinkin rakkaus
+tavallisesti saa aikaan. Kokemuksesta ovat t‰m‰n saaneet tuta
+t‰k‰l‰isetkin tyrannit. Sill‰ Aristogeitonin ja Harmodioksen[13]
+yst‰vyys mursi tultuaan lujaksi heid‰n valtansa. Miss‰ siis on s‰‰detty
+h‰pe‰lliseksi noudattaa rakastajain mielt‰, johtuu se s‰‰t‰jien
+huonoudesta, nimitt‰in toiselta puolen hallitsevien itsekkyydest‰,
+toiselta puolen hallittavien miehuuttomuudesta. Miss‰ t‰m‰ taas
+yksinkertaisesti on s‰‰detty kauniiksi, on se tapahtunut s‰‰t‰jien
+henkisen hitauden takia. T‰‰ll‰ taas on n‰it‰ paljoa kauniimpi periaate
+saanut hyv‰ksymisen, vaikka, kuten sanoin, se ei ole helposti
+tajuttavissa.
+
+"Sill‰ (sellaiselta asianlaita n‰ytt‰‰) jos ajattelemme,[14] ett‰
+sanotaan kauniimmaksi rakastamista julkisesti kuin salaa, ja ennen
+kaikkea jaloimpien ja parhaitten rakastamista, olkootpa he muita
+rumempiakin, ja ett‰ rakastajalle tulee kaikkien taholta osaksi
+rohkaisua ihmetelt‰v‰ss‰ m‰‰r‰ss‰, koska h‰n ei n‰yt‰ tekev‰n mit‰‰n
+h‰pe‰llist‰, ja ett‰ rakastetun voittaminen tuntuu kauniilta,
+ep‰onnistuminen h‰nen valloittamisessaan h‰pe‰lliselt‰, ja ett‰
+siveyslaki sallii rakastajan valloittamisyrityksiss‰‰n tehd‰
+ihmeellisi‰ tekoja ja sittenkin saada kiitosta, sellaisia tekoja, ett‰
+jos joku tohtisi tehd‰ niit‰ miss‰ muussa tarkoituksessa tahansa ja
+saavuttaa pyrkiess‰‰n mihin muuhun tahansa kuin t‰h‰n, h‰n korjaisi
+itselleen filosofian mit‰ ankarimmat moitteet. Sill‰ jos joku joko
+tahtoessaan saada joltakulta rahoja tai pyrkiess‰‰n virkaan tai
+valta-asemaan tahtoisi tehd‰ samoin kuin rakastajat lemmikeilleen, kun
+he kerj‰ten ja apua anoen rukoilevat n‰it‰, vannovat valoja, makaavat
+ovien edess‰, ja tahtovat alistua orjuuteen, jollaiseen ei yksik‰‰n
+orja antautuisi, niin est‰isiv‰t h‰nt‰ t‰llaisesta menettelyst‰ sek‰
+yst‰v‰t ett‰ viholliset, j‰lkim‰iset herjaamalla h‰nt‰ imartelijaksi ja
+ep‰vapaaksi, edelliset varoittamalla h‰nt‰ ja h‰pe‰m‰ll‰ h‰nen
+t‰htens‰. Mutta jos rakastaja tekee kaikkea t‰t‰, seuraa h‰nt‰
+arvonanto, ja vallitseva siveyslaki sallii h‰nen n‰in tehd‰ ilman
+moitetta, koska h‰nen katsotaan harjoittavan jotakin perin kaunista
+tyˆt‰. Ja mik‰ on t‰rkeint‰, suuren yleisˆn sanojen mukaan h‰n yksin,
+jos tekee valan, saa jumalilta anteeksiannon, jos on valansa rikkonut.
+Sill‰ rakkausvalan ei sanota olevan mik‰‰n vala. N‰in sek‰ jumalat ett‰
+ihmiset ovat antaneet rakastavalle t‰yden vapauden t‰k‰l‰isen
+siveyslain mukaan.
+
+"T‰m‰n mukaan saattaisi siis luulla, ett‰ t‰ss‰ valtiossamme pidet‰‰n
+perin kauniina sek‰ rakastamista ett‰ hell‰‰ suhdetta rakastajiin.
+Mutta kun is‰t asettavat rakastetuille kaitsijoita eiv‰tk‰ salli
+rakastajain seurustella heid‰n kanssaan, ja t‰llainen m‰‰r‰ys on
+annettu kaitsijalle, kun samanik‰iset ja yst‰v‰t herjaavat, jos n‰kev‰t
+jotakin t‰llaista tapahtuvan, eiv‰tk‰ vanhemmat ihmiset taasen n‰it‰
+herjaajia t‰st‰ est‰ eiv‰tk‰ moiti heit‰ siit‰, ett‰ puhuisivat v‰‰rin,
+t‰t‰ taas silm‰ll‰ pit‰en saattaisi p‰invastoin luulla t‰llaista
+pidett‰v‰n t‰‰ll‰ mit‰ h‰pe‰llisimp‰n‰. Asianlaita on luullakseni t‰m‰.
+Asia ei ole, kuten alunpit‰en sanottiin, yksinkertaisesti sellainen,
+ett‰ se sin‰ns‰ olisi itsess‰‰n kaunista tai h‰pe‰llist‰, vaan se on
+kauniisti harjoitettuna kaunista, h‰pe‰llisesti harjoitettuna taas
+h‰pe‰llist‰. H‰pe‰llisesti sit‰ harjoitetaan, jos antaudutaan huonolle
+huonolla tavalla, kauniisti taas, jos antaudutaan kelvolliselle
+kauniilla tavalla. Huono taas on tuo yleinen rakastaja, joka rakastaa
+enemm‰n ruumista kuin sielua, sill‰ h‰n ei ole edes kest‰v‰, koska h‰n
+ei rakasta mit‰‰n pysyv‰‰ asiaa. Sill‰ kun ruumiin kukoistus, jota h‰n
+on rakastanut, lakkaa, lent‰‰ h‰n pois saattaen h‰pe‰‰n monet puheensa
+ja lupauksensa. Mutta se rakastaja, joka rakastaa luonnetta, joka on
+hyv‰, pysyy l‰pi el‰m‰n, koska h‰n on sulautunut pysyv‰iseen. N‰m‰
+tahtoo meid‰n siveyslakimme saattaa oivallisen ja tarkan koettelemisen
+alaisiksi, toisille olemaan mieliksi, toisia taas v‰ltt‰m‰‰n. Siksip‰
+se kehoittaa toisia (rakastajia) ajamaan takaa, toisia (rakastettuja)
+taas pakenemaan, kilpailulla koettaen saattaa selv‰ksi, kumpaan
+luokkaan rakastaja kuuluu ja kumpaan rakastettu. Niin siis on t‰m‰n
+syyn takia katsottu h‰pe‰lliseksi joutua nopeasti valloitetuksi, jotta
+olisi aikaa, joka n‰ytt‰‰ useat asiat hyvin tutkivan. Edelleen on
+h‰pe‰llist‰ antautua varojen tai valtiollisen mahtiaseman takia, joko
+sitten joku vastoink‰ymisest‰ masentuu eik‰ pysy lujana tai
+vastaansanomatta sallii itse‰‰n autettavan varallisuuteen tai
+toteuttamaan valtiollisia suunnitelmiaan. Sill‰ ei mik‰‰n t‰llainen
+suhde n‰yt‰ olevan luja eik‰ pysyv‰inen, siit‰ puhumattakaan, ettei
+t‰llaisesta synny jaloa yst‰vyyssuhdetta. Yksi tie meid‰n siveyslakimme
+mukaan j‰‰, jos lemmikki tahtoo kauniisti miellytt‰‰ rakastajaansa.
+Sill‰ samoinkuin siveyslakimme mukaan rakastajiin n‰hden oli voimassa
+se katsantotapa, ettei millaisten palvelusten teko tahansa lemmikille
+ole liehakoimista eik‰ moitittavaa, samoin on toiselta puolen vain yksi
+tapa palvella mahdollinen, vapaaehtoinen palveleminen, joka ei tuota
+moitetta. Ja t‰m‰ tarkoittaa hyvett‰.
+
+"Se katsantokanta on n‰et meid‰n keskuudessamme p‰‰ssyt vallitsemaan,
+ett‰ jos joku tahtoo palvella jotakuta luullen tulevansa h‰nen avullaan
+paremmaksi joko viisaudessa tai muussa lajissa hyvett‰, t‰m‰
+vapaaehtoinen palvelus ei ole h‰pe‰llist‰ eik‰ liehakoimista. N‰m‰
+molemmat katsantokannat, sek‰ se, joka koskee poikarakkautta, ett‰ se,
+joka koskee viisauden harjoitusta ja muuta hyvett‰, tulee yhdist‰‰
+samaksi, jos mieli saada syntym‰‰n se johtop‰‰tˆs, ett‰ on kaunista
+lemmikin antautua rakastajalleen. Sill‰ kun rakastaja ja lemmikki
+tulevat yhteen ja kummallakin on vakaumuksensa, edellisell‰ se, ett‰
+h‰n kaikella mahdollisella tavalla palvellessaan lemmikki‰, joka on
+tehnyt h‰nelle mieliksi, suorittaa oikeita palveluksia, j‰lkim‰isell‰
+taas se, ett‰ on oikein, ett‰ h‰n kaikin tavoin on kuuliainen h‰nelle,
+joka tekee h‰net viisaaksi ja hyv‰ksi, ja kun toinen on kykenev‰
+auttamaan viisauteen ja hyveeseen, toinen taas pyrkii hankkimaan
+sivistyst‰ ja muuta viisautta, silloin kun n‰m‰ molemmat vakaumukset
+yhtyv‰t, vain silloin k‰y mahdolliseksi, ett‰ on kaunista lemmikin
+antautua rakastajalleen, mutta miss‰‰n muussa tapauksessa ei. T‰ss‰
+tapauksessa ei edes petetyksi joutuminen ole mitenk‰‰n h‰pe‰llist‰,
+mutta kaikissa muissa tapauksissa tuottaa t‰llainen suhde h‰pe‰‰,
+joutukoonpa joku petetyksi tai ei. Sill‰ jos joku on antautunut
+rakastajalle siin‰ luulossa, ett‰ h‰n on rikas ja sitten joutunut
+petetyksi eik‰ ole saanutkaan rahoja, koska rakastaja on osoittautunut
+kˆyh‰ksi, ei se ole yht‰‰n v‰hemm‰n h‰pe‰llist‰. Sill‰ t‰llainen
+ihminen tuntuu kuitenkin paljastaneen luonteensa laadun, ett‰ h‰n
+nimitt‰in rahojen takia on valmis palvelemaan ket‰ hyv‰ns‰ miten
+hyv‰ns‰, ja se ei ole kaunista. Mutta jos samalla tavalla joku on
+antautunut jollekulle siin‰ luulossa, ett‰ t‰m‰ on hyv‰, ja tahtoen
+tulla paremmaksi rakastajan yst‰vyyden kautta, ja joutunut petetyksi,
+kun on k‰ynyt ilmi, ett‰ t‰m‰ on huono ja hyvett‰ vailla, niin
+pettyminen on kuitenkin kaunista. Sill‰ t‰m‰kin tuntuu ilmaisseen oman
+luonteensa laadun, sen, ett‰ h‰n hyveen vuoksi ja paremmaksi tullakseen
+on kaikille valmis kaikkeen, ja t‰m‰ taas on kaikkein kauneinta. Niin
+on siis kaikin tavoin kaunista hyveen takia antautua.
+
+"T‰m‰ rakkaus on taivaallisen jumalattaren Eros, joka on sek‰
+taivaallinen ett‰ suurenarvoinen niin hyvin valtiolle kuin
+yksityisille, se kun pakottaa sek‰ rakastajan ett‰ rakastetun pit‰m‰‰n
+suurta huolta itsest‰‰n hyveen saavuttamiseksi. Kaikki muu rakkaus on
+kotoisin tuosta toisesta jumalattaresta, yleisest‰ Aphroditesta.
+
+"T‰m‰ on, Phaidros", sanoi h‰n, "esitykseni Eroksesta, sellaisena kuin
+sen valmistumattomana olen voinut pit‰‰."
+
+Kun Pausaniaan puhetta oli seurannut paussi, -- n‰in n‰et opettavat
+oppineet minua puhuessani k‰ytt‰m‰‰n samanlaisia ‰‰nteit‰ -- olisi
+Aristophaneen -- sanoi Aristodemos -- pit‰nyt puhua. Mutta h‰neen oli
+sattumalta joko kyll‰isyydest‰ tai jostakin muusta syyst‰ iskenyt
+nikotus eik‰ h‰n kyennyt puhumaan, vaan sanoi -- h‰nt‰ alempana h‰nen
+vierell‰‰n n‰et lep‰si l‰‰k‰ri Eryximakhos --: "Oi -- Eryximakhos --
+sinun velvollisuutesi on joko -- p‰‰st‰‰ minut -- nikotuksesta -- tai
+puhua minun puolestani, kunnes min‰ itse -- siit‰ p‰‰sen." Eryximakhos
+sanoi: "Min‰ teen n‰m‰ molemmat, sill‰ min‰ puhun sinun vuorollasi,
+sin‰ taas, kun p‰‰set vaivastasi, minun vuorollani. Ja jos sin‰ sill‰
+aikaa kun min‰ puhun, hyv‰n ajan pid‰t‰t henke‰si, niin kenties nikotus
+lakkaa, jollei, huuhdo se vedell‰ pois. Mutta jos se on kovin
+itsepintainen, niin ota jotakin, jolla voit ‰rsytt‰‰ sieraimiasi, ja
+aivasta. Ja jos niin teet kerran tai kahdesti, niin lakkaa se, olkoonpa
+se hyvinkin itsepintainen." -- "Kiirehdi puhumaan", vastasi
+Aristophanes; "min‰ teen siten."
+
+Eryximakhos lausui: "Minusta n‰ytt‰‰ v‰ltt‰m‰ttˆm‰lt‰, ett‰ koska
+Pausanias sai kauniin alun puheeseensa, mutta ei sit‰ tyydytt‰v‰sti
+lopettanut, minun tulee laatia puheeseen loppu. Sill‰ selitt‰ess‰‰n
+Eroksen olevan kaksinaisen, n‰ytt‰‰ h‰n minusta tehneen aivan oikean
+jaoituksen. Mutta ett‰ se ei ole ainoastaan ihmisten sieluissa ja
+kohdistu kauneihin ihmisiin, vaan ett‰ se suuntautuen paljoon muuhun,
+asuu muussakin, sek‰ kaikkien el‰inten ruumiissa ett‰ siin‰, mik‰
+maassa kasvaa, sanalla sanoen kaikessa olevaisessa, sen luulen
+havainneeni meid‰n ammatistamme, l‰‰ketaidosta, sek‰ kuinka suuri ja
+ihmeellinen jumala on, ja miten h‰nen vaikutuksensa ulottuu kaikkeen,
+mit‰ niin hyvin ihmiset kuin jumalat tekev‰t. Ja min‰ alan puheeni
+l‰‰ketaidosta, saattaakseni myˆskin ammattini kunniaan.
+
+"Ruumiin olemuksessa on t‰m‰ kaksinainen Eros. Sill‰ ruumiin terve tila
+on tunnustetusti toista ja erinkaltaista kuin sen sairas tila, ja
+erinkaltainen tavoittelee ja rakastaa erinkaltaista. Sill‰ toista on
+rakkaus terveess‰, toista sairaassa. Ja varmasti on, kuten Pausanias
+‰sken sanoi olevan kaunista tehd‰ mieliksi hyville ihmisille, mutta
+h‰pe‰llist‰ suostua kurittomille, samaten myˆs itse ruumiiseen n‰hden
+kaunista tyydytt‰‰ ja tuleekin tyydytt‰‰ jokaisen ruumiin hyvi‰ ja
+terveit‰ osia, ja t‰t‰ juuri nimitys l‰‰ketaito tarkoittaa; mutta
+huonoihin ja sairaihin osiin suostuminen on h‰pe‰llist‰ eik‰ tule niit‰
+tyydytt‰‰, jos mieli olla etev‰ ammattimies. Sill‰ l‰‰ketaito on,
+lausuakseni asian ytimen, tietoa siit‰, mit‰ ruumis rakastaa
+t‰yttymiseen ja tyhjenemiseen n‰hden, ja se, joka t‰ss‰ eroittaa
+toisistaan kauniin ja h‰pe‰llisen rakkauden, h‰n on taitavin l‰‰k‰ri,
+ja se, joka aikaansaa vaihdoksen, niin ett‰ toisen rakkauden asemasta
+omaksutaan toinen, ja se, joka ymm‰rt‰‰ synnytt‰‰ rakkautta, miss‰ sit‰
+ei ole, mutta miss‰ sit‰ tulisi olla, tai ottaa sen pois, miss‰ sit‰
+on, h‰n olisi oivallinen ammattimies. Sill‰ ne voimat, mitk‰ ruumiissa
+ovat toisilleen vihamielisimpi‰, on osattava saattaa toisilleen
+yst‰v‰llisiksi ja rakastamaan toinen toistaan. Ja vihamielisimpi‰ ovat
+toisilleen enimm‰n vastakkaiset ominaisuudet, kuten kylm‰ l‰mpim‰lle,
+katkera makealle, kuiva kostealle, ja kaikki sentapaiset. Ymm‰rt‰m‰ll‰
+n‰iss‰ synnytt‰‰ rakkautta ja sopua on meid‰n esi-is‰mme Asklepios,
+kuten n‰m‰ meid‰n runoilijamme v‰itt‰v‰t ja min‰kin uskon, perustanut
+t‰m‰n meid‰n tieteemme. L‰‰ketaitoa siis ohjaa, kuten sanottu, kokonaan
+t‰m‰ jumala, samoin kuin ruumiin harjoitusta ja maanviljelyst‰. Mit‰
+taas s‰veltaiteeseen tulee, on jokaiselle, joka hiukankin on asiaa
+ajatellut, ilmeist‰, ett‰ sen laita on sama kuin n‰iden, kuten ehk‰
+Herakleitoskin[15] tahtoo sanoa; sill‰ h‰nen sanontatapansa ei ole
+sattuva. H‰n n‰et v‰itt‰‰, ett‰ ykseys itsess‰‰n eroaa ja itseens‰
+yhdistyy, kuten jousen ja lyran harmonia. Mutta on suurta
+j‰rjettˆmyytt‰ v‰itt‰‰, ett‰ harmonia eroaa tai ett‰ se on yh‰ viel‰
+eroavaisista s‰velist‰ kokoonpantu. Kenties h‰n onkin tahtonut sanoa,
+ett‰ harmonia on syntynyt ennen toisistaan eroavaisista korkeasta ja
+matalasta s‰velest‰, jotka sitten s‰veltaiteen vaikutuksesta myˆhemmin
+ovat yhtyneet yhdeksi. Sill‰ eih‰n mitenk‰‰n voi yh‰ edelleen
+toisistaan eroavasta korkeasta ja matalasta s‰velest‰ synty‰ harmoniaa.
+Onhan harmonia yhteensointumista, yhteen sointuminen taas on
+yhteensoveltumista. Mutta toisistaan eroavaisten asiain
+yhteensoveltuminen, niin kauan kuin ne viel‰ eroavat toisistaan, on
+mahdottomuus. Ja erinkaltaisen ja yhteensoveltumattoman on mahdoton
+sointua yhteen, kuten rytmikin on syntynyt nopeasta ja hitaasta
+tahdista, jotka ennen ovat eronneet toisistaan, mutta sittemmin
+sopeutuneet yhteen. Mutta yhteensoveltumisen saa aikaan kaikissa
+n‰iss‰, kuten ‰sken mainitsemallani alalla l‰‰ketiede, t‰ll‰ alalla
+s‰veltaide, synnytt‰ess‰‰n niiden kesken rakkautta ja sopua. Ja
+s‰veltaide onkin rakkauden tuntemista sill‰ alalla, jonka muodostavat
+harmonia ja rytmi. Itse harmonian ja rytmin olemuksessa taas ei ole
+lainkaan vaikeata havaita rakkauden ilmenemist‰, ja t‰ll‰ alalla ei
+kaksinainen Eros esiinny. Mutta kun ihmisten kesken on sovellutettava
+rytmi‰ ja harmoniaa joko sepitt‰m‰ll‰, mit‰ kutsutaan s‰vellykseksi tai
+oikein k‰ytt‰m‰ll‰ s‰velmi‰ ja s‰veltahteja, mit‰ kutsutaan
+esitykseksi, silloin syntyy vaikeuksia ja hyv‰ taiteilija on tarpeen.
+J‰lleen toteutuu sama ajatus, ett‰ tulee noudattaa siveellisten
+ihmisten tahtoa ja sill‰ tavoin, ett‰ ne, jotka viel‰ eiv‰t ole
+siveellisi‰, sellaisiksi tulisivat yh‰ enemm‰n, ja ett‰ tulee s‰ilytt‰‰
+n‰iden rakkaus; t‰ss‰ meill‰ on tuo kaunis, taivaallinen rakkaus,
+Urania runottaren Eros. Mutta toinen, Polyhymnian[16] Eros, on yleinen
+Eros; ja sit‰ tulee varovaisesti sovelluttaa, mihin sit‰ sovelluttaa,
+jotta tosin voisi korjata siit‰ nautintoa silti vajoamatta
+hillittˆmyyteen, kuten meid‰n ammatissamme on suuri vaikeus hyvin
+suhtautua niihin himoihin, jotka kohdistuvat keittotaitoon, niin ett‰
+ilman sairautta voi niitt‰‰ nautintoa. S‰veltaiteessa ja l‰‰ketieteess‰
+ja kaikilla muilla sek‰ inhimillisill‰ ett‰ jumalallisilla aloilla on
+niin paljon kuin mahdollista kumpaankin Erokseen kiinnitett‰v‰
+huomiota. Sill‰ ne molemmat ovat niiss‰ olemassa.
+
+"Onhan myˆskin vuodenaikojen j‰rjestys n‰iden molempien l‰pitunkema. Ja
+kun ne tilat, jotka juuri mainitsin, l‰mmin ja kylm‰ sek‰ kuiva ja
+kostea tulevat osallisiksi siveellisest‰ rakkaudesta toinen toiseensa,
+ja saavuttavat oikean harmonian ja oikein sekaantuvat toisiinsa, niin
+ne tuovat tullessaan runsaan sadon ja terveyden ihmisille ja muille
+el‰ville olennoille ja kasveille eiv‰tk‰ aikaansaa mit‰‰n vahinkoa.
+Mutta kun hillitˆn Eros p‰‰see eri vuodenaikoina voitolle, tuottaa se
+paljon tuhoa ja vahinkoa. Sill‰ rutot tavallisesti syntyv‰t
+t‰m‰ntapaisista syist‰ ja monet muut samanlaiset taudit sek‰ el‰imiss‰
+ett‰ kasveissa. Sill‰ kuura, rakeet ja kasvihome syntyv‰t t‰llaisten
+rakkauden voimien itsekkyydest‰ ja hillittˆmyydest‰ toisiinsa n‰hden,
+voimien, joitten tuntemista t‰htien liikunnossa ja vuodenaikojen
+vaihtelussa kutsutaan t‰htitieteeksi.
+
+"Edelleen sek‰ uhrit ett‰ kaikki se, mik‰ kuuluu ennustustaidon piiriin
+-- ja t‰m‰h‰n on jumalien ja ihmisten keskeist‰ vuorovaikutusta -- ovat
+olemukseltaan yksinomaan rakkauden suojelemista ja hoivaamista. Sill‰
+kaikki jumalattomuus syntyy tavallisesti siit‰, ett‰ joku ei palvele
+siveellist‰ Erosta eik‰ kunnioita ja arvossapid‰ h‰nt‰ kaikissa
+teoissaan, vaan palvelee tuota toista sek‰ suhteessaan vanhempiinsa,
+niin hyvin heid‰n el‰ess‰‰n kuin heid‰n kuoltuaankin, ett‰ suhteessaan
+jumaliin. Ennustustaidon teht‰v‰n‰ on tarkata molempia Eroksia ja
+hoivata niit‰. Ja ennustustaito on jumalien ja ihmisten keskisen
+yst‰vyyden synnytt‰j‰ sen tuntemuksen kautta, mik‰ sill‰ on ihmisiss‰
+vallitsevista rakkauden voimista, jotka t‰ht‰‰v‰t hurskauteen ja
+jumalattomuuteen. N‰in monipuolinen ja suuri voima, tai oikeammin
+kaikki voima, on Eroksella kokonaisuudessaan. Mutta sill‰ Eroksella,
+joka vaikuttaa hyv‰n piiriss‰ kohtuullisena ja oikeamielisen‰ sek‰
+meid‰n ett‰ jumalien keskuudessa, sill‰ on suurin voima ja se valmistaa
+meille kaikkea onnellisuutta, niin ett‰ me voimme seurustella
+yst‰vyydess‰ toistemme kanssa samoinkuin meit‰ mahtavampien -- jumalien
+-- kanssa.
+
+"Kenties olen min‰ ylist‰ess‰ni Erosta j‰tt‰nyt paljon mainitsematta,
+mutta en ainakaan tieten tahtoen. Mutta jos olen j‰tt‰nyt jotakin pois,
+on sinun asiasi, Aristophanes, t‰ydent‰‰ puhettani. Tai jos jollakin
+muulla tavalla aiot julistaa jumalan kunniaa, niin julista, koska olet
+p‰‰ssyt nikotuksesta."
+
+Aristophanes puuttui nyt -- niin kertoi Aristodemos -- puhumaan ja
+lausui: "Kyll‰ se nyt lakkasi, mutta ei kumminkaan ennen kuin olin
+k‰ytt‰nyt sit‰ vastaan aivastusta, niin ett‰ minua ihmetytt‰‰,
+tarvitseeko ruumiin siveellinen puoli sellaista meteli‰ ja sellaisia
+kutkutuksia kuin aivastus on. Sill‰ se lakkasi aivan paikalla, kun
+k‰ytin aivastusta sit‰ vastaan." Eryximakhos sanoi: "Hyv‰ Aristophanes,
+katso, mit‰ teet! Sin‰ teet pilaa, vaikka sinun pit‰isi puhua, ja
+pakoitat minun ryhtym‰‰n sanojesi vartiaksi sen varalta, ett‰ sanot
+jotakin naurettavaa, vaikka sinun olisi tilaisuus puhua rauhassa."
+Aristophanes lausui nauraen: "Oikein puhuttu, Eryximakhos, ja olkoot
+sanani mit‰ttˆm‰t! Mutta ‰l‰ vartioitse minua, min‰ kun pelk‰‰n sen
+puolesta, mit‰ aion puhua, en sit‰, ett‰ sanon jotakin, joka her‰tt‰‰
+naurua -- seh‰n olisi etu ja minun runottareni mukaista, vaan ett‰
+sanon sellaista, joka tekee minut naurettavaksi." -- "Luuletko,
+Aristophanes", sanoi toinen, "p‰‰sev‰si pakoon, kun kerran olet
+ampunut? Mutta ole nyt tarkkana ja puhu niin, kuin sinun pit‰isi
+vastata sanoistasi! Kenties kuitenkin, jos hyv‰ksi n‰en, min‰ vapautan
+sinut."
+
+"Varmasti, Eryximakhos", sanoi Aristophanes, "aion puhua hieman toiseen
+tapaan kuin sin‰ ja Pausanias puhuitte. Sill‰ minusta n‰ytt‰‰ silt‰,
+etteiv‰t ihmiset ylip‰‰t‰‰n ole huomanneet Eroksen mahtia. Jos he n‰et
+sen olisivat huomanneet, olisivat he h‰nelle pystytt‰neet suurimmat
+temppelit ja alttarit ja valmistaneet h‰nelle suurimmat uhrit, eiv‰tk‰
+olisi asiat kuten nyt, jolloin ei mit‰‰n kaikesta t‰st‰ h‰nelle
+tapahdu, vaikka niin pit‰isi ennen kaikkea teht‰m‰n. Sill‰ h‰n on
+jumalista suurin ihmisyst‰v‰, ollen ihmisten sek‰ auttaja ett‰ l‰‰k‰ri
+siin‰, mink‰ parantaminen saattaisi synnytt‰‰ suurimman onnen
+ihmissuvulle. Min‰ koetan siis teille esitt‰‰ h‰nen mahtinsa, ja te
+saatte olla muitten opettajia. Mutta ensiksi tulee teid‰n oppia
+tuntemaan inhimillinen luonto ja ne vaiheet, mit‰ se on kokenut. Sill‰
+meid‰n luontomme ei muinoin ollut sama kuin nyt, vaan toisenlainen.
+Ensiksi n‰et oli kolme ihmissukupuolta, ei kuten nyt, kaksi, miehinen
+ja naissukupuoli, vaan niiden lis‰ksi oli kolmaskin, joka oli yhdistys
+kummastakin n‰ist‰ ja jonka nimi en‰‰ on j‰lell‰, sen itsens‰ h‰vitty‰.
+Miesvaimo oli silloin n‰et yhten‰ olentona olemassa ja sek‰ muotonsa
+ett‰ nimens‰ puolesta se oli yhdistys kummastakin, mies- ja
+naissukupuolesta. Mutta nyt sit‰ ei ole olemassa muuta kuin
+h‰v‰istysnimen‰. Sit‰paitsi oli jokainen ihminen muodoltaan
+ympyri‰inen, niin ett‰ selk‰ ja keuhkot muodostivat pyˆre‰n keh‰n,
+h‰nell‰ oli nelj‰ k‰tt‰ ja yht‰ monta jalkaa kuin k‰tt‰, ja pyˆre‰ll‰
+niskalla kahdet kasvot, joka suhteessa samanlaiset. Ja molemmilla
+n‰ill‰ vastakkaisilla kasvoilla oli yksi p‰‰laki ja nelj‰ korvaa,
+h‰nell‰ oli kahdet sukuelimet ja kaikki muu niinkuin t‰st‰ voi p‰‰tt‰‰.
+H‰n kulki suorana kuten nytkin, kummanne p‰in halusi. Ja kun h‰n pyrki
+nopeasti kulkemaan eteenp‰in, niin h‰n nojasi niihin kahdeksaan
+raajaan, jotka h‰nell‰ oli, ja kulki pyˆr‰n‰ nopeasti eteenp‰in, kuten
+ne, jotka heitt‰v‰t kuperkeikkaa ja niin tehdess‰‰n kiert‰v‰t raajansa
+pyˆr‰ksi. Mutta sentakia oli olemassa kolme t‰llaista sukupuolta, ett‰
+miehinen suku polveutui alkuaan auringosta, naissuku maasta, ja se
+sukupuoli, jolla oli osaa molemmista, kuusta, koska kuullakin on osaa
+molemmista. Keh‰nmuotoisia he olivat sek‰ itse ett‰ heid‰n liikuntonsa
+sentakia, ett‰ he olivat vanhempiensa kaltaisia. V‰elt‰‰n ja voimiltaan
+he olivat mahtavia, heill‰ oli suuret ajatukset ja he ryhtyiv‰t
+hyˆkk‰‰m‰‰n jumalien kimppuun, ja se, mit‰ Homeros kertoo Ephialteesta
+ja Otoksesta,[17] se soveltuu heihin, nimitt‰in ett‰ he ryhtyiv‰t
+rakentamaan tiet‰ taivaaseen hyˆk‰t‰kseen jumalien kimppuun.
+
+"Zeus siis ja muut jumalat neuvottelivat, mit‰ heid‰n tuli tehd‰, ja
+olivat neuvottomia. Sill‰ he eiv‰t pystyneet heit‰ tappamaan eiv‰tk‰
+iskien heit‰ salamalla kuten gigantteja tekem‰‰n tyhj‰ksi koko
+sukukuntaa, sill‰ silloin heilt‰ olisi mennyt tyhjiin se palvelus ja ne
+uhrit, joita ihmisten puolelta heid‰n osakseen tuli, eiv‰tk‰ he
+myˆsk‰‰n voineet sallia heid‰n pˆyhkeill‰. Lopulta Zeus suurella
+tuskalla keksi jonkun ajatuksen ja sanoi: 'Luulen keksineeni keinon,
+joka tekee ihmisten olemassaolon mahdolliseksi, mutta samalla saattaa
+heid‰t lakkaamaan hillittˆmyydest‰‰n, kun he k‰yv‰t heikommiksi. Min‰
+nimitt‰in', sanoi h‰n, 'halkaisen heid‰t nyt jokaisen kahtia, ja he
+k‰yv‰t samalla heikommiksi ja meille hyˆdyllisemmiksi sen kautta, ett‰
+he lukum‰‰r‰lt‰‰n lis‰‰ntyv‰t. He tulevat k‰ym‰‰n pystysuorassa
+asennossa kahdella jalalla. Mutta jos he yh‰ edelleen n‰ytt‰isiv‰t
+pˆyhkeilev‰n eiv‰tk‰ tahtoisi pysy‰ rauhallisina, niin min‰ halkaisen
+heid‰t j‰lleen kahtia, niin ett‰ he saavat kulkea yhdell‰ jalalla
+hyppien.' T‰m‰n sanottuaan h‰n halkaisi ihmiset kahtia, kuten ne, jotka
+halkovat hedelmi‰ hilloamista varten tai kuten ne, jotka hiuksilla
+halkovat munia. Ja joka kerta kun h‰n halkaisi jonkun, k‰ski h‰n
+Apollonin k‰‰nt‰‰ t‰m‰n p‰‰n ja puolen kaulaa halkaisukohtaan p‰in,
+jotta ihminen n‰hdess‰‰n itsess‰‰n tapahtuneen halkomisen olisi
+s‰‰dyllisempi; kaiken muun h‰n k‰ski h‰nen parantaa. T‰m‰ k‰‰nsi ymp‰ri
+kasvot ja veti joka puolelta nahkaa kokoon sen paikan ylitse, mit‰ nyt
+kutsutaan mahaksi, ja sitoi kiinni sen keskell‰ mahaa kokoon vedetyn
+rahakukkaron tavoin niin, ett‰ j‰tti yhden suun, jota nimitet‰‰n
+navaksi. Muut poimut h‰n enimm‰kseen siloitteli ja muodosteli rinnan
+jollakin sentapaisella tyˆkalulla, jollaista suutarit k‰ytt‰v‰t
+tasoitellessaan lestille pannun nahan poimuja. Mutta muutamia ryppyj‰
+h‰n j‰tti, nimitt‰in ne, jotka ovat juuri mahan ja navan seutuvilla,
+olemaan muistomerkkin‰ muinaisesta onnettomuudesta.
+
+"Kun ruumis siis oli halkaistu kahtia, niin jokainen kaipasi omaa
+puoliskoansa ja lyˆtt‰ytyi sen kanssa yhteen; ja he heittiv‰t k‰det
+toistensa ymp‰ri ja syleiliv‰t toisiaan haluten kasvaa yhteen. Niin he
+kuolivat n‰lk‰‰n tai muuten hoidon puutteessa, kun he eiv‰t mit‰‰n
+tahtoneet tehd‰ toisistaan erotettuina. Ja joka kerta kun puoliskoista
+joku kuoli toisen j‰‰dess‰ eloon, niin j‰lelle j‰‰nyt etsi toista ja
+kietoutui sit‰ syleilem‰‰n, kohtasipa se muinaisen kokonaisen naisen
+puolikkaan, jota me nyt kutsumme naiseksi, tai miehen puolikkaan. Ja
+n‰in he hukkuivat. Mutta Zeus alkoi tuntea s‰‰li‰, keksi toisen keinon
+ja muutti heid‰n sukuelimens‰ etupuolelle. Siihen asti n‰et n‰m‰ olivat
+heid‰n ulkopuolellaan, eiv‰tk‰ he siitt‰ess‰‰n yhtyneet toisiinsa, vaan
+he siittiv‰t ja synnyttiv‰t maassa, kuten hein‰sirkat. H‰n muutti siis
+n‰m‰ etupuolelle ja laittoi siitoksen niiden kautta tapahtumaan
+keskin‰isess‰ yhtymisess‰, miehen yhtymisess‰ naiseen, sentakia, ett‰
+jos mies syleilyss‰ yhtyisi naiseen, he siitt‰isiv‰t ja syntyisi uusi
+suku, ja taas jos mies yhtyisi mieheen, t‰st‰ yhtymisest‰ syntyisi
+tyydytyst‰, ja he sen lopetettuaan k‰visiv‰t tˆihin k‰siksi ja
+pit‰isiv‰t huolta muusta, joka el‰m‰‰n kuuluu. Niin kaukaisesta ajasta
+asti siis on ihmisiin istutettu rakkaus toinen toiseensa. Se johtaa
+heit‰ takaisin heid‰n entiseen luontoonsa ja pyrkii tekem‰‰n yht‰
+kahdesta ja parantamaan inhimillisen luonnon.
+
+"Jokainen meist‰ on siis ihmisen puolikas, koska meid‰t on halkaistu
+kuten kampelat ja siten tehty kaksi yhdest‰. Ja jokainen etsii aina
+omaa puolikastaan. Siis kaikki miehet, jotka on lohottu kaksoisoliosta,
+jota silloin kutsuttiin miesvaimoksi, ovat naislempisi‰, ja enemmistˆ
+avionrikkojia on l‰htˆisin t‰st‰ suvusta. Ne naiset taas, jotka ovat
+mieslempisi‰ ja puolisoina uskottomia, l‰htev‰t t‰st‰ suvusta. Mutta
+naisista kaikki ne, jotka ovat halkomia naisesta, eiv‰t paljon kiinnit‰
+huomiotansa miehiin, vaan ovat mieluummin k‰‰ntyneit‰ naisten puoleen,
+ja naisyst‰vykset syntyv‰t t‰st‰ suvusta. Ne taas, jotka ovat halkomia
+miehisest‰ sukupuolesta, ajavat sit‰ takaa, mik‰ on miehist‰, ja
+niinkauan kuin he ovat poikasia, rakastavat he, miessuvun osia kun
+ovat, miehi‰ ja iloitsevat saadessaan maata miesten vieress‰ ja
+syleill‰ heit‰, ja n‰m‰ ovat pojista ja nuorukaisista parhaita, koska
+he ovat miehekk‰impi‰ luonnostaan. Muutamat sanovat heid‰n olevan
+h‰pe‰m‰ttˆmi‰, mutta siin‰ he valehtelevat. Sill‰ eiv‰t he tee t‰t‰
+h‰pe‰m‰ttˆmyydest‰, vaan rohkeudesta ja uljuudesta ja miehekkyydest‰,
+rakastaen sit‰, mik‰ on heid‰n kaltaistaan. Siit‰ on oiva todistus, se
+nimitt‰in, ett‰ yksinomaan n‰m‰ t‰llaiset miehet t‰yskasvaneina
+antautuvat valtiolliseen toimintaan. Kun he ovat tulleet miehiksi,
+rupeavat he rakastamaan poikia eiv‰tk‰ luonnostaan v‰lit‰ avioliitosta
+ja lasten tekemisest‰, vaan laki pakoittaa heid‰t siihen, ja he ovat
+tyytyv‰isi‰, jos saavat el‰‰ naimattomina toistensa parissa. Kaikissa
+tapauksissa tulee t‰llaisesta poikien rakastaja ja rakastajansa yst‰v‰,
+h‰n kun aina rakastaa sit‰, mik‰ on h‰nen sukuaan. Joka kerta kun siis
+poikien rakastaja ja jokainen muu tapaa juuri tuon oman puoliskonsa,
+valtaa heid‰t ihmeellisell‰ tavalla yst‰vyys, sukulaistunne ja rakkaus,
+eiv‰tk‰ he -- lyhyesti sanoen -- halua erota toisistaan edes v‰h‰ksi
+aikaa. Ja n‰m‰, jotka el‰v‰t koko elinaikansa toistensa parissa, ovat
+niit‰, jotka eiv‰t osaisi sanoa, mit‰ haluavat toisiltaan itselleen
+tapahtuvan. Sill‰ eih‰n sit‰ toki voisi olla yhdysel‰m‰ aistillisen
+rakkauden nautinnoissa, niin ett‰ toinen sen takia niin t‰ydell‰
+innolla pyrkisi nauttimaan yhdess‰olosta toisen kanssa; vaan ilmeisesti
+kummankin sielu kaipaa jotakin muuta, jota ei osaa sanoa, vaan
+ainoastaan aavistaa ja arvailee. Ja jos heid‰n eteens‰ heid‰n yhdess‰
+maatessaan ilmestyisi Hephaistos, k‰dess‰‰n tyˆaseensa, ja kysyisi:
+'Mit‰ te, ihmiset, toisiltanne oikeastaan tahdotte?' ja jos he eiv‰t
+tiet‰isi, mit‰ vastata, ja h‰n uudestaan kysyisi: 'Sit‰kˆ te haluatte,
+ett‰ mahdollisimman paljon saisitte olla yhdess‰, niin ettei teid‰n
+tarvitsisi yˆll‰ eik‰ p‰iv‰ll‰ erota toisistanne; jos te sit‰ haluatte,
+tahdon min‰ sulattaa ja kasvattaa teid‰t yhteen, niin ett‰ teist‰,
+joita nyt on kaksi, tulee yksi ja ett‰, niin kauan kuin el‰tte, yhten‰
+ollen molemmat el‰tte yhdess‰, ja kuoltuanne tuolla Hadeksessa olette
+yhdess‰ kuolleina yksi kahden asemasta. Katsokaa siis, t‰t‰kˆ te
+halajatte ja onko teille kylliksi, jos t‰m‰n saavutatte!' -- t‰m‰n
+kuultuaan ei kukaan -- sen tied‰mme -- vastaisi kielt‰v‰sti tai
+n‰ytt‰isi jotakin muuta tahtovan, vaan yksinkertaisesti uskoisi
+kuulleensa sit‰, mihin jo kauan on pyrkinyt, nimitt‰in ett‰ yhtyneen‰
+ja sulautuneena rakastettuunsa saisi tulla kahdesta yhdeksi. T‰h‰n on
+se syyn‰, ett‰ meid‰n vanha luontomme oli juuri t‰m‰ ja ett‰ olimme
+kokonaisia. Juuri t‰ll‰ kokonaisen kaipuulla ja tavoittelulla on nimen‰
+rakkaus. T‰t‰ ennen, kuten sanottu, olimme yksi. Mutta nyt on jumala
+meid‰t v‰‰ryytemme takia jakanut erilleen, kuten lakedaimonilaiset ovat
+tehneet arkadialaisille.[18] N‰in ollen pyˆrii vaara, ett‰, jollemme
+ole s‰‰dyllisi‰ jumalia kohtaan, meid‰t uudestaan halkaistaan ja me
+saamme kulkea ymp‰ri senn‰kˆisin‰ kuin pylv‰isiin hakatut kuvat, jotka
+nen‰n kohdalta ovat halki sahatut, kuten kahtia jaetut kuutiot. Mutta
+sent‰hden tulee joka miehen kehoittaa jokaista pit‰m‰‰n jumalia
+kunniassa, jotta voisimme t‰llaisen kohtalon v‰ltt‰‰, mutta siit‰ tulla
+osallisiksi, jossa Eros on johtajamme ja sotap‰‰llikkˆmme. H‰nt‰
+vastaan ‰lkˆˆn kukaan toimiko! H‰nt‰ vastaan taas toimii jokainen, joka
+vet‰‰ p‰‰llens‰ jumalien vihan. Mutta jos me p‰‰semme jumalan yst‰viksi
+ja hyv‰‰n sovintoon h‰nen kanssaan, lˆyd‰mme me lemmikkimme ja saamme
+h‰net omaksemme, mik‰ nyt vain harvoille onnistuu. ƒlkˆˆn Eryximakhos
+keskeytt‰kˆ minua ja tehkˆ sanojani pilkan alaisiksi selitt‰m‰ll‰, ett‰
+min‰ muka tarkoitan Pausaniasta ja Agathonia! Sill‰ kenties hekin
+sattuvat kuulumaan n‰ihin ja molemmat luonnostaan ovat miehisi‰.
+Min‰h‰n tarkoitan nyt kaikkia, sek‰ miehi‰ ett‰ naisia, kun sanon, ett‰
+meid‰n sukumme siten tulisi onnelliseksi, jos me p‰‰sisimme rakkauden
+t‰yttymykseen ja jokainen saavuttaisi oman lemmikkins‰ p‰‰sten entiseen
+luontoonsa. Jos t‰m‰ on parasta, niin t‰ytyy siis myˆs nykyisiss‰
+olosuhteissa sen olla parasta, mik‰ on sit‰ l‰hinn‰. Sit‰ taas on
+lemmikin saavuttaminen, joka on rakastajan mielenlaadun mukainen. Jos
+siis ylist‰mme jumalaa, joka t‰m‰n aiheuttaa, niin t‰ydell‰ syyll‰
+silloin saamme ylist‰‰ Erosta, joka nykyhetkell‰ antaa meille enimm‰t
+lahjat johtaessaan meid‰t meille sukulaiseen, ja tulevaisuuden varalle
+tarjoaa meille suurimmat toiveet, nimitt‰in, ett‰ jos osoitamme
+kunnioitusta jumalia kohtaan, h‰n saattaa meid‰t vanhaan luontoomme,
+parantaa meid‰t ja tekee meid‰t autuaiksi ja onnellisiksi. --
+
+"T‰llainen, Eryximakhos, sanoi h‰n, on minun puheeni Eroksesta,
+toisenlainen kuin sinun. Kuten jo olen sinua rukoillut, ‰l‰ tee sit‰
+pilkanalaiseksi, jotta saisimme kuulla j‰lell‰ olevia, mit‰ kukin
+sanoo, tai mieluummin, mit‰ kumpikin. Sill‰ Agathon ja Sokrates vain
+ovat j‰lell‰."
+
+"Min‰ teen tahtosi mukaan", kertoi Aristodemos Eryximakhoksen
+lausuneen. "Sill‰ puheesi on minustakin tuntunut miellytt‰v‰lt‰. Ja
+jollen tiet‰isi, ett‰ Sokrates ja Agathon erinomaisesti tuntevat
+rakkausasioita, niin pahasti pelk‰isin heid‰n j‰‰v‰n sanattomiksi,
+sentakia ett‰ niist‰ on paljon ja monipuolisesti puhuttu. Nyt kuitenkin
+olen luottavaisella mielell‰." Sokrates sanoi: "Sin‰h‰n olet itse
+jalosti suorittanut kilpataistelun. Mutta jos sin‰ olisit siin‰
+asemassa, miss‰ min‰ nyt olen, tai ehk‰ mieluummin, miss‰ min‰ tulen
+olemaan, kun Agathonkin on puhunut, olisit sin‰ aikalailla peloissasi
+ja suuresti h‰diss‰si, kuten min‰ nyt olen." -- "Sin‰ tahdot huumata
+minut, Sokrates", sanoi Agathon, "jotta joutuisin h‰milleni luullessani
+kuulijakunnalla olevan suuria odotuksia puhetaitoni suhteen." --
+"Minulla olisi tosiaankin huono muisti, Agathon", sanoi Sokrates, "jos
+min‰, n‰hty‰ni sinun varmuutesi ja jalon tyyneytesi sinun astuessasi
+n‰ytt‰mˆlle n‰yttelij‰in seurassa ja katsoessasi p‰in niin suurta
+katsomoa lainkaan joutumatta pelon valtaan, kun sinun piti esitt‰‰
+n‰ytelm‰si, jos min‰ luulisin sinun joutuvan h‰millesi meid‰n muutamien
+harvojen ihmisten takia." -- "Kuinka Sokrates", sanoi Agathon, "eth‰n
+sin‰ toki luule minun olevan niin t‰ynn‰ teatteria, etten hyvin
+k‰sitt‰isi, ett‰ j‰rkimiehelle muutamat ymm‰rt‰v‰iset ovat
+pelottavampia kuin joukko ymm‰rt‰m‰ttˆmi‰?" -- "En tosiaan tekisi
+kauniisti, Agathon", sanoi Sokrates, "jos ajattelisin sinusta jotakin
+ep‰hienoa. Sill‰ tied‰n hyvin, ett‰ jos sattuisit joidenkuiden pariin,
+joita pit‰isit viisaina, sin‰ v‰litt‰isit niist‰ enemm‰n kuin joukosta.
+Mutta tuskin me olemme sellaisia. Sill‰ meh‰n olimme siell‰ saapuvilla
+ja kuuluimme joukkoon. Mutta jos sattuisit muitten viisaiden pariin,
+niin pian sin‰ heit‰ h‰pe‰isit, jos luulisit tekev‰si jotakin, joka on
+h‰pe‰llist‰. Vai mit‰ tarkoitat?" -- "Totta puhut", sanoi h‰n. --
+"Mutta joukkoa et sin‰ h‰pe‰isi, jos luulisit tekev‰si jotakin
+h‰pe‰llist‰." -- Phaidroksen sanoi Aristodemos silloin puuttuneen
+puheeseen ja lausuneen: "Hyv‰ Agathon, jos vastaat Sokrateelle, ei h‰n
+en‰‰ lainkaan v‰lit‰ siit‰, miten keskustelumme aiheen k‰yk‰‰n, kunhan
+h‰nell‰ vain on joku, jonka kanssa keskustella; varsinkin jos t‰m‰ on
+kaunis mies. Min‰ kuulen kyll‰ mielell‰ni Sokrateen keskustelevan,
+mutta minun t‰ytyy pit‰‰ huolta ylistyspuheesta Erokselle, ja
+vastaanottaa itsekultakin teist‰ puhe. Kun kumpikin on antanut osansa
+jumalalle, keskustelkoon sitten t‰ll‰ tavalla." -- "Hyvin puhuttu,
+Phaidros", sanoi Agathon, "eik‰ mik‰‰n est‰ minua puhumasta, sill‰
+Sokrateen kanssa voin min‰ toistekin usein keskustella.
+
+"Min‰ tahdon nyt ensin lausua, mitenk‰ minun tulee puhua, ja sitten
+puhua. Sill‰ minusta n‰ytt‰‰ silt‰, ettei kukaan niist‰, jotka ovat
+t‰t‰ ennen puhuneet, ole ylist‰nyt jumalaa, vaan kaikki ovat kiitt‰neet
+ihmisi‰ onnellisiksi sen hyv‰n takia, jonka jumala on heille
+lahjoittanut. Mutta millainen h‰n oikeastaan on, joka n‰m‰ lahjat on
+antanut, sit‰ ei ole kukaan sanonut. Ainoa oikea tapa kuitenkin
+jokaisessa ylistyspuheessa ja jokaista ylist‰ess‰ on puheella koettaa
+esitt‰‰, millainen ja mink‰ aiheuttaja se on, josta on puhe. Siten
+tulee meid‰n Erostakin ylist‰‰, ensinn‰ h‰nt‰ itse‰‰n, millainen h‰n
+on, ja sitten h‰nen lahjojaan. Min‰ puolestani v‰it‰n, ett‰ niin
+onnellisia kuin kaikki jumalat ovatkin, Eros on, jos on luvallista niin
+sanoa joutumatta kenenk‰‰n kostonalaiseksi, onnellisin heist‰, koska
+h‰n on kaunein ja paras. Kaunein h‰n on seuraavista syist‰. Ensiksi h‰n
+on, Phaidros, jumalista nuorin. Painavan todistuskappaleen t‰lle
+v‰itteelle tarjoaa h‰n itse pakenemalla paetessaan vanhuutta, joka
+kuitenkin ilmeisesti on nopea. Ainakin se nopeammin kuin sen tulee,
+meit‰ l‰henee. T‰t‰ Eros luonnostaan vihaa eik‰ sit‰ kaukaakaan l‰hene.
+Nuorten parissa ja seurassa h‰n aina on. Sill‰ vanha sananparsi lausuu
+aivan oikein sanoessaan, ett‰ samanlainen aina liittyy samanlaiseen.
+Phaidrokseen min‰ yhdyn monessa muussa suhteessa, mutta en siin‰, ett‰
+Eros on vanhempi Kronosta ja Iapetosta,[19] vaan v‰it‰n, ett‰ h‰n on
+nuorin jumalista ja ikuisesti nuori ja ett‰ ne muinaiset jumalien
+keskuudessa sattuneet tapahtumat, joista Hesiodos ja Parmenides
+kertovat, ovat syntyneet Ananken[20] (V‰ltt‰m‰ttˆmyyden) eik‰ Eroksen
+vaikutuksesta, jos heid‰n kertomuksensa ylip‰‰ns‰ on tosi. Sill‰ eiv‰t
+jumalat olisi silponeet eiv‰tk‰ sitoneet kahleisiin toisiaan eiv‰tk‰
+tehneet monenlaista muuta v‰kivaltaa, jos Eros olisi ollut heid‰n
+keskell‰‰n, vaan yst‰vyys ja rauha olisi vallinnut, kuten nyt, siit‰
+asti kuin Eros on jumalia hallinnut. Nuori h‰n siis on, ja paitsi ett‰
+on nuori, on h‰n hento; ja h‰n kaipaa runoilijaa sellaista kuin oli
+Homeros kuvailemaan jumalan hentoutta. Sill‰ Homeros sanoo, ett‰
+Ate[21] on jumalatar ja hento; ainakin h‰nen jalkojaan h‰n kuvaa
+hennoiksi, sanoen:
+
+    "'Hennot jalkansa ei k‰y koskaan maan t‰m‰n pintaan.
+    Ei, vaan miesten p‰it‰p‰ myˆten kulkunsa leijaa.'
+
+"H‰n n‰ytt‰‰ minusta kauniilla todistuksella osoittavan h‰nen
+hentoutensa, sill‰ nimitt‰in, ettei h‰n kulje pitkin kovaa pohjaa, vaan
+pehme‰t‰. Samaa todistusta mekin tahdomme k‰ytt‰‰ Eroksesta
+osoittaaksemme, ett‰ h‰n on hento. H‰n ei n‰et kulje maan kamaralla
+eik‰ p‰‰lakia myˆten, mitk‰ eiv‰t ole eritt‰in pehmeit‰, vaan h‰n sek‰
+kulkee ett‰ asuu sellaisessa, mik‰ on kaikkein pehmeint‰ olevaisesta.
+Sill‰ h‰n on asettunut asumaan jumalien ja ihmisten mieliin ja
+sieluihin, ei kuitenkaan j‰rjest‰ns‰ kaikkiin sieluihin, vaan aina kun
+h‰n tapaa sielun, miss‰ on karkea mielenlaatu, h‰n v‰istyy, mutta
+asettuu sinne asumaan, miss‰ on pehme‰ mieli. Kun h‰n siis aina sek‰
+jaloillaan ett‰ kaikin tavoin tarttuu sellaiseen, mik‰ on pehmeimm‰st‰
+pehmeint‰, niin t‰ytyy h‰nen olla kaikista hennoin. Nuorin h‰n siis on
+ja hennoin ja sen lis‰ksi notkea vartaloltaan. Sill‰ ei h‰n olisi
+kykenev‰ hiipim‰‰n kaikkeen eik‰ salaa k‰ym‰‰n sis‰lle jokaiseen
+sieluun eik‰ sielt‰ pois, jos h‰n olisi kova ja karkea. Mutta h‰nen
+tasasuhtaisesta ja notkeasta olennostaan on hyv‰n‰ todisteena jalo
+ulkomuoto, joka Eroksella kaikkien olentojen joukossa yleisen
+tunnustuksen mukaan erikoisesti on. Sill‰ muodottomuudella ja Eroksella
+on ikuinen keskin‰inen sota. H‰nen ihonsa kauneutta osoittaa jumalan
+el‰m‰ kukkien keskell‰. Sill‰ kukoistamattomaan ja loppuun kukkineeseen
+ruumiiseen ja sieluun ja mihin muuhun tahansa ei Eros asetu, mutta
+miss‰ on kukkea ja tuoksuva paikka, sinne h‰n sek‰ asettuu ett‰ siell‰
+pysyy.
+
+"Jumalan kauneudesta riitt‰kˆˆn t‰m‰, vaikka paljon viel‰ on sanomatta.
+Eroksen hyveest‰ on t‰m‰n j‰lkeen puhuttava. Suurinta on se, ettei Eros
+tee v‰‰ryytt‰ jumalalle eik‰ ihmiselle eik‰ k‰rsi v‰‰ryytt‰ jumalalta
+eik‰ ihmiselt‰. Sill‰ h‰n ei v‰kivaltaisesti koe mit‰‰n, jos h‰n
+jotakin kokee, koska v‰kivalta ei koske Erokseen. Eik‰ h‰n v‰kivalloin
+tee, mit‰ tekee. Sill‰ jokainen palvelee Erosta vapaaehtoisesti
+kaikessa, ja mihin joku vapaaehtoisesti myˆntyy toisenkin puolen
+menetelless‰ vapaasta tahdosta, sen lait, valtion kuninkaat, julistavat
+oikeaksi. Paitsi oikeamielisyytt‰ on h‰ness‰ mit‰ suurin m‰‰r‰
+kohtuullisuutta. Sill‰ kohtuullisuus on -- kuten tunnustetaan --
+nautintojen ja halujen hallitsemista, Erosta voimakkaampi ei taas
+mik‰‰n nautinto ole. Mutta jos on heikompia nautintoja, hallitsee niit‰
+Eros, ja h‰n siis on hallitseva. Ja hallitessaan nautintoja ja haluja
+lienee Eros erikoisen kohtuullinen. Urhoollisuudessa taas ei edes Ares
+ved‰ Erokselle vertoja. Sill‰ ei Ares omista Erosta, vaan Eros Areksen,
+Eros, rakkaus Aphroditehen,[22] kuten kerrotaan. Ja se, joka omistaa,
+on voimakkaampi kuin se, jota omistetaan. Mutta se, joka hallitsee
+muista urhoollisinta, on kai itse urhoollisin. Olen nyt puhunut jumalan
+oikeamielisyydest‰, kohtuullisuudesta[23] ja urhoollisuudesta, mutta
+viisaudesta on minun viel‰ puhuminen. Niin paljon kuin mahdollista on
+minun koetettava olla t‰ss‰k‰‰n mit‰‰n laiminlyˆm‰tt‰. Ensiksi -- jotta
+min‰kin antaisin kunnian meid‰n taiteellemme, kuten Eryximakhos
+omalleen -- on jumala niin viisas runoilija, ett‰ kykenee toisenkin
+tekem‰‰n runoilijaksi. Jokaisesta ainakin tulee runoilija, johon Eros
+vain koskee, vaikka h‰n ennest‰‰n olisikin ep‰runollinen. T‰t‰ seikkaa
+sopii k‰ytt‰‰ todistuksena siit‰, ett‰ Eros on suuri taituri ylip‰‰ns‰
+kaikessa muusillisessa taiteessa. Sill‰ sit‰, mit‰ jollakulla joko ei
+ole tai mit‰ h‰n ei tied‰, sit‰ h‰n ei kykenisi antamaan eik‰
+opettamaan toiselle. Ja mit‰ taas tulee taitoon synnytt‰‰ kaikki el‰v‰t
+olennot, niin kuka v‰itt‰‰ vastaan, ettei juuri Eroksen viisaudesta
+kaikki elollinen synny ja kasva. Mit‰ taas mestaruuteen muissa
+taiteissa tulee, niin emmekˆ tied‰, ett‰ se taide, mink‰
+opetusmestariksi t‰m‰ jumala ryhtyy, se kehittyy kuuluisaksi ja
+loistavaksi, se taas, johon Eros ei koske, j‰‰ varjoon. Sill‰
+jousella-ampumistaidon ja l‰‰ketaidon sek‰ ennustustaidon Apollon lˆysi
+kaipuun ja rakkauden opastamana, niin ett‰ h‰nkin kai on Eroksen
+opetuslapsi kuten Musat runoustaiteessa, Hephaistos takomistaidossa,
+Athena kutomataidossa ja Zeus taidossa hallita jumalia ja ihmisi‰.
+Siisp‰ on jumalienkin asiat saatu j‰rjestykseen Eroksen asetuttua
+heihin, Eroksen, joka ilmeisesti on rakkautta kauneuteen. Sill‰
+rumuuteen ei Eroksella voi olla mit‰‰n suhdetta. T‰t‰ ennen sattui,
+kuten alussa sanoin, paljon pahaa jumalille Ananken (V‰ltt‰m‰ttˆmyyden)
+hallitusvallan kautta, kuten kerrotaan. Mutta kun t‰m‰ oli syntynyt,
+johtui kauneuden rakkaudesta kaikkea hyv‰‰ jumalille ja ihmisille. Niin
+minusta n‰ytt‰‰, Phaidros, Eros ensinn‰ olevan itse kaunein ja parahin,
+ja senj‰lkeen muissakin synnytt‰v‰n muita samanlaisia ominaisuuksia.
+Johtuu mieleeni sanoa jotain runomitassakin, nimitt‰in ett‰ t‰m‰
+
+    "'Suo levon maailmalle ja tyyneyden ulapalle,
+    tuulet vaimentaa, surut unten rauhalla poistaa.'
+
+"T‰m‰ vapauttaa meid‰t vieraudesta ja t‰ytt‰‰ meid‰t tuttavallisuudella
+saattaen meille kaikkia t‰llaisia yhtym‰tilaisuuksia toistemme kanssa,
+ollen johtajanamme juhlissa, khooritansseissa ja uhritilaisuuksissa,
+jakaen lahjaksi lempeytt‰ ja poistaen viileyden, mielell‰‰n lahjoittaen
+hyv‰ntahtoisuutta, est‰en pahantahtoisuutta, ollen lempe‰ hyville,
+ihailtava viisaille, jumalille rakastettava, kadehdittava h‰nest‰
+osattomille, omistamisen arvoinen h‰nest‰ osallisille, hempeyden,
+ylellisyyden, sirouden, sulouden, kaipuun ja ik‰vˆinnin is‰, hyvien
+huoltaja, huonoja huoltamaton, h‰d‰ss‰ ja pelossa, ik‰vˆinniss‰ ja
+ajattelussa paras ohjaaja ja seuralainen, auttaja ja pelastaja,
+kaikkien jumalien ja ihmisten koristus, ihanin ja paras johtaja, jota
+joka miehen tulee seurata kauniisti h‰nen ylistyst‰‰n veisaten ja
+yhtyen ihanaan lauluun, jota laulaen h‰n hurmaa kaikkien jumalien ja
+ihmisten mielen.
+
+"T‰m‰ puhe, Phaidros", sanoi h‰n, "olkoon minun osani jumalalle,
+sis‰lt‰en osaksi leikki‰, osaksi soveliasta vakavuutta sen mukaan kuin
+kykyni sallii."
+
+Agathonin puhuttua kertoi Aristodemos kaikkien l‰sn‰olijoitten
+‰‰nekk‰‰sti osoittaneen suosiotaan sen johdosta, ett‰ nuorukainen oli
+puhunut tavalla, joka oli sek‰ h‰nelle itselleen ett‰ jumalalle
+sovelias. Sokrates katsahti silloin Eryximakhokseen ja lausui:
+"N‰ytt‰‰kˆ sinusta, Akumenoksen poika, silt‰, ett‰ min‰ olen turhaan jo
+kauan pel‰nnyt? Vai eikˆ n‰yt‰ silt‰, ett‰ se, mit‰ ‰sken lausuin,
+sis‰lsi oikean ennustuksen, ett‰ Agathon puhuu ihmetelt‰v‰sti, mutta
+ett‰ min‰ j‰‰n sanattomaksi?" -- "Toiselta puolen", sanoi Eryximakhos,
+"n‰yt‰t ennustaneen oikein, nimitt‰in ett‰ Agathon tulee puhumaan
+hyvin. Mutta siin‰ en usko ennustukseesi, ett‰ sin‰ joutuisit
+sanattomaksi." -- "Kuinka niin, miekkonen", sanoi Sokrates, "enkˆ min‰
+joutuisi sanattomaksi, min‰ yht‰ hyvin kuin kuka muu tahansa, jonka
+pit‰‰ puhua niin kauniin ja monivivahteisen puheen j‰lkeen kuin ‰sken
+lausuttu on? Muut puheen kohdat tosin eiv‰t olleet yht‰ ihmetelt‰vi‰,
+mutta lopussa -- kuka ei olisi hurmaantunut kuullessaan sanojen ja
+sanank‰‰nteiden kauneuden? Sill‰ min‰ ainakin, kun ajattelen, etten
+kykene lausumaan mit‰‰n kaunista, joka tulisi t‰t‰ l‰hellek‰‰n,
+h‰pe‰st‰ miltei karkaisin tieheni, jos minulla olisi, minne menn‰.
+Sill‰ puhe muistutti minusta Gorgiasta,[24] niin ett‰ suoraan sanoen
+koin sellaista, mist‰ Homeros kertoo. Pelk‰sin, ett‰ Agathon lopuksi
+viskaisi puheessaan minun puhettani vastaan Gorgiaan, suurpuhujan, p‰‰n
+ja tekisi minut mykkyydest‰ kiveksi. Ja min‰ huomasin silloin olevani
+naurettava, kun lupasin teille vuorostani pit‰‰ ylistyspuheen Erokselle
+ja vakuutin ymm‰rt‰v‰ni rakkausasioita, vaikken lainkaan tiennyt koko
+siit‰ asiasta, miten tulee ylist‰‰ mit‰ tahansa ylip‰‰t‰‰n. Min‰ n‰et
+yksinkertaisuudessani luulin, ett‰ tulee puhua totta jokaisesta, jota
+ylistet‰‰n, ett‰ se muodostaisi perustan, ja ett‰ siit‰ sitten tulisi
+valita kauneinta ja kokoonpanna se niin taitavasti kuin mahdollista.
+Min‰ n‰et suurellisesti ajattelin tulevani puhumaan hyvin, min‰ kun
+muka tunsin totuuden mink‰ asian ylist‰misess‰ hyv‰ns‰. Mutta t‰m‰p‰ ei
+ollutkaan, kuten n‰ytt‰‰, taitoa ylist‰‰ kauniisti mit‰ tahansa, vaan
+siihen sis‰ltyy, ett‰ asiaan liitet‰‰n niin paljon ja niin kaunista
+kuin mahdollista, huolimatta siit‰, onko sit‰ todellisuudessa olemassa
+vai eikˆ. Jos se on valheellista, ei se merkitse mit‰‰n. Sill‰ oli,
+kuten n‰ytt‰‰, sovittu, ett‰ jokainen meist‰ n‰ytt‰isi ylist‰v‰n
+Erosta, ei, ett‰ h‰nt‰ ylistet‰‰n. Sen takia te luullakseni panette
+liikkeelle kaikki asiat omistaaksenne ne Erokselle ja sanotte h‰nen
+olevan sellaisen ja sellaisen ja saavan niin ja niin suurta aikaan,
+jotta h‰n n‰ytt‰isi niin kauniilta ja jalolta kuin mahdollista,
+tietysti niist‰, jotka eiv‰t h‰nt‰ tunne; sill‰ niist‰, jotka h‰net
+tuntevat, h‰n tuskin silt‰ n‰ytt‰‰. Ja niin on ylistyspuhe kaunis ja
+jalo. Mutta min‰ en tuntenut t‰t‰ ylist‰mistapaa, ja sit‰ tuntematta
+lupasin teille min‰kin vuorostani pit‰‰ ylistyspuheen. Kieli siis
+lupasi, mutta ei mieli. J‰‰kˆˆn se siis silleen, sill‰ en min‰ pid‰
+t‰h‰n tapaan ylistyspuhetta; en n‰et sit‰ osaisi. Mutta totuuden min‰
+tahdon sanoa, jos tahdotte, omalla tavallani, en teid‰n puheittenne
+mukaan, jotten joutuisi naurunalaiseksi. Katso nyt siis, Phaidros,
+haluatko kuulla t‰llaista puhetta, jossa Eroksesta sanotaan totuus,
+mutta sellaisin sanoin ja lauserakentein, jotka sattumalta
+tarjoutuvat!" Phaidroksen ja muiden kertoi Aristodemos kehoittaneen
+h‰nt‰ puhumaan, sill‰ tavalla, mill‰ h‰n luuli olevan velvollisuutensa
+puhua. "Phaidros", sanoi Sokrates, "salli minun viel‰ kysy‰ Agathoniita
+muutamia pikku asioita, jotta min‰ p‰‰sisin yksimielisyyteen h‰nen
+kanssaan ja sitten puhumaan!" -- "Sallin kyll‰", sanoi Phaidros, "kysy
+vain!" Senj‰lkeen h‰n sanoi Sokrateen alkaneen jotenkin t‰h‰n tapaan.
+
+"Tosiaankin, rakas Agathon, n‰ytti johdatus puheeseesi minusta
+oivalliselta, kun sin‰ sanoit, ett‰ ensin tulee osoittaa, millainen
+Eros itse on, ja sitten h‰nen tyˆns‰. T‰t‰ alkua min‰ ihailen suuresti.
+No niin, kun sin‰ muissakin suhteissa olet kauniisti ja oivallisesti
+esitt‰nyt, millainen Eros on, niin sano myˆskin t‰m‰: 'Onko Eros
+sellainen, ett‰ se on rakkautta johonkin, vai eikˆ se ole rakkautta
+mihink‰‰n?' Min‰ en kysy, onko h‰n rakkautta johonkin ‰itiin tai is‰‰n,
+sill‰ naurettava olisi kysymys, onko Eros rakkautta ‰itiin tai is‰‰n,
+vaan ik‰‰nkuin min‰ kysyisin itse k‰sitteest‰ is‰, onko is‰ jonkun is‰
+vai eikˆ, sin‰ kai sanoisit, jos tahtoisit kunnollisesti vastata, ett‰
+is‰ on pojan ja tytt‰ren is‰. Vai miten?" -- "Aivan niin", sanoi
+Agathon. -- "Eikˆ ole samoin ‰idin laita?" -- T‰m‰nkin h‰n myˆnsi. --
+"Vastaa viel‰", sanoi Sokrates, "v‰h‰n useampiin kysymyksiin, jotta
+paremmin oivaltaisit, mit‰ min‰ tahdon! Jos min‰ kysyisin: Miten on,
+onko veli itse k‰sitteelt‰‰n jonkun veli vai eikˆs? miten vastaisit?"
+-- H‰n vastasi myˆnt‰v‰sti. "Eikˆ h‰n siis ole veljen tai sisaren
+veli?" -- H‰n myˆnsi. "Koeta nyt", lausui h‰n, "sanoa mielipiteesi --
+Eroksestakin! Eikˆ Eros ole rakkautta mihink‰‰n, vai onko se rakkautta
+johonkin?" -- "On varmasti." -- "Pid‰ nyt t‰m‰ mieless‰si", sanoi
+Sokrates, "ja muista, mihink‰ rakkaus kohdistuu! Vastaa nyt sen verran,
+kaipaako Eros sit‰, mit‰ kohtaan se on rakkautta, vai eikˆ!" -- "Kyll‰
+varmasti", sanoi h‰n. -- "Omistaenko sen, mit‰ h‰n kaipaa ja rakastaa,
+h‰n kuitenkin kaipaa ja rakastaa, vai omistamattako?" -- "Omistamatta,
+todenn‰kˆisesti." -- "Mietipp‰", sanoi Sokrates, "ei onko
+todenn‰kˆist‰, vaan onko v‰ltt‰m‰tˆnt‰, ett‰ kaipaava kaipaa sit‰, mit‰
+tarvitsee, vai onko h‰n kaipaamatta, jos h‰n ei tarvitse! Sill‰ minusta
+se ihmeellisesti n‰ytt‰‰, Agathon, olevan v‰ltt‰m‰tˆnt‰. Miten
+sinusta?" -- "Niin minustakin n‰ytt‰‰", sanoi h‰n. -- "Hyvin sanottu,
+sill‰ tahtoisiko joku, joka jo on suuri, olla suuri, tai joka on
+voimakas, olla voimakas?" -- "Se on mahdotonta sen mukaan, mist‰ olemme
+tulleet yksimielisyyteen. Sill‰ h‰n ei saattaisi olla sen tarpeessa,
+mit‰ h‰n on." -- "Totta puhut. Sill‰", sanoi Sokrates, "jos joku, joka
+on voimakas, tahtoisi olla voimakas, joka on nopea, olla nopea, ja joka
+on terve, olla terve -- kenties n‰et joku saattaisi uskoa t‰t‰ ja
+kaikkea t‰m‰ntapaista, ett‰ nimitt‰in ne, jotka ovat t‰llaisia tai
+omaavat n‰it‰ ominaisuuksia, myˆskin kaipaavat sit‰, mit‰ omistavat --
+jottemme joutuisi erehtym‰‰n, sentakia min‰ t‰m‰n sanon -- n‰iden on --
+jos vain ajattelet, Agathon -- v‰ltt‰m‰tˆnt‰ t‰ll‰ hetkell‰ omistaa
+kaikki, mit‰ omistavat, joko he sitten tahtovat tai eiv‰t. Ja kuka
+viel‰ voisi kaivata _t‰t‰?_ Mutta joka kerta, kun joku sanoo: 'Min‰,
+joka olen terve, tahdon myˆs olla terve, ja joka olen rikas, tahdon
+myˆs olla rikas ja kaipaan juuri sit‰, mit‰ minulla on', sanoisin min‰
+h‰nelle: Sin‰, ihminen, joka omistat rikkautta, terveytt‰ ja voimaa,
+tahdot omistaa t‰t‰ myˆs vastaisuuden varalle, sill‰ nykyhetkell‰
+sinulla t‰t‰ on, joko tahdot tai et. Mieti siis, tarkoitatko sin‰
+sanoessasi: 'Haluan sit‰, mit‰ minulla nyky‰‰n on' jotakin muuta kuin:
+'Haluan, ett‰ se, mit‰ minulla nyt on, on myˆs vastaisuuden varalle
+tarjolla.' Eikˆh‰n h‰n mahtaisi myˆnt‰‰?" Agathonin kertoi Aristodemos
+vastanneen myˆnt‰v‰sti. Sokrates sanoi silloin: "Eikˆ siis se ole sen
+rakastamista, mik‰ ei viel‰ ole asianomaisella itsell‰‰n valmiina ja.
+mit‰ h‰n ei omista, ett‰ haluaa t‰m‰n olevan vastaisuudessakin
+itselleen varattuna?" -- "Aivan niin", sanoi h‰n. -- "Siis t‰m‰ ja
+jokainen muu kaipaava kaipaa sit‰, mik‰ ei ole valmista eik‰ ole
+k‰sill‰, ja mit‰ h‰nell‰ ei ole ja mit‰ h‰n ei itse ole ja mit‰ h‰n
+tarvitsee, sellaista suunnilleen on se, mihin on halua ja rakkautta."
+-- "Aivan niin", sanoi h‰n. -- "No hyv‰", sanoi Sokrates, "kerrataanpa
+nyt viel‰ se, mit‰ on lausuttu. Eikˆ Eros ensinn‰ ole rakkautta
+johonkin, ja toiseksi siihen, mit‰ asianomaiselta puuttuu?" -- "Kyll‰",
+sanoi h‰n. -- "Palauta t‰m‰n lis‰ksi mieleesi, mihin sin‰ puheessasi
+sanoit Eroksen olevan rakkautta! Jos haluat, muistutan min‰ sinua
+siit‰. Min‰ n‰et luulen sinun sanoneen suunnilleen siten, ett‰
+jumalien keskuudessa asiat saatettiin j‰rjestykseen kauneuteen
+kohdistuvan rakkauden kautta; sill‰ rakkautta rumuuteen ei ole. Etkˆ
+sanonut jotenkin n‰in?" -- "Sanoin kyll‰", vastasi Agathon. --
+"Hyv‰ksytt‰v‰sti sanoit, hyv‰ yst‰v‰", sanoi Sokrates. "Ja jos asia on
+sill‰ tavoin, eikˆ Eros ole rakkautta kauneuteen, vaan ei rumuuteen?"
+-- H‰n myˆnsi. -- "Eikˆ ole sovittu siit‰, ett‰ rakastetaan sit‰, mink‰
+puutteessa ollaan ja mit‰ ei omisteta?" -- "Kyll‰", sanoi h‰n. -- "Eros
+siis tarvitsee kauneutta eik‰ h‰nell‰ sit‰ ole." -- "V‰ltt‰m‰tt‰",
+sanoi h‰n. -- "Miten siis? Senkˆ, joka tarvitsee kauneutta ja jolla ei
+sit‰ mill‰‰n muotoa ole, senkˆ sin‰ sanot olevan kauniin?" -- "En
+mill‰‰n muotoa." -- "Viel‰kˆ nyt myˆnn‰t Eroksen olevan kauniin, jos
+n‰in ovat asiat?" -- Agathon vastasi: "N‰ytt‰‰ silt‰, Sokrates, kuin en
+tiet‰isi mit‰‰n siit‰, mit‰ silloin sanoin." -- "Taisit lausua aivan
+oikein, Agathon", sanoi h‰n. "Mutta sano viel‰ v‰h‰isen! Onko hyv‰
+sinun mielest‰si myˆs kaunista?" -- "On kyll‰." -- "Jos Eros kaipaa
+sit‰, mik‰ on kaunista, ja kaunis on hyv‰‰, niin kaivannee h‰n myˆs
+hyv‰‰." -- "Min‰, Sokrates", vastasi h‰n, "en kyenne v‰itt‰m‰‰n sinua
+vastaan, vaan olkoon niin, kuten sanot." -- "Niin, totuutta vastaan
+sin‰ et kykene v‰itt‰m‰‰n, rakas Agathon, sill‰ Sokratesta vastaan
+v‰itt‰minen ei ole lainkaan vaikeata.
+
+"Ja nyt min‰ j‰t‰n sinut rauhaan ja tahdon esitt‰‰ puheen Eroksesta,
+jonka kerran kuulin mantineialaiselta vaimolta, Diotimalta,[25] joka
+sek‰ n‰iss‰ ett‰ useissa muissa asioissa oli viisas, ja joka toimitti
+ateenalaisille heid‰n uhratessaan ennen ruttoa kymmeneksi vuodeksi
+taudin lykk‰yksen, ja joka minulle opetti rakkausasioita -- sen puheen,
+jonka h‰n puhui, tahdon min‰ teille esitt‰‰ l‰htien siit‰, mist‰ min‰
+ja Agathon olemme tulleet yksimielisiksi, kokonaan omin voimin, mik‰li
+min‰ osaan. Nyt tulee, kuten sin‰ Agathon selitit, ensin esitt‰‰ Eros
+itse, kuka h‰n on ja millainen h‰n on, ja sitten h‰nen tyˆns‰. Minusta
+n‰ytt‰‰ nyt helpoimmalta k‰ytt‰‰ samaa esitystapaa, jota t‰m‰ vieras
+nainen k‰ytti, tehden minulle kysymyksi‰. Sill‰ min‰kin puhuin h‰nelle
+jotakin samansuuntaista, kuin Agathon nyt minulle, ett‰ Eros on suuri
+jumala, ja ett‰ h‰n kuuluu kauniiden joukkoon. H‰n todisti minun olevan
+v‰‰r‰ss‰ samoilla perusteilla, joilla min‰ kumosin t‰m‰n (Agathonin)
+v‰itteet, osoittaen, ettei h‰n minun v‰itteeni mukaan saattanut olla
+kaunis eik‰ hyv‰. Ja min‰ lausuin: 'Kuinka sanot, Diotima? Onko Eros
+siis ruma ja huono?' -- 'ƒl‰ k‰yt‰ syntisi‰ sanoja! Vai luuletko, ett‰
+sen, mik‰ ei ole kaunista, v‰ltt‰m‰tt‰ t‰ytyy olla rumaa?' -- 'Luulen
+kyll‰.' -- 'Tai ett‰ se, mik‰ ei ole viisautta, on tiet‰m‰ttˆmyytt‰?
+Vai etkˆ ole huomannut, ett‰ on jotakin, joka on viisauden ja
+tiet‰m‰ttˆmyyden v‰lill‰?' -- 'Mit‰ se on?' -- 'Etkˆ tied‰', sanoi h‰n,
+'ett‰ oikea arvelu[26] voimatta esitt‰‰ todistusta, ei ole tiet‰mist‰?
+Sill‰ mitenk‰ tieto voisi olla jotakin, jota ei voi todistaa? Mutta se
+ei ole myˆsk‰‰n tiet‰m‰ttˆmyytt‰. Sill‰ mitenk‰ se, joka koskee
+totuutta, voisi olla tiet‰m‰ttˆmyytt‰? Jotakin sellaista on siis
+oikea arvelu, tiet‰m‰ttˆmyyden ja tiet‰misen v‰liaste.' -- 'Puhut
+totta', vastasin min‰. -- 'ƒl‰ nyt siis pid‰ sit‰ johtop‰‰tˆst‰
+v‰ltt‰m‰ttˆm‰n‰, ett‰ se, mik‰ ei ole kaunista, on rumaa ja ett‰ se,
+mik‰ ei ole hyv‰‰, on huonoa! Niin myˆs mit‰ Erokseen tulee, niin ‰l‰
+sin‰', sanoi h‰n, 'kun myˆnn‰t, ettei h‰n ole hyv‰ eik‰ kaunis, silti
+usko, ett‰ h‰nen tulee olla ruma ja huono, vaan jotenkin n‰iden
+ominaisuuksien v‰limailla!' -- 'Mutta', sanoin min‰, 'kaikkihan
+tunnustavat, ett‰ h‰n on suuri jumala.' -- 'Tarkoitatko sin‰', sanoi
+h‰n, 'kaikkia niit‰, jotka eiv‰t h‰nt‰ tunne, vai niit‰kin, jotka h‰net
+tuntevat?' -- 'Kaikkia.' -- H‰n hymyili ja lausui: 'Mitenk‰h‰n ne,
+Sokrates, voisivat tunnustaa h‰nt‰ suureksi jumalaksi, jotka sanovat,
+ettei h‰n olekaan jumala?' -- 'Kutka ovat n‰it‰?' sanoin min‰. -- 'Yksi
+olet sin‰', sanoi h‰n, 'ja toinen min‰.' -- Min‰ sanoin: 'Kuinka voit
+sanoa niin?' -- H‰n vastasi: 'Aivan hyvin. Sanoppa minulle, etkˆ v‰it‰
+kaikkien jumalien olevan onnellisia ja kauniita! Vai uskaltaisitko
+sanoa, ettei joku jumalista ole kaunis ja onnellinen?' -- 'Kautta Zeun,
+en suinkaan!' lausuin. -- 'Etkˆ sin‰ kuitenkin kutsu niit‰
+onnellisiksi, jotka omistavat hyv‰‰ ja kaunista?' -- 'Varmasti.' --
+'Mutta sin‰ olet myˆnt‰nyt, ett‰ Eros hyv‰n ja kauniin puutteesta
+kaipaa n‰it‰ ominaisuuksia, joita h‰nelt‰ puuttuu.' -- 'Sen olen
+myˆnt‰nyt.' -- 'Kuinka siis se voisi olla jumala, joka ei ole osallinen
+hyv‰st‰ ja kauniista?' -- 'Ei mitenk‰‰n, kuten n‰ytt‰‰.' -- 'N‰etkˆ
+nyt', sanoi h‰n, 'ettet sin‰k‰‰n pid‰ Erosta jumalana?'
+
+"'Mutta', sanoin min‰, 'mit‰ Eros siis saattaa olla? Kuolevainenko?' --
+'Ei mitenk‰‰n.' -- 'Mutta mit‰ h‰n sitten on?' -- 'Edell‰sanotun
+mukaan', sanoi h‰n, 'on h‰n kuolevaisen ja kuolemattoman v‰liaste.' --
+'Mit‰ siis, Diotima?' -- 'H‰n on suuri haltia, Sokrates. Sill‰ kaikki,
+mik‰ on haltiaolemusta, on jumalan ja kuolevaisen v‰lill‰.' -- 'Mik‰
+valta-asema on h‰nell‰?' -- 'H‰n tulkitsee ja saattaa jumalien tietoon
+sen, mik‰ tulee ihmisilt‰ ja ihmisten tietoon sen, mik‰ tulee
+jumalilta, ihmisten rukoukset ja uhrit ja jumalien m‰‰r‰ykset ja uhrien
+vastalahjat, h‰n t‰ytt‰‰ molempien v‰litilan, niin ett‰ kokonaisuus on
+itsess‰‰n muodostunut yht‰jaksoiseksi. Ja t‰m‰n kautta kulkee kaikki
+tiet‰j‰taito ja pappistaito, sek‰ uhreja koskeva, ett‰ juhlamenoja ett‰
+manauksia ett‰ kaikenlaista ennustusta ja loihtimista. Sill‰ jumala ei
+yhdy ihmisen seuraan, vaan kaikki yhteys tapahtuu t‰m‰n v‰lityksell‰,
+ja kaikki keskustelu jumalien ja ihmisten v‰lill‰ niin hyvin valveilla
+ollessa kuin unessakin. Ja se, joka t‰llaisissa asioissa on viisas, h‰n
+on haltioitunut ihminen, mutta se, joka on viisas muussa, joko
+joissakin taiteissa tai k‰sitˆiss‰, h‰n on arki-ihminen. N‰it‰
+haltioita on useita ja monenlaisia, ja yksi heist‰ on Eros.' -- 'Kuka
+on h‰nen is‰ns‰', sanoin min‰, 'ja kuka h‰nen ‰itins‰?' -- 'Se k‰y
+tosin pitk‰lliseksi selitt‰‰, mutta kuitenkin kerron sen sinulle. Kun
+Aphrodite syntyi, viettiv‰t jumalat pitoja, ja muitten muassa myˆs
+Metiksen poika Poros. Kun he olivat syˆneet, tuli sinne Penia,[27]
+kuten ainakin kemuihin, kerj‰‰m‰‰n ja seisoi oven ulkopuolella. Nyt
+Poros, joka oli juopunut nektarista -- viini‰ ei silloin viel‰ ollut --
+l‰hti Zeun puutarhaan ja v‰synyt kun oli, vaipui uneen. Penia keksi
+silloin kˆyhyytens‰ takia ovelan tuuman synnytt‰‰ lapsen Poroksen
+kanssa, asettui lep‰‰m‰‰n h‰nen viereens‰ ja tuli raskaaksi Eroksesta.
+Sent‰hden Eroksesta on tullutkin Aphroditen seuralainen ja palvelija,
+koska h‰n on siinnyt h‰nen syntym‰juhlanaan ja koska h‰n luonnostaan
+on kauniin rakastaja, koska Aphroditekin on kaunis. Koska Eros on
+Poroksen ja Penian poika, on h‰nen tilansa seuraavantapainen:
+Ensiksi on h‰n ikuisesti kˆyh‰ ja kaukana siit‰ ett‰ h‰n olisi hento ja
+kaunis, millaiseksi useimmat h‰nt‰ luulevat, h‰n p‰invastoin on
+karkearakenteinen ja likainen, paljasjalkainen ja koditon sek‰ makaa
+aina paljaalla maalla ja ilman peitett‰ ja nukkuu vapaan taivaan alla
+ovien edess‰ ja kujilla. H‰nell‰ on ‰itins‰ luonto ja puute on h‰nell‰
+alituisena seuralaisena. Mutta is‰ns‰ mukaan h‰n tavoittelee hyv‰‰ ja
+kaunista, on urhoollinen, rohkea ja voimakas, mahtava mets‰st‰j‰, punoo
+aina juonia, pyrkii tietoon, on kekseli‰s ja filosofoi kautta koko
+el‰m‰ns‰, on mahtava noita, myrkynsekoittaja ja sofisti. Luonnostaan
+h‰n ei ole kuolematon eik‰ kuolevainen, vaan samana p‰iv‰n‰ h‰n milloin
+kukoistaa ja el‰‰, kun h‰nell‰ on menestyst‰, milloin taas kuolee,
+mutta elpyy uuteen eloon is‰ns‰ luonnon voimasta. Mit‰ h‰n hankkii
+itselleen, se h‰vi‰‰ alituisesti, niin ettei Eros koskaan ole varaton
+eik‰ rikas ja h‰n on viisauden ja tiet‰m‰ttˆmyyden v‰litilassa.
+Asianlaita on n‰et seuraava: Jumalista ei kukaan harrasta filosofiaa
+eik‰ pyri tulemaan viisaaksi, jokainen heist‰ kun jo on viisas. Eik‰
+myˆsk‰‰n, jos on joku muu viisas olemassa, t‰m‰ harrasta filosofiaa.
+Eiv‰t toiselta puolen myˆsk‰‰n tiet‰m‰ttˆm‰t harrasta filosofiaa
+eiv‰tk‰ halua tulla viisaiksi. Sill‰ juuri siin‰ suhteessa
+tiet‰m‰ttˆmyys on pahaa, ett‰ se, vaikkakaan se ei ole kaunista, hyv‰‰
+eik‰ viisasta, pit‰‰ itse‰‰n t‰ydellisen‰. Se, joka ei luule olevansa
+puutteellinen, se ei halua sit‰, mit‰ h‰n ei luule tarvitsevansa.' --
+'Kutka siis, Diotima', sanoin min‰, 'ovat filosofian harrastajia, jos
+niit‰ eiv‰t ole viisaat eik‰ tiet‰m‰ttˆm‰t?' H‰n lausui: 'Seh‰n on
+lapsellekin selv‰‰, ett‰ niit‰ ovat ne, jotka ovat molempien
+v‰limailla, ja n‰ihin kuuluu myˆs Eros. Sill‰ viisaus kuuluu kaikkein
+kauneimpaan, Eros taas on rakkautta kauniiseen, niin ett‰ Eroksen
+v‰ltt‰m‰tt‰ t‰ytyy olla filosofi ja filosofina olla viisaan ja
+tiet‰m‰ttˆm‰n v‰limailla. Siihen on h‰nell‰ syyn‰ h‰nen syntyper‰ns‰.
+Sill‰ h‰nen is‰ns‰ on viisas ja varakas, ‰iti taas ymm‰rt‰m‰tˆn ja
+varaton. T‰llainen on, rakas Sokrates, haltian luonto. Siin‰, ett‰
+luulit Eroksen siksi kuin sen luulit, ei ole mit‰‰n ihmetelt‰v‰‰. Sill‰
+sin‰ luulit, kuten minusta n‰ytt‰‰, kun teen johtop‰‰tˆksi‰ sinun
+puheestasi, ett‰ Eros on se, jota rakastetaan, eik‰ se, joka rakastaa.
+Sentakia Eros luullakseni n‰ytti sinusta ihmeen kauniilta. Sill‰
+rakastettava on todellisuudessa kaunista, hienoa, t‰ydellist‰ ja
+onnelliseksi ylistett‰v‰‰. Mutta rakastavalla on toisenlainen olemus,
+sellainen, jommoisen olen esitt‰nyt.'
+
+"Min‰ sanoin: 'Hyv‰, muukalainen! Hyvin puhuttu! Mutta jos Eros on
+t‰llainen, niin mit‰ hyˆty‰ h‰nest‰ on ihmisille?' -- 'Sen koetan min‰,
+Sokrates', sanoi h‰n, 't‰m‰n j‰lkeen sinulle osoittaa. T‰llainen on
+Eros ja t‰ten syntynyt, ja h‰n on, kuten sin‰ sanot, rakkautta
+kauniiseen. Mutta jos joku kysyisi meilt‰: Miten Eros on rakkautta
+kauniiseen, Sokrates ja Diotima? tai sanoakseni t‰m‰n selvemmin: Mit‰
+rakastaa se, joka rakastaa kaunista?' -- Min‰ sanoin: 'Sit‰, ett‰ se
+tulisi h‰nen osakseen.' -- 'Mutta', sanoi h‰n, 't‰m‰ vastaus kaipaa
+viel‰ seuraavaa kysymyst‰: Mit‰ tulee sen osaksi, jolle lankeaa se,
+mik‰ on kaunistat?' -- Min‰ sanoin, etten ole aivan valmis vastaamaan
+t‰h‰n kysymykseen. 'Mutta', sanoi h‰n, 'jos joku vaihtaisi sanan
+'kaunis' sanaan 'hyv‰' ja tiedustelisi ja kyselisi: Kuule, Sokrates,
+mit‰ rakastaa se, joka rakastaa hyv‰‰?' -- Min‰ sanoin: 'Sit‰, ett‰ se
+tulisi h‰nen osakseen.' -- 'Mit‰ sitten tulee h‰nen osakseen, joka saa
+osakseen hyv‰‰?' -- 'Siihen voi helpommin vastata', sanoin min‰: 'h‰n
+tulee onnelliseksi.' -- 'Hyv‰n omistamisen kautta nimitt‰in', sanoi
+h‰n, 'ovat onnelliset onnellisia. Eik‰ en‰‰ tarvitse tehd‰ uutta
+kysymyst‰, mink‰ takia se tahtoo olla onnellinen, joka niin tahtoo,
+vaan vastaus n‰ytt‰‰ t‰ydelliselt‰.' -- 'Puhut totta', vastasin min‰.
+-- 'Luuletko siis, ett‰ t‰m‰ tahto ja t‰m‰ rakkaus on yhteist‰ kaikille
+ihmisille, ja ett‰ kaikki tahtovat, ett‰ heill‰ aina olisi hyv‰‰, vai
+mit‰ tarkoitat?' -- 'Sit‰ tarkoitan', vastasin, 'ett‰ se on yhteist‰
+kaikille.' -- 'Miksi siis, Sokrates', lausui h‰n, 'emme sano kaikkien
+rakastavan, kun kaikki rakastavat samaa ja lis‰ksi aina rakastavat,
+vaan sanomme toisten rakastavan, toisten ei?' -- 'Sit‰ min‰ itsekin
+ihmettelen', vastasin. -- 'ƒl‰ toki ihmettele!' sanoi h‰n.
+'Sill‰ me erotamme rakkaudesta jonkun lajin ja nimit‰mme sit‰, antaen
+sille kokonaiselle kuuluvan nimen, rakkaudeksi, muita nimit‰mme
+toisilla nimityksill‰.' -- 'Kuten esimerkiksi?' sanoin min‰. --
+'Esimerkiksi seuraavasti: Tied‰t, ett‰ sepitt‰minen[28] on jotakin
+monenlaista. Sill‰ kaiken olemattomasta olevaiseen siirtyv‰n koko syyn‰
+on sepitt‰minen, niin ett‰ toiminta kaikkien taiteitten alalla on
+sepitt‰mist‰ ja n‰itten harjoittajat kaikki sepitt‰ji‰.' -- 'Se on
+totta.' -- 'Mutta kuitenkin', sanoi h‰n, 'tied‰t, ettei heit‰ kutsuta
+sepitt‰jiksi, vaan on heill‰ toisia nimi‰, mutta sepitt‰misest‰
+kokonaisuudessaan on eroitettu yksi osa, joka k‰sitt‰‰ s‰vel-, runo- ja
+rytmitaidon, ja sit‰ kutsutaan kokonaisuudelle kuuluvalla nimell‰. Sit‰
+n‰et yksin‰‰n kutsutaan sepitt‰miseksi (runoudeksi) ja sit‰ taidetta
+hallitsevia sepitt‰jiksi (runoilijoiksi).' -- 'Oikein puhuttu', sanoin.
+-- 'Samoin on myˆs rakkauden laita. Ylip‰‰ns‰ on kaikki hyv‰n ja
+onnellisuuden kaipuu jokaiselle suurinta ja korkeinta rakkautta. Mutta
+niiden, jotka k‰‰ntyv‰t moneen muuhun suuntaan sen tavoittelussa, joko
+rikkauden hankkimiseen tai ruumiinharjoituksiin tai tieteen
+harjoittamiseen, ei sanota rakastavan eik‰ heit‰ kutsuta rakastajiksi,
+ne, jotka k‰‰ntyv‰t sen yhteen puoleen innostuksella, saavat
+kokonaisuuden nimen: rakkaus, rakastaa, rakastaja.' -- 'N‰yt‰t puhuvan
+totta', sanoin min‰. -- 'Sellainenkin v‰ite esitet‰‰n, ett‰ ne, jotka
+etsiv‰t omaa puolikastaan, ne rakastavat. Minun mielipiteeni mukaan
+rakkaus ei kohdistu puoleen eik‰ kokonaiseen, jollei se, yst‰v‰ni, ole
+jotakin hyv‰‰. Sill‰ ihmiset tahtovat jalkansa ja k‰tens‰ leikattaviksi
+pois, jos n‰m‰ -- niin heid‰n omiaan kuin ne ovatkin -- n‰ytt‰v‰t
+olevan heille haitallisia. Sill‰ ei jokainen ole kiintynyt siihen, mik‰
+on h‰nen omaansa, lukuunottamatta sit‰ tapausta, ett‰ joku kutsuu hyv‰‰
+omaisuudekseen ja omakseen, ja pahaa vieraaksi. Siis eiv‰t ihmiset
+rakasta mit‰‰n muuta kuin hyv‰‰. Vai n‰ytt‰v‰tkˆ he sinusta
+rakastavan?' -- 'Kautta Zeun, eiv‰t minusta!' sanoin min‰. -- 'K‰ykˆ
+siis', lausui h‰n, 'n‰in yksinkertaisesti sanominen, ett‰ ihmiset
+rakastavat hyv‰‰?' -- 'Kyll‰', sanoin. -- 'Kuinka?' sanoi h‰n. 'Eikˆ
+ole lis‰tt‰v‰, ett‰ he rakastavat myˆs sit‰, ett‰ heid‰n omanaan olisi
+se, mik‰ on hyv‰‰?' -- 'On kyll‰.' -- 'Ja ettei se vain olisi', sanoi
+h‰n, 'vaan ett‰ se aina olisi?' -- 'Sekin on lis‰tt‰v‰.' -- 'Rakkaus on
+siis, lyhyesti sanoen', lausui h‰n, 'halua alituisesti omistaa se, mik‰
+on hyv‰‰.' -- 'Aivan oikein lausuttu', sanoin min‰.
+
+"Kun siis rakkaus kohdistuu t‰h‰n', sanoi h‰n, 'niin mill‰ tavalla ja
+mit‰ tehden ne sit‰ etsiv‰t, joiden intoa ja ponnistusta voidaan kutsua
+rakkaudeksi? Mik‰ t‰m‰ teko on? Voitko sin‰ sanoa?' -- 'Min‰ en
+silloin', sanoin min‰, 'ihailisi sinua viisautesi takia, enk‰ k‰visi
+luoksesi saadakseni sinulta juuri t‰t‰ tiet‰‰.' -- 'No niin', sanoi
+h‰n, 'min‰ sanon sinulle. Se on synnytt‰mist‰ kauniissa, sek‰ ruumiin
+ett‰ sielun puolesta.' -- 'Tarvitaan tiet‰j‰lahjaa', sanoin min‰,
+'jotta voisi k‰sitt‰‰, mit‰ sin‰ sanot, enk‰ min‰ sit‰ ymm‰rr‰.' --
+'Min‰ sanon', lausui h‰n, 'sen sinulle selvemmin. Kaikki ihmiset n‰et,
+Sokrates, ovat raskaita sek‰ sielun ett‰ ruumiin puolesta, ja kun he
+ovat tulleet vissiin ik‰‰n, pyrkii luontomme synnytt‰m‰‰n. Mutta se ei
+voi synnytt‰‰ rumuudessa, vaan kauneudessa. Sill‰ miehen ja naisen
+yhtyminen on synnytt‰mist‰. Ja t‰m‰ on jumalallinen asia ja elollisessa
+olennossa, joka on kuolevainen, on t‰m‰ kuolematonta, raskaaksitulo ja
+synnytt‰minen. Ep‰suhtaisessa t‰m‰ ei voi k‰yd‰ p‰ins‰. Ep‰suhtaista
+taas on se, mik‰ on kaiken jumalallisen kannalta rumaa, kaunis taas on
+sopusuhtaista. Kauneuden jumalatar (Kallone) on siis kohtalon ja
+kirvoittamisen jumalatar (Moira ja Eileithyia) synnytt‰miseen n‰hden.
+Sentakia nimitt‰in, ett‰ kun se, joka on raskaana, l‰henee kaunista,
+niin se ilosta ja riemusta laajenee ja synnytt‰‰, mutta kun se l‰henee
+rumaa, niin se harmistuneena ja surullisena vet‰ytyy itseens‰, k‰‰ntyy
+pois ja kiertyy kokoon, eik‰ synnyt‰, vaan kantaa vaivaloisesti
+sikiˆt‰. Siksip‰ se, joka on raskas ja valmis synnytt‰m‰‰n, tuntee
+kaipuuta kauniiseen sentakia, ett‰ se voi vapauttaa h‰net suuresta
+tuskasta. Sill‰, Sokrates', sanoi h‰n, 'rakkaus ei kohdistu kauniiseen,
+kuten sin‰ luulet.' -- 'Mihink‰ sitten?' -- 'Kauniissa siitt‰miseen ja
+synnytt‰miseen.' -- 'Olkoon niin', sanoin. -- 'Varmasti', sanoi h‰n, --
+'Kuinka juuri synnytt‰miseen?' -- 'Koska synnytt‰minen on ikuista ja
+kuolevaiseen verrattuna kuolematonta. Pyrkimyksen kuolemattomuuteen
+t‰ytyy kuitenkin sen mukaan, mist‰ olemme tulleet yksimielisiksi,
+tapahtua yhdistettyn‰ hyv‰‰n, jos rakkaus kerta tavoittaa hyv‰n
+alituista omistamista. T‰m‰n todistelun perusteella rakkauden t‰ytyy
+kohdistua myˆskin kuolemattomuuteen.'
+
+"Kaikkea t‰t‰ h‰n opetti minulle, kun h‰n puhui rakkauden luonteesta ja
+toisella kertaa h‰n kysyi minulta: 'Mink‰ sin‰, Sokrates, luulet olevan
+t‰h‰n rakkauteen ja kaipuuseen syyn‰? Vai etkˆ huomaa, mitenk‰
+voimakkaan kiihoituksen valtaan kaikki el‰imet joutuvat, kun he
+tuntevat synnytt‰misen halua, sek‰ siivettˆm‰t ett‰ siivekk‰‰t, kuinka
+he ovat sairaita ja kuinka rakkauden vaistot heit‰ kiihoittavat ensiksi
+yhtym‰‰n toisiinsa, ja sitten pit‰m‰‰n huolta synnytetyn el‰tt‰misest‰,
+kuinka ne ovat valmiit, heikoimmatkin v‰kevimpi‰ vastaan n‰iden
+puolesta taistelemaan ja kuolemaan, kuinka ne antautuvat k‰rsim‰‰n
+n‰lk‰‰ el‰tt‰‰kseen n‰it‰ ja tekev‰t kaikkea muuta. Ihmisten voisi
+arvella n‰in tekev‰n j‰rjellisen harkinnan perusteella, mutta mik‰ on
+syyn‰ siihen, ett‰ el‰imet siin‰ m‰‰r‰ss‰ joutuvat rakkauden valtaan?
+Taidatko sanoa?' -- Min‰ vastasin j‰lleen, etten tiennyt. H‰n sanoi:
+'Ajatteletko joskus tulevasi rakkausasioissa taitavaksi, jollet t‰t‰
+k‰sit‰?' -- 'Mutta senh‰n t‰hden, kuten jo ‰sken sanoin, olen tullut
+luoksesi Diotima, ett‰ olen tuntenut tarvitsevani opettajia. Selit‰
+siis minulle syy t‰h‰n ja muuhunkin, joka koskee rakkautta!' -- 'Jos
+sin‰ siis uskot', sanoi h‰n, 'ett‰ rakkaus luonnostaan kohdistuu
+siihen, mist‰ jo useasti olemme p‰‰sseet yksimielisyyteen, niin ‰l‰
+ihmettele. Sill‰ samoin kuin siin‰, koettaa t‰ss‰kin kuolevainen luonto
+mik‰li mahdollista olla ikuinen ja kuolematon. Mutta se voi olla sit‰
+vain t‰ll‰ tavalla, synnytt‰misen kautta, koska se j‰tt‰‰ toisen uuden
+olennon vanhan sijaan. Sill‰ kun jokaisen elollisen olennon sanotaan
+el‰v‰n ja olevan saman, kuten jokaista lapsuudesta vanhuuteen asti
+kutsutaan samaksi, niin h‰ness‰, vaikka h‰nt‰ kutsutaan samaksi, ei
+kuitenkaan ole itsess‰‰n samaa olemusta, vaan h‰n syntyy aina uutena,
+ja kadottaa toisia osia, sek‰ hiuksista, ett‰ lihasta, luista, verest‰
+ja koko ruumiista. Eik‰ niin ole vain ruumiin laita, vaan myˆskin
+sielun: luonteesta, tavoista, mielikuvista, haluista, hyv‰ntunteesta,
+suruista, pelosta, kaikesta t‰st‰ ei koskaan ole jokaisella kaikissa
+suhteissa samaa sielussa, vaan osa syntyy, osa h‰vi‰‰. Paljoa
+ihmeellisemp‰‰ on, ett‰ meid‰n tietomme eiv‰t ainoastaan osaksi synny,
+osaksi h‰vi‰ ja ettemme tietoihimme n‰hden koskaan ole samoja, vaan
+ett‰ jokainen yksityinenkin tietomme joutuu saman kohtalon alaiseksi.
+Sill‰ se, mit‰ me kutsumme mietiskelyksi, se tapahtuu tiedon kadotessa.
+Sill‰ unohdus on tiedon h‰vi‰mist‰, mietiskely taas synnytt‰‰ katoavan
+sijasta uudestaan muiston ja s‰ilytt‰‰ tiedon, niin ett‰ se n‰ytt‰‰
+olevan sama. T‰ll‰ tavalla kaikki kuolevainen s‰ilyy, ei siten, ett‰ se
+kauttaaltaan aina olisi sama, kuten jumalallinen, vaan siten, ett‰
+katoava ja vanheneva j‰tt‰‰ toisen uuden kaltaisensa luoman sijalleen.
+T‰ll‰ keinoin, Sokrates, on kuolevainen osallinen kuolemattomuudesta
+sek‰ ruumiin ett‰ kaiken muun puolesta. Mahdotonta on sen olla sit‰
+muulla tavalla. ƒl‰ siis ihmettele sit‰, ett‰ jokainen olento
+luonnostaan pit‰‰ arvossa j‰lkel‰ist‰‰n, sill‰ kuolemattomuuden vuoksi
+on jokaisessa olennossa t‰m‰ into ja t‰m‰ rakkaus.'
+
+"Kuultuani t‰m‰n puheen min‰ ihmettelin ja sanoin: 'Hyv‰, viisahin
+Diotima! Onko t‰m‰n laita nyt todellakin niin?' -- H‰n vastasi,
+kuten aito sofisti: 'Ole varma siit‰, Sokrates! Sill‰ jos tahdot
+kiinnitt‰‰ huomiosi ihmisten kunnianhimoon, niin ihmettelet heid‰n
+mielettˆmyytt‰‰n, jollet k‰sit‰, mit‰ olen sanonut, ajatellessasi,
+kuinka voimakkaasti rakkaus heit‰ kiihoittaa saamaan nime‰ itselleen ja
+j‰tt‰m‰‰n ikuisiin aikoihin kuolemattoman kunnian j‰lkeens‰, kuinka he
+sen puolesta ovat valmiit antautumaan kaikille vaaroille alttiiksi
+viel‰ ennemmin kuin lapsien puolesta, uhraamaan varoja, k‰rsim‰‰n mit‰
+vaivoja tahansa ja viel‰p‰ kuolemaankin. Sill‰ luuletko sin‰, ett‰
+Alkestis olisi kuollut Admetoksen puolesta, tai Akhilleus seurannut
+Patroklosta kuolemaan, tai teik‰l‰inen, Kodros[29] kuollut
+ennenaikaista kuolemaa hankkiakseen lapsilleen kuningasvallan,
+jolleiv‰t he olisi uskoneet, ett‰ heid‰n hyveest‰‰n s‰ilyisi kuolematon
+muisto, joka meill‰ siit‰ nyt on. Kaukana siit‰ ett‰ n‰in olisi',
+jatkoi h‰n, 'min‰ p‰invastoin luulen, ett‰ kaikki hyveen
+kuolemattomuuden ja sellaisen loistavan maineen saavuttamiseksi tekev‰t
+kaikkensa, sit‰ enemm‰n, mit‰ parempia he ovat. Sill‰ he rakastavat
+kuolemattomuutta. Ne, jotka ruumiiltaan ovat raskaita', sanoi h‰n,
+'k‰‰ntyv‰t etup‰‰ss‰ naisten puoleen ja ovat t‰ll‰ tavalla
+rakastuneita, he kun lasten synnytt‰misen kautta uskovat hankkivansa
+itselleen kuolemattomuuden, muiston ja onnellisuuden kaikeksi
+j‰lkeentulevaksi ajaksi. Toiset taas ovat raskaita sielultaan[30] --
+sellaisia n‰et on, jotka ovat hedelm‰llisempi‰ sielullisesti kuin
+ruumiillisesti, nimitt‰in siin‰, mit‰ sielun sopii siitt‰‰ ja
+synnytt‰‰. Mit‰ siis sen sopii synnytt‰‰? Viisautta ja muuta hyvett‰;
+niiden synnytt‰ji‰ ovat sek‰ kaikki runoilijat ett‰ kaikki ne
+taiteilijat, joita kutsutaan keksijˆiksi. Mutta kaikkein t‰rkein ja
+kaunein laji viisautta on', sanoi h‰n, 'se, joka koskee valtion ja
+yksityistalouden j‰rjestely‰, mink‰ nimen‰ on kohtuullisuus ja
+oikeamielisyys. Se, joka nuoruudesta asti syd‰mess‰‰n kantaa n‰it‰
+hyveit‰, ollen jumalallinen, se haluaa myˆskin sopivan i‰n saapuessa
+synnytt‰‰ ja k‰y luullakseni ymp‰ri ja etsii kaunista, miss‰ voisi
+synnytt‰‰. Sill‰ rumassa h‰n ei milloinkaan synnyt‰. Kauniita ruumiita
+h‰n rakastaa enemm‰n kuin rumia, h‰ness‰ kun el‰‰ halu synnytt‰‰, ja
+jos h‰n kohtaa kauniin, jalon ja hyvin muodostuneen sielun, niin h‰n
+armastaa molempia yhdess‰, ja t‰lle ihmiselle on h‰nell‰ heti valmiina
+runsaasti sanoja hyveest‰ ja siit‰, millainen tulee hyv‰n miehen olla
+ja mit‰ h‰nen tulee harrastaa, ja h‰n ryhtyy opettamaan t‰t‰. Sill‰
+luulen, ett‰ h‰n, tullessaan kosketukseen ja yhteyteen kauniin kanssa,
+synnytt‰‰ ja el‰vˆitt‰‰ sen, jota h‰n kauan on kantanut, sek‰
+l‰sn‰- ett‰ poissaollen h‰nt‰ muistellen, ja kasvattaa synnytt‰m‰ns‰
+yhdess‰ sen kanssa. Sent‰hden on n‰ill‰ paljon suurempi keskin‰inen
+yhteys kuin se, joka syntyy lasten kautta, ja lujempi yst‰vyys, koska
+heille ovat yhteisi‰ kauniimmat ja kuolemattomimmat lapset. Sent‰hden
+halunneekin jokainen itselleen mieluummin sellaisia lapsia kuin
+ihmislapsia, jos h‰n luo silm‰ns‰ Homerokseen ja Hesiodokseen ja muihin
+hyviin runoilijoihin kateudella ajatellen, millaisia j‰lkel‰isi‰ he
+ovat j‰tt‰neet, j‰lkel‰isi‰, jotka tuottavat heille kuolematonta
+kunniaa ja muistoa, koska ne itse ovat kuolemattomia; tai jos haluat,
+millaisia lapsia Lykurgos j‰tti Lakedaimoniin, Lakedaimonin ja lyhyesti
+sanoen koko Hellaan pelastajia. Meid‰n keskuudessamme taas on Solon
+arvossapidetty lakien synnytt‰misen takia ja muut miehet monella muulla
+taholla, sek‰ hellenien ett‰ barbarien keskuudessa, miehet, jotka ovat
+tehneet monia kauniita tekoja ja synnytt‰neet kaikenlaista hyvett‰.
+N‰ille onkin jo rakennettu useita temppeleit‰ t‰llaisten lasten takia,
+mutta ei kenellek‰‰n inhimillisten j‰lkel‰isten t‰hden.'
+
+"'T‰h‰n rakkauden tuntemiseen voidaan sinut, Sokrates, kenties vihki‰,
+mutta en tied‰, kykenetkˆ p‰‰sem‰‰n kaikkein t‰ydellisimpiin ja
+korkeimpiin salaisuuksiin, joihin t‰h‰nastinen esitykseni t‰ht‰‰, jos
+p‰‰telm‰in tekoa vain oikein jatketaan. Kuitenkin', sanoi h‰n, 'tahdon
+ne sinulle esitt‰‰, jottei minulta ainakaan puuttuisi hyv‰‰ tahtoa.
+Koeta seurata, jos siihen kykenet! Sill‰ sen, joka oikealla tavalla k‰y
+t‰h‰n asiaan k‰siksi, tulee nuoruudessa etsi‰ kauniita ruumiita, ja
+ensinn‰ tulee h‰nen, jos h‰nt‰ oikein ohjaa h‰nen ohjaajansa, rakastaa
+yht‰ ruumista ja siin‰ synnytt‰‰ kauniita ajatuksia, mutta sitten tulee
+h‰nen huomata, ett‰ miss‰ ruumiissa tahansa oleva kauneus on
+sisarkauneutta toisessa ruumiissa olevalle, ja ett‰ jos tulee seurata
+sit‰, mik‰ k‰sitteelt‰‰n on kaunista, on aivan j‰rjetˆnt‰ olla
+pit‰m‰tt‰ kaikissa ruumiissa olevaa kauneutta yhten‰ ja samana. Ja
+t‰m‰n huomattuaan tulee h‰nen esiinty‰ kaikkien kauniiden ruumiiden
+rakastajana ja hellitt‰‰ tuosta tulisesta rakkaudesta yhteen ainoaan ja
+pit‰‰ sit‰ halpana ja v‰h‰arvoisena. Senj‰lkeen tulee h‰nen pit‰‰
+sielun kauneutta suuremmassa arvossa kuin ruumiin kauneutta, niin ett‰,
+jos jollakulla on oivallinen sielu, h‰n tyytyy siihen, vaikkakin t‰ll‰
+olisi ruumiillista kukkeutta v‰h‰isess‰ m‰‰r‰ss‰, rakastaa t‰t‰ ja
+pit‰‰ t‰st‰ huolta ja synnytt‰‰ ja etsii sellaisia ajatuksia, jotka
+tekev‰t nuoret ihmiset paremmiksi, jotta h‰n tulisi pakotetuksi
+katselemaan inhimillisiss‰ harrastuksissa ja laeissa esiintyv‰‰
+kauneutta ja huomaamaan, ett‰ se kaikkialla on itselleen l‰heisesti
+sukulaista, ja pit‰isi ruumiillista kauneutta v‰h‰arvoisena.
+Harrastuksista tulee h‰nen kulkea eteenp‰in tietojen piiriin, jotta h‰n
+huomaisi niiden kauneuden ja jo luoden silm‰ns‰ kauneuteen sen
+moninaisuudessa ei en‰‰ orjan tavoin palvelisi yksityisess‰ olevaa
+kauneutta eik‰ rakastaisi poikasen kauneutta, tai jonkun miehen tai
+yksityisen harrastuksen kauneutta eik‰ olisi matala pikkusielu, vaan
+k‰‰ntyen kauneuden aavalle ulapalle ja katsellen sit‰ synnytt‰isi
+moninaisia kauniita ja ihania sanoja ja ajatuksia rajattomassa
+pyrkimyksess‰‰n viisauteen, kunnes h‰n t‰st‰ voimistuneena ja
+kehittyneen‰ k‰sitt‰isi yhden ainoan t‰llaisen tiedon, joka koskee t‰t‰
+kauneutta. Koeta nyt', sanoi h‰n, 'olla niin tarkkaavainen kuin
+mahdollista!'
+
+"'Sill‰ se, joka t‰h‰n asti on saanut opetusta rakkaudessa ja joka
+katsoo kauneuden eri asteita j‰rjestyksess‰ ja oikealla tavalla, h‰n on
+k‰yden kohti rakkauden tuntemisen t‰ydellisyytt‰ yht‰kki‰ havaitseva
+jotakin luonnostaan ihmeellisen kaunista, juuri sit‰, Sokrates, jota
+edell‰k‰yneet ponnistukset tarkoittivat, ja joka ensiksi on ikuista,
+syntym‰tˆnt‰ ja h‰vi‰m‰tˆnt‰, lis‰‰ntym‰tˆnt‰ ja v‰henem‰tˆnt‰, joka ei
+ole toiselta puolen kaunista, toiselta taas rumaa, eik‰ milloin
+kaunista, milloin ei, eik‰ toiseen verraten kaunista, toiseen rumaa,
+eik‰ toisessa paikassa kaunista, toisessa rumaa, ik‰‰nkuin se olisi
+toisille kaunista, toisille rumaa. Eik‰ t‰m‰ kauneus n‰ytt‰ydy h‰nelle
+kasvoina tai k‰sin‰ tai min‰‰n muuna ruumiiseen kuuluvana, ei myˆsk‰‰n
+puheena tai tietona, eik‰ liioin toisessa olevana, kuten elollisessa
+olennossa, maassa, taivaassa tai muussa, vaan itsest‰‰n ja itsess‰‰n
+aina yhten‰isen‰, ja kaikki muut kauneuden muodot ovat siit‰ osallisia,
+jotenkin siihen tapaan, ett‰ muiden syntyess‰ ja h‰vitess‰ se ei
+mitenk‰‰n enene eik‰ v‰hene eik‰ joudu mink‰‰n muutoksen alaiseksi. Kun
+nyt joku muusta kauneudesta oikean poikarakkauden kautta kohoten
+ylˆsp‰in alkaa havaita ‰skenmainittua kauneutta, on h‰n miltei
+saavuttanut p‰‰m‰‰r‰n. Sill‰ se on oikea tie rakkauden tuntemiseen,
+joko sit‰ itse kulkee tai antaa toisen johdattaa, ett‰ alkaen
+yksityisist‰ kauneuden ilmiˆist‰ tuon mainitun kauneuden takia aina
+nousee ylˆsp‰in ik‰‰nkuin portaita myˆten, yhdest‰ kahteen ja kahdesta
+kaikkiin kauneihin ruumiisiin, kauniista ruumiista kauneihin
+harrastuksiin, kauniista harrastuksista kauneihin tietoihin, kunnes
+kauniista tiedoista p‰‰tyy siihen tietoon, joka ei ole tietoa muusta
+kuin tuosta t‰ydellisest‰ kauneudesta itsest‰‰n, ja lopulta oppii
+tuntemaan itse kauneuden.'
+
+"'T‰ss‰ kohdassa el‰m‰‰, rakas Sokrates', jatkoi tuo vieras Mantineian
+nainen, 'on, jos miss‰‰n, el‰m‰ ihmiselle el‰misen arvoista, kun h‰n
+katselee kauneutta itse‰‰n. Ja jos sen kerran n‰et, et ole vertaava
+sit‰ kultaan etk‰ vaatteisiin, et kauneihin poikiin etk‰ nuorukaisiin,
+joitten n‰kemisest‰ nyt olet hurmaantunut, ja olet valmis useitten
+muitten tavoin heid‰t n‰hdess‰si ja aina ollessasi yhdess‰ heid‰n
+kanssaan, jos se vain k‰visi p‰ins‰, olemaan syˆm‰tt‰ ja juomatta ja
+aina vain heit‰ katselemaan ja olemaan heid‰n seurassaan. Mit‰ siis',
+sanoi h‰n, 'ajattelemme, jos jollekulle onnistuisi n‰hd‰ itse kauneus
+kirkkaana, puhtaana, sekoittamattomana ja vapaana inhimillisest‰
+lihasta ja v‰reist‰ ja monenlaisesta muusta katoavasta turhuudesta, jos
+joku voisi n‰hd‰ jumalallisen kauneuden sen omassa yhten‰isess‰
+muodossa? Luuletko', sanoi h‰n, 'ett‰ sen ihmisen el‰m‰ muodostuu
+alhaiseksi, joka siihen luo silm‰ns‰, katselee sit‰ oikeilla katseilla
+ja el‰‰ sen yhteydess‰? Vai etkˆ luule, ett‰ jos h‰n oikealla tavalla
+katsoo kauneutta, h‰nelle vain silloin k‰y mahdolliseksi synnytt‰‰, ei
+hyveen harhakuvia, koska h‰n ei ole tekemisiss‰ harhakuvan kanssa, vaan
+todellinen hyve, koska h‰n on saavuttanut totuuden? Mutta sen, joka on
+synnytt‰nyt todellisen hyveen ja sit‰ kasvattanut, on suotu tulla
+jumalille rakkaaksi ja kuolemattomaksi, jos kuolemattomuus kerran on
+jollekin ihmiselle suotu.'
+
+"T‰m‰n, Phaidros ja te toiset, Diotima minulle puhui ja min‰ uskoin.
+Itse uskoessani koetan muitakin saada uskomaan, ett‰ t‰m‰n omaisuuden
+saavuttamiseksi ei helposti voi lˆyt‰‰ inhimilliselle luonnolle
+parempaa auttajaa kuin Eros. Sentakia min‰ v‰it‰n joka miehen
+velvollisuuden olevan pit‰‰ arvossa Erosta, ja min‰ itse kunnioitan ja
+harjoitan rakkauden taitoa ja kehoitan muitakin niin tekem‰‰n, ja
+ylist‰n nyt ja aina Eroksen mahtia ja miehuutta niin paljon kuin voin.
+Jos tahdot, Phaidros, niin pid‰ n‰m‰ sanani ylistyspuheena Erokselle,
+muussa tapauksessa anna niille se nimi, joka sinua haluttaa!"
+
+Kun Sokrates oli n‰in puhunut, olivat toiset kiitt‰neet, mutta
+Aristophanes oli aikonut lausua jotakin sen johdosta, ett‰ Sokrates oli
+puheessaan viitannut h‰neen h‰nen sanojensa johdosta, kun yht‰kki‰ oli
+syntynyt kova meteli siit‰, ett‰ ulko-ovelle kolkutti -- ainakin silt‰
+tuntui -- juopuneita ja kuului huilunsoittajattaren ‰‰ni. Agathon
+sanoi: "K‰yk‰‰ katsomaan, pojat, ja jos siell‰ on joku tuttava, niin
+kutsukaa sis‰lle; jollei ole, niin sanokaa, ettemme juo, vaan lep‰‰mme
+jo!" V‰h‰n myˆhemmin kuului eteissalissa Alkibiadeen ‰‰ni; t‰m‰ oli
+vahvasti juovuksissa ja huusi kovasti, kyseli, miss‰ Agathon oli, ja
+k‰ski vied‰ itse‰‰n Agathonin luo. He veiv‰t nyt h‰net heid‰n luokseen
+ja huilunsoittajattaren, joka talutti h‰nt‰ k‰sivarresta sek‰ muutamia
+muita h‰nen seuralaisistaan. H‰n seisahtui ovelle, p‰‰ss‰‰n tihe‰
+muratti- ja orvokkiseppele ja sangen paljon nauhoja, ja sanoi: "Terve,
+miehet! Otatteko juomatoveriksenne aika vahvasti liikutetun mieheni Vai
+pit‰‰kˆ meid‰n l‰hte‰ seppelˆity‰mme Agathonin, jota varten olemme
+tulleet? Min‰ n‰et -- sanoi h‰n -- en eilen kyennyt saapumaan, mutta
+nyt min‰ olen tullut p‰‰ss‰ni n‰m‰ nauhat, jotta voisin ne ottaa sielt‰
+ja sitoa viisaimman ja -- jos niin saan sanoa -- kauneimman miehen
+p‰‰h‰n. Te taidatte nauraa minua sentakia, ett‰ olen juovuksissa.
+Kuitenkin -- vaikka te minua nauraisittekin -- tied‰n min‰ varmasti
+puhuvani totta. Mutta sanokaa nyt minulle heti paikalla, saanko n‰ill‰
+ehdoilla astua sis‰lle vai enkˆ! Juotteko te minun kanssani vai
+ettekˆ?" -- Kaikki melusivat silloin ja k‰skiv‰t h‰nen k‰yd‰ sis‰lle ja
+asettua lepopaikalle, ja Agathon kutsui h‰net. H‰n k‰vi nyt sis‰lle
+joukon saattamana ja otti samalla p‰‰st‰‰n nauhoja seppelˆinti‰ varten
+ja kun h‰nell‰ oli ne silmiens‰ edess‰, ei h‰n n‰hnyt Sokratesta, vaan
+istuutui Agathonin viereen Sokrateen ja t‰m‰n v‰liin. Sokrates oli n‰et
+v‰istynyt syrj‰‰n antaakseen t‰lle istumasijaa. H‰n istuutui nyt,
+syleili Agathonia ja seppelˆitsi h‰net.
+
+Agathon sanoi silloin: "Riisukaa, palvelijat, keng‰t Alkibiadeen
+jaloista, jotta h‰n lep‰isi t‰ss‰ kolmantena!" -- "Oikein!" sanoi
+Alkibiades. "Mutta kuka on meill‰ kolmantena juomatoverina?" Samassa
+h‰n k‰‰ntyi ja huomasi Sokrateen. Ja n‰hty‰‰n h‰net hyp‰hti h‰n ylˆs ja
+sanoi: "Oi Herakles, mit‰ t‰m‰ on? Sokratesko t‰‰ll‰? T‰nnekin olet
+asettunut v‰ijym‰‰n minua, kuten sinun tapanasi on ollut odottamatta
+siell‰ n‰ytt‰yty‰, miss‰ kaikkein v‰himmin olisin luullut sinun olevan.
+Ja mink‰t‰hden sin‰ nyt olet tullut? Ja miksi olet asettunut lep‰‰m‰‰n
+juuri t‰lle paikalle etk‰ Aristophaneen viereen tai jonkun muun
+viereen, joka on ja tahtoo olla hauska mies, vaan olet keinotellut
+itsellesi paikan l‰sn‰olijoista kauneimman vieress‰?" -- Sokrates
+sanoi: "Katsohan, Agathon, tahdotko puolustaa minua! T‰m‰n miehen
+rakkaus on tuottanut minulle aika lailla harmia. Sill‰ siit‰ ajasta
+alkaen, jolloin rupesin t‰t‰ rakastamaan, ei minun en‰‰ ole ollut
+lupa luoda katseitani yhteenk‰‰n kauniiseen mieheen eik‰ vaihtaa
+sanaakaan sellaisen kanssa, sill‰ silloin tekee t‰m‰ kateudesta ja
+mustasukkaisuudesta kummallisia tekoja, haukkuu minua ja tuskin
+pid‰tt‰ytyy k‰ym‰st‰ minuun k‰siksi. Katso siis, ettei h‰n vain nytkin
+tekisi jotakin t‰llaista tekoa, ja sovita meid‰t kesken‰mme, tai jos
+h‰n ryhtyy k‰ytt‰m‰‰n v‰kivaltaa minua vastaan, niin suojele minua,
+sill‰ min‰ kammoan vahvasti t‰m‰n miehen hurjaa rakastamishalua!" --
+"Ei ole", sanoi Alkibiades, "sovinto mahdollinen minun ja sinun
+v‰lill‰. Mutta t‰st‰ saat toisella kertaa minulta rangaistuksen. Nyt,
+Agathon", sanoi h‰n, "anna minulle osa nauhoja voidaksemme sitoa
+seppeleen myˆskin t‰m‰n miehen ihmeelliseen p‰‰h‰n, jottei h‰n moittisi
+minua siit‰, ett‰ olen sinut seppelˆinyt, mutta en senj‰lkeen h‰nt‰,
+joka kuitenkin puheessa voittaa kaikki ihmiset, ei vain ‰sken, kuten
+sin‰, vaan aina." Ja samassa h‰n otti nauhoja, seppelˆitsi niill‰
+Sokrateen ja heitt‰ytyi lep‰‰m‰‰n.
+
+Kun h‰n oli asettunut leposijalleen, sanoi h‰n: "Hei, miehet! Teh‰n
+n‰yt‰tte minusta olevan selvi‰. Sit‰ ei ole teille sallittava, vaan
+teid‰n on juotava, sill‰ niin olemme kesken‰mme sopineet. Juominkien
+p‰‰mieheksi valitsen itseni, siksi kunnes olette kyllin juoneet. Jos
+Agathonilla on joku suuri pikari, laittakoon h‰n sen t‰nne! Taikka
+oikeastaan ei tarvitakaan, vaan tuo, poika, tuo j‰‰hdytysastia!" sanoi
+h‰n n‰hty‰‰n sellaisen, joka veti enemm‰n kuin kahdeksan korttelia. Sen
+h‰n antoi t‰ytt‰‰ itselleen ja tyhjensi sen ensin itse, sitte k‰ski h‰n
+t‰ytt‰‰ sen Sokratesta varten ja lausui samalla: "Sokratesta vastaan
+olen aivan neuvoton. Sill‰ niin paljon kuin h‰nen k‰sket‰‰nkin juoda,
+niin h‰n juo tulematta silti koskaan humalaan." Poika kaatoi nyt
+maljaan, ja Sokrates joi. Eryximakhos sanoi silloin: "Miten nyt teemme,
+Alkibiades? Emmekˆ me maljojen ‰‰ress‰ puhu ja laula, vai juommeko me
+noin vaan ilman muuta ik‰‰nkuin janoiset." Alkibiades vastasi: "Parhaan
+ja ymm‰rt‰v‰isimm‰n is‰n paras poika, terve!" -- "Terve, sullekin!"
+sanoi Eryximakhos. "Mutta mit‰ meid‰n pit‰‰ tehd‰?" -- "Kuten sin‰
+k‰sket. Sill‰ sinua tulee totella." --.
+
+    "'L‰‰k‰rh‰n arvoltaan toki vastaa montakin miest‰'.[31]
+
+"M‰‰r‰‰ siis, mit‰ haluat!" -- "Kuulehan", sanoi Eryximakhos,
+"ennenkuin sin‰ tulit t‰nne, olimme me p‰‰tt‰neet, ett‰ jokainen
+vuorostaan -- alkaen vasemmalta oikealle -- pit‰isi Eroksesta niin
+kauniin puheen kuin mahdollista ja ylist‰isi h‰nt‰. Kaikki me muut
+olemmekin puhuneet. Koska sin‰ et viel‰ ole puhunut, vaikka olet
+tyhjent‰nyt pikarisi, on kohtuullista, ett‰ puhut ja puhuttuasi m‰‰r‰‰t
+Sokrateelle sellaisen aiheen k‰sitelt‰v‰ksi kuin haluat, ja ett‰ t‰m‰
+tekee samoin oikeanpuoleiselle vierustoverilleen ja samaten toisetkin."
+-- "Niin, Eryximakhos", sanoi Alkibiades, "ehdotuksesi on hyv‰, mutta
+eih‰n liene sopivaa, ett‰ juopunut mies puheissa kilpailee selvien
+kanssa. Ja muuten, miekkonen, onko Sokrates saanut sinut uskomaan
+jotakin, mit‰ h‰n ‰sken on lausunut? Vai tied‰tkˆ sin‰, ett‰ kaikki on
+aivan p‰invastoin kuin h‰n sanoi? Sill‰ jos min‰ h‰nen l‰sn‰ollessaan
+kiit‰n jotakin muuta kuin h‰nt‰, joko jumalaa tai ihmist‰, ei h‰n
+pid‰tt‰ydy k‰ym‰st‰ minuun k‰siksi." -- "Ole vaiti!" sanoi Sokrates. --
+"Kautta Poseidonin", sanoi Alkibiades, "‰l‰ v‰it‰ mit‰‰n vastaan, sill‰
+sinun l‰sn‰ollessasi en voisi ylist‰‰ ket‰‰n muuta!" -- "Mutta tee
+niin", sanoi Eryximakhos, "jos haluat: kiit‰ Sokratesta!" -- "Miten
+sanot", virkkoi Alkibiades. "Niinkˆ tahdot, Eryximakhos? Pit‰‰kˆ minun
+k‰yd‰ miehen kimppuun ja kostaa h‰nelle teid‰n l‰sn‰ollessanne." --
+"Kuule sin‰", sanoi Sokrates, "mit‰ sin‰ ajattelet? Pilkataksesiko sin‰
+aiot minua ylist‰‰? Vai mit‰ sin‰ aiot tehd‰?" -- "Aion puhua t‰ytt‰
+totta. Katso siis, suostutko t‰h‰n!" -- "Tottahan min‰ toden sallin",
+vastasi t‰m‰, "ja k‰sken sinun lausua sen." -- "Tahdon heti alkaa",
+sanoi Alkibiades, "sinun taas pit‰‰ menetell‰ seuraavasti: Jos min‰
+sanon jotakin, mik‰ ei ole totta, niin puutu puheeseen, jos haluat, ja
+sano, ett‰ siin‰ kohden valehtelen! Jos min‰ taas esit‰n milloin minkin
+asian, sit‰ mukaa kuin ne palautuvat mieleeni, niin ‰l‰ sit‰ lainkaan
+ihmettele! Sill‰ ei ole suinkaan helppoa esitt‰‰ sinun omituisuuksiasi
+taitavasti ja j‰rjestyksess‰, kun olen t‰llaisessa tilassa.
+
+"Sokratesta min‰, hyv‰t miehet, ryhdyn ylist‰m‰‰n vertauksin. H‰n itse
+kyll‰ kenties luulee, ett‰ teen niin pilkatakseni h‰nt‰, mutta vertaus
+on totuuden takia eik‰ pilkan. Min‰ v‰it‰n nimitt‰in, ett‰ h‰n on aivan
+niiden seileenien[32] kaltainen, joita on kuvanveist‰j‰in tyˆpajoissa
+ja joita taiteilijat kuvaavat pit‰m‰ss‰ paimenpillej‰ ja huiluja
+k‰siss‰‰n, mutta joissa, kun ne avataan molemmilta puolin, osoittautuu
+olevan jumalankuvia. Ja edelleen v‰it‰n min‰, ett‰ h‰n on satyri
+Marsyaan kaltainen. Ett‰ ulkon‰ˆlt‰si olet n‰iden kaltainen, Sokrates,
+sit‰ et sin‰ toki itsek‰‰n kielt‰ne. Miten muissakin suhteissa olet
+samallainen, saat t‰m‰n j‰lkeen kuulla. Olet veitikka; vai etkˆ? Jollet
+myˆnn‰ olevasi, kutsun todistajia. Mutta et huilunsoittaja? Olet paljon
+ihmeellisempi kuin tuo. Sill‰ soittokoneensa avulla h‰n hurmasi ihmisi‰
+suunsa voimalla, ja viel‰ nytkin vaikuttaa siten jokainen, joka
+puhaltaa h‰nen s‰velmi‰‰n. Olympoksen huilunsoittosuoritukset n‰et luen
+Marsyaan ansioksi, t‰m‰ kun oli h‰nen opettajansa. H‰nen s‰velm‰ns‰,
+esitt‰kˆˆn niit‰ sitten joko etev‰ huilunsoittaja tai kehno
+huilunsoittajatar, riitt‰v‰t yksin‰‰n, koska ne ovat jumalallisia,
+hurmaamaan ja saattamaan ilmi ne, jotka kaipaavat jumalia ja
+vihkimysmenoja. Sin‰ eroat h‰nest‰ vain sen verran, ett‰ sin‰ ilman
+mit‰‰n v‰linett‰ paljailla sanoilla vaikutat samaa. Meit‰ ainakaan, jos
+kuulemme jonkun muun puhujan -- olkoonpa hyvinkin hyv‰ puhuja --
+puhuvan jotakin muuta, ei se suoraan sanoakseni lainkaan liikuta. Mutta
+kun joku saa kuulla sinun puhuvan -- tai jonkun toisen esitt‰v‰n sinun
+puheitasi, olkoonpa t‰m‰ esitt‰j‰ hyvinkin kehno -- niin, olkoon
+kuulija sitten joko nainen, mies tai nuorukainen, kaikki olemme me
+puheittesi hurmioissa ja lumoissa. Min‰ ainakin, hyv‰t miehet, valalla
+vakuuttaisin, jollen n‰ytt‰isi teist‰ olevan t‰ydellisesti humalassa,
+miten tuon miehen sanat ovat minuun vaikuttaneet ja viel‰kin
+vaikuttavat. Sill‰ joka kerta kun h‰nt‰ kuulen, hyppii syd‰meni paljoa
+rajummin kuin korybanttihurmion[33] t‰ytt‰m‰in ja h‰nen sanansa saavat
+kyyneleet vuotamaan silmist‰ni. Ja olen n‰hnyt useiden muidenkin
+kokevan samaa. Kun kuulin Perikleen ja muitten hyvien puhujien puhuvan,
+olin kyll‰ sit‰ mielt‰, ett‰ he puhuivat hyvin, mutta mit‰‰n t‰llaista
+en kokenut, eik‰ sieluni tullut levottomaksi eik‰ siin‰ ollut mit‰‰n
+vastenmielisyyden tunnetta, joka olisi osoittanut minun olevan orjuuden
+tilassa. Mutta t‰m‰ Marsyas t‰ss‰ on useasti saattanut minut sellaiseen
+mielentilaan, ett‰ minusta el‰m‰ni ei ole n‰ytt‰nyt el‰misen arvoiselta
+minun tilassani. Etk‰ sin‰, Sokrates, voi sanoa, ettei t‰m‰ ole totta.
+Viel‰ nytkin tunnen tunnossani, ett‰ jos kallistaisin h‰nelle korvani,
+en voisi seist‰ lujana, vaan kokisin samaa. Sill‰ h‰n pakottaa minut
+tunnustamaan, ett‰ vaikka olen monessa suhteessa puutteellinen,
+kuitenkin laiminlyˆn itse‰ni ja hoitelen ateenalaisten asioita.
+Sent‰hden minun t‰ytyy v‰kisin sulkea korvani kuin seireeneilt‰[34] ja
+pˆtki‰ tieheni, jottei minun tarvitsisi aina istua samassa paikassa ja
+vanheta h‰nen vieress‰‰n. Ja vain t‰h‰n ihmiseen n‰hden olen tuntenut
+tunnetta, mit‰ ei kukaan luulisi minussa kehenk‰‰n n‰hden olevankaan,
+h‰pe‰ntunnetta. Ainoastaan t‰t‰ miest‰ min‰ h‰pe‰n. Sill‰ tied‰n
+tunnossani, etten voi v‰itt‰‰ vastaan, ettei tule tehd‰ kuten h‰n
+k‰skee; mutta niin pian kuin olen l‰htenyt h‰nen luotaan, sorrun min‰
+joukon kunnianosoituksiin. Sent‰hden karkaan h‰nen luotaan ja pakenen
+h‰nt‰ ja aina kun min‰ n‰en h‰net, joudun h‰pe‰n valtaan sen johdosta,
+mist‰ olemme tulleet yksimielisiksi, ja useasti mielell‰ni n‰kisin,
+ettei h‰n olisi ihmisten ilmoilla. Mutta jos taas t‰m‰ tapahtuisi, niin
+se varmasti tuottaisi minulle paljon suurempaa surua. N‰in en ymm‰rr‰,
+miten tulla toimeen t‰m‰n ihmisen kanssa.
+
+"T‰h‰n tapaan ovat t‰m‰n satyrin huilun ‰‰net vaikuttaneet sek‰ minuun
+ett‰ useihin muihin. Mutta kuulkaa minua, mitenk‰ samanlainen h‰n on
+kuin ne, joihin h‰nt‰ vertasin, ja mitenk‰ ihmeellinen voima h‰nell‰
+on! Olkaa varmoja siit‰, ettei kukaan teist‰ h‰nt‰ tunne, mutta min‰
+paljastan h‰net, koska kerran olen alkanut! Tied‰tteh‰n te, ett‰
+Sokrates on rakastunut kauneihin ihmisiin, aina liikkuu heid‰n
+ymp‰rill‰‰n ja on hurmaantunut heihin ja ett‰ h‰n toiselta puolen on
+kaiken suhteen tiet‰m‰tˆn eik‰ mit‰‰n tied‰, kuten h‰nen ulkomuotonsa
+osoittaa. Eikˆ t‰m‰ ole seileenien tapaista? Aivan varmasti. T‰m‰ on
+kuitenkin vain ulkokuorta h‰ness‰ kuten veistetyss‰ seileeninkuvassa.
+Mutta jos paljastaa h‰net sis‰lt‰p‰in, niin tied‰ttekˆ, hyv‰t miehet ja
+juomatoverit, millainen m‰‰r‰ kohtuullisuutta h‰net t‰ytt‰‰? Tiet‰k‰‰,
+ett‰ jos joku on kaunis, ei se liikuta h‰nt‰ lainkaan, vaan h‰n pit‰‰
+sit‰ niin v‰h‰ss‰ arvossa kuin ei kukaan voisi luullakaan. Ei h‰n
+myˆsk‰‰n pane mit‰‰n arvoa siihen, onko joku rikas tai onko jollakin
+joku sellainen etu, jonka omistajia suuri joukko ylist‰‰ onnellisiksi.
+H‰n on sit‰ mielt‰, ett‰ n‰m‰ kaikki asiat eiv‰t ole mink‰‰n arvoisia
+emmek‰ me mit‰‰n, vaikkakaan h‰n ei t‰t‰ sano, vaan teeskentelee
+ihmisten edess‰ ja tekee heist‰ pilkkaa ja n‰in kuluttaa el‰m‰ns‰.
+Mutta kun h‰n on puhunut t‰ytt‰ totta ja paljastanut itsens‰, niin en
+tied‰, onko kukaan n‰hnyt h‰nen sis‰isi‰ aarteitaan. Mutta min‰ olen ne
+joskus n‰hnyt, ja ne n‰yttiv‰t minusta niin jumalallisilta ja
+kultaisilta, ihanilta ja ihmeellisilt‰, ett‰ minusta tuntui, ett‰ heti
+oli teht‰v‰, mit‰ Sokrates vain k‰ski. Uskoen, ett‰ h‰n oli vakavasti
+kiintynyt minun nuorteaan kauneuteeni, pidin min‰ t‰t‰ erinomaisena
+voittona ja ihmeellisen‰ onnenani, koska minun oli mahdollista, jos
+miellytt‰isin Sokratesta, kuulla kaikki, mit‰ h‰n tiesi. Sill‰ minulla
+oli jo ihmeellisen suuret ajatukset kauneudestani. Kun olin johtunut
+n‰ihin ajatuksiin, niin min‰ silloin, sen sijaan ettei minulla ennen
+ollut ollut tapana yksin‰ni ilman palvelijaa olla h‰nen seurassaan,
+l‰hetin palvelijan pois ja j‰in yksin‰ni h‰nen seuraansa. T‰ytyyh‰n
+minun puhua teille koko totuus. Tarkatkaa siis te, ja jos min‰
+valehtelen, niin todista sin‰, Sokrates, minun puhuvan v‰‰rin! Min‰
+olin siis, hyv‰t miehet, kahdenkesken h‰nen kanssaan ja min‰ luulin
+h‰nen heti alkavan puhua minulle sellaisia asioita kuin rakastaja
+yksin‰isyydess‰ puhuisi lemmikilleen ja olin iloissani. Mutta mit‰‰n
+siit‰ ei tapahtunut, vaan tapansa mukaan keskusteltuaan kanssani ja
+vietetty‰‰n p‰iv‰n seurassani l‰hti h‰n tiehens‰. Senj‰lkeen haastoin
+h‰net kanssani voimisteluharjoituksiin ja voimistelin h‰nen kanssaan,
+t‰t‰ tiet‰ muka saavuttaakseni jotakin. H‰n voimisteli minun myˆt‰ni ja
+painiskeli usein kanssani kenenk‰‰n olematta l‰sn‰. Mutta miksi puhua
+siit‰? Sill‰ ei minulla ollut t‰st‰ sen enemp‰‰ hyˆty‰. Kun en t‰ll‰
+tavoin p‰‰ssyt mihink‰‰n, p‰‰tin v‰kivallalla k‰yd‰ miehen kimppuun ja
+olla hellitt‰m‰tt‰, koska kerran olin alkanut, ja p‰invastoin saada
+selville, miten asian laita oikeastaan oli. Min‰ kutsun nyt h‰net
+kanssani aterialle aivan niin v‰ijyen h‰nt‰ kuin rakastaja lemmikki‰‰n.
+T‰h‰nk‰‰n pyyntˆˆn h‰n ei heti suostunut, mutta ajan pitk‰‰n h‰n
+kuitenkin taipui. Kun h‰n ensim‰isen kerran tuli, tahtoi h‰n
+aterioituaan poistua. Ja silloin min‰ h‰peiss‰ni annoin h‰nen menn‰.
+Mutta min‰ yritin samaa juonta uudelleen, ja kun h‰n oli aterioinut,
+keskustelin h‰nen kanssaan pitk‰lle yˆhˆn asti, ja kun h‰n tahtoi menn‰
+pois, esitin h‰nelle, ett‰ oli liian myˆh‰ist‰, ja pakotin h‰net
+j‰‰m‰‰n. H‰n asettui lep‰‰m‰‰n vuoteeni viereen leposijalle, jossa h‰n
+oli syˆnytkin, eik‰ huoneessa nukkunut ket‰‰n paitsi meit‰. T‰h‰n
+saakka kertomukseni kai on aivan s‰‰dyllinen ja sovelias esitt‰‰
+kenelle hyv‰ns‰. Sit‰, mit‰ sitten seuraa, ette kuulisi minun puhuvan,
+jollei ensiksi sananlaskun mukaan viini toisi ilmi totuutta -- olkoon
+sitten palvelijoita kuuntelemassa tai ei -- ja jollei toiseksi minusta
+n‰ytt‰isi olevan v‰‰rin salata Sokrateen ylev‰‰ tekoa, kun kerran on
+ryhtynyt pit‰m‰‰n h‰nelle ylistyspuhetta. Sit‰paitsi on minulla
+samanlainen tunne kuin k‰‰rmeen puremalla. Sanotaan n‰et, ett‰ se, joka
+on t‰m‰n saanut kokea, ei tahdo kertoa siit‰ muille kuin niille, joita
+myˆs on k‰‰rme purrut, koska ainoastaan n‰m‰ voivat ymm‰rt‰‰ ja antaa
+anteeksi, jos h‰n tuskasta on rohjennut tehd‰ ja puhua mit‰ tahansa.
+Kun min‰ olen haavoittunut tuskallisemmasta puremasta ja arimmasta
+kohdin, mist‰ ylip‰‰ns‰ voi haavoittua -- sill‰ syd‰meen eli sieluun,
+eli miksi sit‰ pit‰‰ nimitt‰‰, olen saanut iskun ja pistoksen
+filosofian sanoista, jotka tavatessaan luonnostaan terveen nuoren
+sielun tarttuvat kiinni lujemmin kuin k‰‰rme ja saattavat h‰net
+tekem‰‰n ja puhumaan mit‰ tahansa -- ja kun n‰en Phaidrokset,
+Agathonit, Pausaniaat, Aristodemokset ja Aristophaneet -- ja miksi
+minun pit‰‰ mainita Sokrates ja ket‰ muita t‰‰ll‰ on; kaikkiahan teit‰
+on samoinkuin minuakin ahdistanut sama mieletˆn hulluus filosofiaan --
+sent‰hden pit‰‰ teid‰n kaikkien kuulla, sill‰ te tulette antamaan
+anteeksi, mit‰ silloin tein ja nyt puhun. Mutta palvelijat, ja jos
+t‰‰ll‰ on muita vihkim‰ttˆmi‰ ja sivistym‰ttˆmi‰, asettakoot korviinsa
+tarpeeksi suuret salvat.
+
+"Kun siis, hyv‰t miehet, lamppu oli sammutettu ja palvelijat olivat
+ulkona, tuntui minusta silt‰, ettei minun mitenk‰‰n tullut teeskennell‰
+h‰nen edess‰‰n, vaan vapaasti lausua ajatukseni. Min‰ tyrkk‰sin h‰nt‰
+ja sanoin: 'Sokrates, nukutko?' -- 'En suinkaan', sanoi h‰n. --
+'Tied‰tkˆ, mit‰ min‰ olen ajatellut?' -- 'Mit‰ sitten?' kysyi h‰n. --
+'Sin‰ n‰yt‰t minusta', sanoin min‰, 'olevan ainoa, joka ansaitsee
+p‰‰st‰ minun rakastajakseni, mutta minusta tuntuu kuin sin‰ ep‰rˆisit
+t‰st‰ minulle huomauttaa. Minun kantani on t‰m‰: min‰ pid‰n hyvin
+typer‰n‰ olla t‰ss‰ taipumatta tahtoosi samoinkuin silloinkin, jos
+tarvitsisit jotakin omaisuudestani tai yst‰vieni omaisuudesta. Sill‰
+minulle ei mik‰‰n ole t‰rke‰mp‰‰ kuin ett‰ tulen niin hyv‰ksi kuin
+mahdollista, eik‰ siihen kukaan luullakseni voi minua paremmin auttaa
+kuin sin‰. Jos min‰ en taipuisi t‰llaisen miehen tahtoon, h‰pe‰isin
+sentakia paljon enemm‰n ymm‰rt‰v‰isi‰ miehi‰, kuin ymm‰rt‰m‰tˆnt‰
+joukkoa siten tehty‰ni.' -- Kun h‰n oli t‰m‰n kuullut, sanoi h‰n aivan
+pilkallisesti ja niin kuin h‰nen tapaistansa on: 'Rakas Alkibiades,
+sin‰ et todella n‰yt‰ olevan huono mies, jos se kerran on totta, mit‰
+sin‰ minusta puhut, ja minussa on joku voima, jonka kautta sin‰
+saattaisit tulla paremmaksi. Sin‰ n‰kisit silloin minussa ihmeellisen
+kauneuden, joka olisi paljoa edell‰ sinun kauneudestasi. Jos sin‰ nyt
+t‰m‰n n‰hdess‰si aiot liitty‰ yhteyteeni ja vaihtaa kauneutta
+kauneuteen, et aio saavuttaa v‰h‰ist‰ etua minuun verraten, vaan yrit‰t
+hankkia luulotellun kauneuden asemasta todellisen kauneuden ja aiot
+itse asiassa vaihtaa vaskea kultaan. Mutta, miekkonen, katso paremmin,
+ettei sinulta j‰‰ huomaamatta, etten mit‰‰n ole. Sielun silm‰ alkaa
+ter‰v‰sti n‰hd‰, kun ruumiin silm‰t alkavat kadottaa ter‰vyytt‰‰n.
+Mutta sin‰ olet t‰st‰ viel‰ kaukana.' -- Kun min‰ olin t‰m‰n kuullut,
+sanoin min‰: 'Minun puoleltani on asia n‰in, enk‰ ole t‰st‰ mit‰‰n
+lausunut toisin kuin ajattelen. Mutta mieti sin‰ itse, mit‰ pid‰t sek‰
+itsellesi ett‰ minulle parhaana!' -- 'Kas', sanoi h‰n, 'siin‰ sin‰
+sanoit oikein. Sill‰ tulevaisuudessa me harkiten teemme, mik‰ meille
+kummallekin sek‰ t‰ss‰ ett‰ muissa suhteissa n‰ytt‰‰ parhaalta.' -- Kun
+min‰ t‰m‰n keskustelun kuluessa olin ik‰‰nkuin ampunut nuolia h‰neen,
+luulin h‰nen haavoittuneen. Min‰ nousin ylˆs ja antamatta h‰nelle
+tilaisuutta sanoa sanaakaan, heitin min‰ viittani h‰nen ylleen -- oli
+n‰et talvi -- asettauduin lep‰‰m‰‰n h‰nen kuluneen vaippansa alle,
+kiedoin k‰teni t‰m‰n jumalallisen ja todella ihmeellisen miehen
+ymp‰rille ja lep‰sin niin koko yˆn. Etk‰ sin‰, Sokrates, voi sanoa
+minun t‰t‰k‰‰n valehtelevan. Ja vaikka olin n‰in tehnyt, kesti h‰n
+kaiken voitollisesti, halveksi ja ivaili minun nuorteata kauneuttani
+sek‰ teki siit‰ pilkkaa. Ja sen min‰ kuitenkin luulin olevan jotakin,
+arvoisat tuomarit. Sill‰ te olette Sokrateen ylimielisyyden tuomareita.
+Ja kautta jumalien ja jumalattarien, tiet‰k‰‰, ett‰ nousin Sokrateen
+vieress‰ mit‰‰n erinomaisempaa unessa kokematta, aivankuin olisin
+nukkunut is‰n tai vanhemman veljen vieress‰!
+
+"Miss‰ mielentilassa luulette te minun t‰m‰n j‰lkeen olleen,
+toiselta puolen katsoessani tulleeni loukatuksi, toiselta puolen
+taas ihaillessani t‰m‰n miehen luonnetta, kohtuullisuutta ja
+miehuullisuutta, tavattuani sellaisen miehen, jollaista en koskaan
+olisi uskonut tapaavani viisauteen ja pid‰tt‰ytyv‰isyyteen n‰hden.
+Senp‰t‰hden en saattanut h‰nelle suuttua enk‰ riist‰yty‰ irti h‰nen
+seurastaan, mutta en myˆsk‰‰n tiennyt keinoa, mill‰ vet‰‰ h‰nt‰
+puoleeni. Sill‰ tiesin hyvin, ett‰ h‰nt‰ oli paljon vaikeampi
+haavoittaa rahoilla kuin Aiasta miekalla, ja k‰ytt‰ess‰ni sit‰ keinoa,
+jonka olin luullut ainoaksi mahdolliseksi h‰nen valloittamisekseen, oli
+h‰n p‰‰ssyt minulta pakoon. Min‰ olin neuvoton ja kuljeskelin ymp‰ri
+tuon miehen orjana enemm‰n kuin kukaan kenenk‰‰n muun.
+
+"Kaikki t‰m‰ oli tapahtunut minulle, kun senj‰lkeen sattui meille
+yhdess‰ sotaretki Potidaiaan[35] ja siell‰ olimme pˆyt‰tovereita.
+Ensinn‰kin oli h‰n rasitusten kest‰misess‰ ei vain minua, vaan kaikkia
+muita etev‰mpi. Kun me joskus olimme joutuneet muista eristetyiksi ja,
+kuten sotaretkell‰ tapahtuu, olemaan syˆm‰tt‰, niin eiv‰t muut olleet
+mit‰‰n h‰neen verraten n‰l‰n kest‰misess‰. Kemuissa taas h‰n yksin oli
+kykenev‰ nauttimaan niin hyvin muissa suhteissa kuin siin‰, ett‰ kun
+h‰net, joka ei yleens‰ ollut halukas juomaan, siihen pakotettiin, h‰n
+voitti kaikki ja mik‰ on kaikista ihmeellisint‰, kukaan ihminen ei
+koskaan ole n‰hnyt Sokratesta juovuksissa. T‰st‰ on n‰hd‰kseni
+t‰‰ll‰kin todistus saatavissa. Talven kest‰misess‰ taas -- talvet ovat
+n‰et siell‰ ankaria -- olivat h‰nen saavutuksensa ihmeellisi‰ yleens‰
+ja erikoisesti kerran, jolloin oli mit‰ tuimin pakkanen. Kaikki joko
+silloin olivat menem‰tt‰ sis‰lt‰ ulos, tai, jos joku meni, oli h‰n
+tavattomasti vaatetettu ja h‰nell‰ oli jaloissa keng‰t, joihin oli
+kiedottu huopaa ja turkiksia. Mutta t‰llaisella s‰‰ll‰ h‰n meni ulos
+yll‰‰n vain se vaippa, jota h‰n aikaisemminkin tavallisesti oli
+kantanut ja kulki j‰‰t‰ myˆten avojaloin helpommin kuin toiset keng‰t
+jaloissa. Sotilaat katsoivat h‰nt‰ karsaasti luullen h‰nen halveksivan
+heit‰.
+
+"T‰m‰ t‰st‰, mutta
+
+    "'Kuin uros valtainen tuo toimensa t‰ytti ja kesti'.[36]
+
+"tuolla sotaretkell‰, on kuulemisen arvoista. Kun joku asia oli
+johtunut h‰nen mieleens‰, seisoi h‰n samassa paikassa varhaisesta
+aamusta asti sit‰ mietiskellen, ja kun t‰m‰ mietiskely ei h‰nelt‰
+edistynyt, ei h‰n antanut myˆten, vaan j‰i tutkistellen seisomaan. Ja
+oli jo keskip‰iv‰, kun miehet huomasivat h‰net ja ihmeiss‰‰n kertoivat
+toinen toiselleen, ett‰ Sokrates aamuvarhaisesta asti oli seissyt
+paikallaan ja miettinyt jotakin. Lopuksi, kun oli ilta, kantoivat
+muutamat ioonilaiset aterioituaan makuupatjansa ulos, sill‰ silloin oli
+kes‰, osaksi nukkuakseen vilpoisessa ilmassa, osaksi pit‰‰kseen
+silm‰ll‰, j‰isikˆ h‰n yˆnkin seisomaan. Ja h‰n j‰i seisomaan, kunnes
+aamu koitti ja aurinko nousi. Sitten h‰n rukoili aurinkoa ja l‰hti
+pois. Tahdotteko kuulla millainen h‰n oli taisteluissa? Sill‰ on
+oikeudenmukaista, ett‰ h‰n siit‰kin saa tunnustuksen. Kun n‰et se
+taistelu tapahtui, josta sotap‰‰llikˆt antoivat minulle palkinnon, niin
+ei kukaan muu ihminen minua pelastanut kuin h‰n. H‰n ei n‰et tahtonut
+minua j‰tt‰‰, kun olin haavoittunut, vaan pelasti sek‰ aseeni ett‰
+minut vaarasta. Ja min‰ k‰skin kyll‰ silloin, hyv‰ Sokrates,
+p‰‰llikˆiden antaa sinulle palkinnon, etk‰ sin‰ voi minua t‰st‰ moittia
+etk‰ v‰itt‰‰ minun valehtelevan. Mutta kun p‰‰llikˆt kiinnittiv‰t
+huomionsa minun arvoasemaani ja tahtoivat antaa palkinnon minulle, olit
+sin‰ p‰‰llikˆit‰ innokkaampi puoltamaan minulle palkintoa mieluummin
+kuin itsellesi. Edelleen, hyv‰t miehet, kannatti n‰hd‰ Sokratesta, kun
+sotajoukko paeten v‰istyi Delionin[37] luota. Min‰ satuin n‰et olemaan
+mukana ratsumiehen‰, h‰n raskasaseisena jalkamiehen‰. H‰n v‰istyi
+vasta, kun kaikki miehet oli lyˆty hajalle, h‰n ja Lakhes. Min‰ kohtaan
+heid‰t ja n‰hty‰ni heid‰t kehoitan heit‰ olemaan rohkealla mielell‰ ja
+sanoin, etten j‰t‰ heit‰. Silloin saatoin viel‰ paremmin katsella
+Sokratesta kuin Potidaiassa, sill‰ olin nyt v‰hemm‰n peloissani, koska
+kuljin ratsain. Silloin saatoin ensinn‰ n‰hd‰, kuinka paljon paremmin
+h‰n s‰ilytti mielenmalttinsa kuin Lakhes. Edelleen n‰ytti h‰n minusta
+-- kuten sinun sanasi kuuluvat, Aristophanes -- niin siell‰ kuin
+t‰‰ll‰kin kulkevan pˆyhke‰n‰ ja mulkoillen silmill‰‰n, rauhallisesti
+katsellen sek‰ yst‰vi‰ ett‰ vihollisia, niin ett‰ jokaiselle jo
+kaukaakin k‰vi ilmeiseksi, ett‰ jos joku k‰y tuohon mieheen k‰siksi,
+h‰n sangen voimakkaasti tulee puolustautumaan. Sent‰hden h‰n
+turvallisesti p‰‰si poistumaan, h‰n ja tuo toinenkin. Sill‰ niihin,
+jotka n‰in esiintyv‰t sodassa, tuskin k‰yd‰‰n k‰siksi, mutta niit‰
+ajetaan takaa, jotka suin p‰in pakenevat.[38]
+
+"Monesta muusta ihailtavasta ominaisuudesta voisi Sokratesta ylist‰‰.
+Mit‰ h‰nen muuhun toimintaansa tulee, saattaisi kukaties jostakusta
+toisesta esitt‰‰ samantapaista, mutta se, ettei h‰n ole kenenk‰‰n
+ihmisen, ei entisten eik‰ nykyisten kaltainen, ansaitsee kaikkea
+ihailua. Sill‰ sellaiseksi kuin Akhilleus oli, saattaisi esitt‰‰
+Brasidaan[39] ja muita, sellaiseksi kuin Perikles taas, sek‰ Nestorin
+ett‰ Antenorin, ja on niit‰ muitakin. Ja samaan tapaan voisi vertailuja
+muihinkin n‰hden tehd‰. Mutta t‰m‰n miehen kaltaista, sellainen kuin
+h‰n omituisuudessaan on, sek‰ h‰n ett‰ h‰nen puheensa, ei etsim‰ll‰k‰‰n
+voisi lˆyt‰‰, ei nykyisten eik‰ entisten joukosta, jollei h‰nt‰
+mahdollisesti vertaisi niihin, joihin min‰ h‰nt‰ vertaan, ei kehenk‰‰n
+ihmiseen, vaan seileeneihin ja satyreihin, h‰nt‰ ja h‰nen puheitaan.
+
+"Sen olen aivan alussa j‰tt‰nyt mainitsematta, ett‰ h‰nen puheensa ovat
+aivan noiden seileenien kaltaisia, joita voidaan aukaista. Sill‰ jos
+joku tahtoo kuulla Sokrateen puheita, saattavat ne aluksi tuntua
+naurettavilta. Sill‰ ne ovat verhotut sanoihin ja k‰‰nteihin aivan kuin
+julkea satyri nahkaansa. H‰n n‰et puhuu kuorma-aaseista, sepist‰,
+suutareista ja nahkureista ja n‰ytt‰‰ aina samoilla sanontatavoilla
+puhuvan samaa, niin ett‰ jokainen kokematon ja ymm‰rt‰m‰tˆn ihminen
+saattaa nauraa h‰nen puheilleen. Mutta jos joku n‰kee ne paljastettuina
+ja syventyy niihin, niin huomaa h‰n ensiksi, ett‰ kaikista puheista
+vain niill‰ on syv‰llinen sis‰ltˆ, ja edelleen, ett‰ ne ovat aivan
+jumalallisia ja t‰ynn‰‰n hyveen ihania kuvia ja ett‰ ne koskettavat
+enint‰ osaa siit‰ tai oikeammin kaikkea sit‰, mit‰ sen tulee
+tutkistella, joka tahtoo tulla hyv‰ksi ja jaloksi ihmiseksi.
+
+"T‰st‰, hyv‰t miehet, min‰ kiit‰n Sokratesta. Ja min‰ olen myˆskin
+sovittanut esitykseeni sen, mist‰ h‰nt‰ moitin, kertomalla, miten
+ylimielisesti h‰n on minua kohdellut. T‰t‰ h‰n ei kuitenkaan ole tehnyt
+yksist‰‰n minulle, vaan myˆskin Kharmideelle, Glaukonin pojalle ja
+Euthydemokselle Diokleen pojalle[40] ynn‰ monelle muulle, joita h‰n on
+pett‰nyt ollen muka heid‰n rakastajansa, mutta paremminkin asettuessaan
+heid‰n lemmikikseen rakastajan asemasta. Ja t‰m‰n sanon myˆs sinulle,
+Agathon, ettet sin‰ antaisi t‰m‰n miehen pett‰‰ itse‰si, vaan
+viisastuneena meid‰n surullisista kokemuksistamme olisit varuillasi,
+niin ettet -- kuten sananlasku sanoo -- kuten lapsi vahingoista
+viisastu."
+
+Kun Alkibiades oli n‰in puhunut, oli h‰nen avomielisyytens‰ synnytt‰nyt
+naurua, koska n‰ytti silt‰, ett‰ h‰n viel‰ oli rakastunut Sokrateeseen.
+Sokrates lausui silloin: "Sin‰ n‰yt‰t olevan selv‰, Alkibiades. Muuten
+et olisi yritt‰nyt niin viekkailla kiertoliikkeill‰ salata sit‰,
+mink‰t‰hden olet t‰m‰n kaiken lausunut, ja ik‰‰nkuin sivuseikkana
+asettanut sit‰ puheesi loppuun, ik‰‰nkuin et olisi kaikkea sent‰hden
+puhunut, ett‰ saisit minut ja Agathonin eroitetuiksi toisistamme. Sill‰
+sinun mielest‰si pit‰‰ minun rakastaa sinua eik‰ ket‰‰n muuta ja
+Agathonin taas olla sinun rakastettusi eik‰ kenenk‰‰n muun. Mutta sinun
+tarkoituksesi ei ole j‰‰nyt huomaamatta, vaan sinun satyri- ja
+seileenin‰ytelm‰si ydin[41] on paljastunut. Mutta, rakas Agathon,
+‰lkˆˆn h‰n t‰ss‰ onnistuko, vaan ole varuillasi, ettei kukaan saata
+eroittaa minua ja sinua toisistamme!" -- Agathon sanoi: "Tosiaankin,
+hyv‰ Sokrates, sin‰ n‰yt‰t puhuvan totta. Min‰ oletan myˆs, ett‰ h‰n
+asettui minun ja sinun v‰lille lep‰‰m‰‰n saattaakseen meid‰t erillemme.
+Mutta se ei h‰nelle onnistu, vaan min‰ k‰yn sinun viereesi lep‰‰m‰‰n."
+-- "Aivan oikein", lausui Sokrates, "asetu t‰nne minun alapuolelleni."
+-- "Oi Zeus", sanoi Alkibiades, "mit‰ saan tuon ihmisen puolelta
+k‰rsi‰. Joka paikassa h‰nell‰ mielest‰‰n t‰ytyy olla etusija minun
+edell‰ni. Mutta jollet suostu muuhun, sin‰ ihmeellinen mies, niin anna
+Agathonin lev‰t‰ ainakin keskell‰mme." -- "Se on mahdotonta", sanoi
+Sokrates. "Sin‰h‰n olet pit‰nyt minulle ylistyspuheen, ja nyt tulee
+minun vuorostani ylist‰‰ oikealla puolellani olevaa. Mutta jos Agathon
+asettuisi sinun alapuolellesi, niin pit‰isi h‰n minulle uuden
+ylistyspuheen, sen sijaan ett‰ minun ennemmin pit‰isi pit‰‰ sellainen
+h‰nelle. J‰t‰ siis asia silleen, sin‰ mainio mies, ‰l‰k‰ kadehdi
+nuorukaista sentakia, ett‰ min‰ pid‰n h‰nelle ylistyspuheen! Sill‰ min‰
+halajan suuresti kiitt‰‰ h‰nt‰." -- "Hei, hei Alkibiades", sanoi
+Agathon, "en voi mitenk‰‰n j‰‰d‰ t‰h‰n, minun on ehdottomasti
+muutettava paikkaa, jotta saisin ylistyspuheen Sokrateelta." -- "Taas
+tuo vanha juttu", sanoi Alkibiades. "Kun Sokrates on saapuvilla, on
+kenenk‰‰n toisen mahdotonta saada osaa kauniista nuorukaisista. Miten
+helposti h‰n nytkin keksi todenn‰kˆisen tekosyyn siihen, ett‰ tuon
+tuossa pit‰‰ lev‰t‰ h‰nen vieress‰‰n." --
+
+Agathon nousi nyt ylˆs asettuakseen Sokrateen viereen. Mutta yht'‰kki‰
+oli joukko yˆkulkijoita tullut portille, ja kun he huomasivat sen
+olevan auki, sen takia ett‰ joku meni heit‰ vastaan, tulivat he sis‰‰n
+heid‰n luokseen ja asettuivat lep‰‰m‰‰n. Syntyi yleinen meteli, ja
+seura tuli pakotetuksi juomaan suuria m‰‰ri‰ viini‰ ilman mit‰‰n
+j‰rjestyst‰. Eryximakhoksen, Phaidroksen ja muutamien muitten sanoi
+Aristodemos nyt l‰hteneen tiehens‰, h‰net taas valtasi uni ja h‰n
+nukkui hyvin kauan, yˆt kun siihen aikaan olivat pitki‰. H‰n her‰si
+vasta p‰iv‰n koittaessa kukonlauluun, ja n‰ki her‰tty‰‰n, ett‰ muut
+osaksi nukkuivat, osaksi olivat poistuneet, mutta Agathon, Aristophanes
+ja Sokrates yksist‰‰n olivat viel‰ valveilla ja joivat suuresta
+maljasta, joka kiersi oikealle p‰in. Sokrates piti yll‰ keskustelua
+heid‰n kanssaan. Muuten ei Aristodemos sanonut keskustelua muistavansa,
+h‰n kun ei alusta alkaen ollut ollut mukana ja yh‰ uudelleen oli
+nukahtanut, mutta p‰‰asian siin‰ sanoi h‰n olleen sen, ett‰ Sokrates
+pakotti toiset myˆnt‰m‰‰n, ett‰ saman miehen tulee osata sepitt‰‰
+sek‰ huvi- ett‰ murhen‰ytelmi‰ ja ett‰ se, joka on taituri
+murhen‰ytelm‰nkirjoittajana, on myˆskin huvin‰ytelm‰n kirjoittaja.
+T‰m‰n h‰n pakotti heid‰t myˆnt‰m‰‰n, mutta he eiv‰t oikein jaksaneet
+seurata mukana, vaan nukahtivat. Ensin nukahti Aristophanes, ja p‰iv‰n
+jo koittaessa Agathon. Sokrates taas nousi saatettuaan heid‰t uneen ja
+l‰hti pois, ja Aristodemos seurasi h‰nt‰ kuten tavallisesti.
+Saavuttuaan Lykeioniin kylpi h‰n ja kulutti siell‰ -- kuten muulloinkin
+-- muun osan p‰iv‰‰ ja niin vietetty‰‰n p‰iv‰ns‰ meni illalla kotia
+lep‰‰m‰‰n.
+
+
+
+
+SELITYKSIƒ:
+
+
+[1] _Phalcron_ oli muuan Ateenan deemoksia ja vanha satamapaikka.
+
+[2] Nykyaikaisen lukijan on vaikeata k‰sitt‰‰, miss‰ sukkeluus
+oikeastaan on, ja t‰st‰ kohdasta on esitetty monia selityskokeita.
+Yleisimmin hyv‰ksytty, ett‰ nimi phaleronilainen, _phalereus_,
+‰‰nteellisesti muistuttaen sanaa _phaleris_, joka on nokikanan nimitys,
+sis‰lt‰isi vihjauksen Apollodoroksen joko keinuvaan k‰yntiin tai
+kaljuun p‰‰lakeen -- linnulla on p‰‰ss‰ valkea t‰pl‰ -- tuntuu
+etsitylt‰. Kenties sukkeluus onkin vain siin‰ virallisessa tavassa,
+mill‰ yst‰v‰ Apollodorosta puhuttelee.
+
+[3] _Kydathenai_ oli Ateenan etel‰isi‰ deemoksia.
+
+[4] Sananlasku lienee alkuaan kuulunut: hyv‰t miehet saapuvat
+huonompien luo kutsumatta. Samalla kuin Sokrates muuttaa sananlaskun
+ajatuksen, sis‰llytt‰‰ h‰n siihen sanaleikin, _agathon epi daitas_
+(hyvien pitoihin), joka ‰‰ntyy aivan samoin kuin _Agathon' epi daitas_
+(Agathonin luo pitoihin). Se Homeroksen kohta, johon Sokrates viittaa,
+on Iliadin II, 408.
+
+[5] _Myrrhinus_, Attikan kaakkoisia deemoksia.
+
+[6] _Euripideen Melanippe_ tragediassa oli er‰s kohta, "sanani eiv‰t
+ole omiani, vaan ‰idilt‰ni l‰hteneit‰", jota Eryximakhos k‰ytt‰‰.
+
+[7] _Prodikos_, Keos saarelta kotoisin oleva sofisti, jossa
+syv‰lliseen, vakavaan luonteeseen yhtyi suuri tutkimusinto. Platonin
+ivallisista viittauksista tied‰mme h‰nen harrastaneen _synonymiikkaa_,
+s.o. koettaneen yhdist‰‰ merkitykselt‰‰n samanlaisia sanoja ja eroittaa
+niiden eri merkitysvivahdukset. Kansanuskontoon n‰hden h‰n asettui
+arvostelevalle kannalle selitt‰en luonnonilmiˆitten ensinn‰ ihmisten
+tajunnassa jumaloituneen. Toiset jumalat h‰n taas selitti alkuaan
+kuuluisiksi sankareiksi. El‰m‰nkatsomukseltaan h‰n oli pessimisti.
+Ihmisen parhaan lohdutuksen h‰n n‰ki tyˆss‰, ja tyˆn sankari Herakles
+tuli h‰nen mieliheroksekseen. Prodikoksen ylistyspuhe Herakleen
+kunniaksi sis‰lsi tunnetun episodin "Herakles tienhaarassa".
+
+[8] _Akusilaos_, er‰s vanhimpia historian tai oikeammin tarujen
+kirjoittajia, n.s. logografeja, jotka proosamuotoon sovittivat
+runoilijain teoksia. Akusilaos mukaili n‰in melkein sanatarkasti
+Hesiodosta.
+
+[9] _Parmenides_, n.s. elealaisen filosofikoulun kuuluisa p‰‰mies,
+ykseyden ja muuttumattomuuden suuri edustaja, jolla oli Platoniin suuri
+vaikutus. Platonin ideoilla onkin samoja m‰‰reit‰ kuin Parmenideen
+"olevaisella". Phaidroksen mainitsema s‰e on h‰nen opetusrunoelmaansa
+_Peri'physeos_ (luonnosta), josta katkelmia on j‰lell‰. Dialogissaan
+_Parmenides_ Platon on saattanut yhteen Sokrateen ja Parmenideen,
+anakhronistisesti, sill‰ Parmenides vaikutti paljon ennen Sokratesta.
+
+[10] _Alkestis_ on Kreikan kirjallisuudessa erinomaisen hienosti
+piirretty naisluonne. Euripides on h‰nest‰ saanut aiheen samannimiseen
+draamaansa.
+
+[11] _Orpheus_, tarunomainen runoilija, jonka laululla oli samanlainen
+tenhovoima kuin V‰in‰mˆisemme laululla. H‰n koetti pelastaa puolisonsa
+Eurydiken manalasta ja saikin laulullaan manalan haltiattaren
+Persephonen taivutetuksi p‰‰st‰m‰‰n h‰net pois, kuitenkin vain sill‰
+ehdolla, ettei Orpheus paluumatkalla saisi k‰‰nty‰ katsomaan
+puolisoansa. Kun Orpheus ei voinutkaan ehtoa t‰ytt‰‰, t‰ytyi Eurydiken
+j‰‰d‰ manalaan. Bakkhottaret repiv‰t h‰net kuoliaaksi. Orpheun kultti
+oli hyvin yleinen ja siihen liittyi uskonnollisia salamenoja.
+
+[12] _Dione_ on feminininen puoli Zeuta. Dionen kultti oli Attikassa
+hyvin vanha.
+
+[13] _Harmodios_ ja _Aristogetton_. olivat ylh‰issukuisia ateenalaisia
+nuorukaisia, jotka persoonallisesta loukkauksesta suuttuneina yrittiv‰t
+syˆst‰ Ateenan tyrannit Hippiaksen ja Hipparkhoksen vallasta.
+Hipparkhoksen he surmasivat, mutta muuten yritys ep‰onnistui. Harmodios
+kaatui kahakassa ja Aristogeiton sai myˆhemmin k‰rsi‰ kidutuskuoleman.
+Molempia kunnioitettiin Ateenassa myˆhemmin kansallisina
+vapaussankareina.
+
+[14] _Sill‰ jos joku ajattelee_. -- Pausanias puhuu sellaisella
+vauhdilla, ett‰ h‰n kokonaan unohtaa p‰‰lauseen. K‰‰nnˆkseen olen
+koettanut sovittaa sellaisen heti alkuun, sulkumerkkien v‰liin.
+
+[15] _Herakleitos_ opetti p‰invastoin kuin Parmenides, ettei mik‰‰n
+pysy samana, vaan on alituisen muutoksen alaisena. Opin ydin sis‰ltyy
+tunnettuun lauseeseen: "Kaikki virtaa." Samoin kuin Platonin ideat
+osoittavat yht‰l‰isyytt‰ Parmenideen olevaisen kanssa, samoin h‰nen
+k‰sitykseens‰ aistinmaailmasta on Herakleitoksen maailmankuva
+vaikuttanut. Vaikeatajuisen sanontansa takia sai Herakleitos liikanimen
+"skoteinos" (h‰m‰r‰).
+
+[16] _Urania_ oli t‰htitieteen, _Polyhymnia_ lyriikan runotar.
+
+[17] _Ephialtes_ ja _Otos_ olivat giganttiveljeksi‰, jotka pitiv‰t
+Aresta vankina 13 kuukautta, kunnes Hermes h‰net vapautti. Heid‰n
+yritt‰ess‰‰n hyˆk‰t‰ taivaaseen surmasi Apollo heid‰t. (Vrt. Il. V, 385
+ss. ja Odyss. XI, 505 ss.)
+
+[18] V. 385 spartalaiset hyˆkk‰siv‰t Mantineiaan, h‰vittiv‰t sen ja
+pakottivat kaupungin asukkaat asettumaan hajanaisiin maaseutukyliin
+asumaan. Vrt. johdantoa.
+
+[19] _Kronos_, Uranuksen poika ja Zeun is‰, jonka Zeus kukisti.
+_Iapetos_ oli titaani ja m.m. Prometheun is‰.
+
+[20] _Ananke_, v‰ltt‰m‰ttˆmyys, hallitsi kreikkalaisen katsantotavan
+mukaan jumaliakin.
+
+[21] _Ate_ on Homeroksella turmioon johtavan mielenh‰iriˆn
+personifikatio.
+
+[22] _Aphroditen_ ja _Areksen_ v‰lill‰ oli rakkaussuhde, josta m.m.
+Homeros kertoo. Agathonin todistelu perustuu siihen, ett‰ sana Eros
+tarkoittaa sek‰ rakkauden jumalaa ett‰ itse rakkautta.
+
+[23] Agathon ylist‰ess‰‰n Erosta mainitsee nuo nelj‰ kardinaalihyvett‰.
+Vaikeimmin k‰‰nnett‰viss‰ on _sophrosyne_. Sanalla tarkoitettiin sielun
+eri kykyjen ja taipumusten tervett‰ hallintaa. K‰‰nnˆksess‰ olen
+enimm‰kseen k‰ytt‰nyt sen vastineena sanaa kohtuullisuus.
+
+[24] Sutkaus Gorgiaan p‰‰st‰ johtuu t‰m‰n nimen ja Gorgon, kauhean
+hirviˆn, yht‰l‰isyydest‰. Gorgon kammottavan p‰‰n n‰ky saattoi n‰kij‰t
+kivettym‰‰n. Viittaus Homerokseen tarkoittaa Odyss. XI, 633 ss.
+
+[25] _Diotima_ tuntuu olevan sadunomainen henkilˆ. Myˆhemmill‰
+kirjailijoilla h‰nest‰ olevat tiedot perustuvat Platoniin.
+Sill‰ rutolla, josta Sokrates puhuu, tarkoitetaan ep‰ilem‰tt‰
+peloponnesolaissotien alussa raivonnutta hirve‰t‰ kulkutautia, johon
+m.m. Perikles kuoli v. 429.
+
+[26] _Oikea arvelu_. T‰m‰n tietoasteen Platon koko ajan eroittaa
+varsinaisesta tiedosta, joka kohdistuu ideamaailmaan. Aikaisemmin
+Platon ei tee mit‰‰n eroitusta sen ja havainnon v‰lill‰, mutta
+myˆhemmin h‰n m‰‰rittelee sen varsinaisesta aistillisesta havainnosta
+eri‰v‰ksi, viel‰p‰ siit‰ riippumattomaksikin.
+
+[27] _Penia_ on kˆyhyyden, _Poros_ yritteli‰isyyden ja _Melis_
+viisauden personifikatio.
+
+[28] Sanaa sepitt‰j‰ vastaa alkutekstiss‰ _poietÈs_, ja sanaa
+sepitt‰minen _poiesis_. Poietis, runoilija ja poiesis, runoilu johtuvat
+verbist‰ _poicn_, tehd‰, ja niiden alkumerkitys on tekij‰ ja tekeminen.
+Platon k‰ytt‰‰ t‰ss‰ sanoja kummassakin merkityksess‰.
+
+[29] _Kodros_, tarunomainen attikalainen kuningas, joka uhraamalla
+henkens‰ pelasti maansa dorilaisten hyˆkk‰ykselt‰.
+
+[30] Kuten jo johdannossa on mainittu esitt‰‰ Diotima oppinsa
+rakkaudesta ik‰‰nkuin vihkimyksen‰ salamenoihin. Nyt alkaa kolmas ja
+korkein aste, jolloin mysterioiden syvin ja salaisin sis‰ltˆ paljastuu.
+Ensim‰inen aste, joka vastaa salamenojen puhdistusastetta, aikaa,
+jolloinka niihin j‰seneksi pyrkij‰n oli vapauduttava kaikesta
+ruumiillisesta synnist‰ ja saastasta, k‰sitt‰‰ opin Eroksesta itsest‰‰n
+ja sen kautta Sokrates puhdistuu v‰‰rist‰ k‰sityksist‰‰n. Toinen aste
+selvittelee jo yht‰ toista rakkauteen kuuluvaa, s. o. h‰net vihit‰‰n jo
+muutamiin v‰hempiin salamenoihin.
+
+[31] Runos‰e on Iliadista 11, 54.
+
+[32] _Seileenit_ ja _satyrit_ kuuluivat Bakkhoksen saattueeseen. Ero
+heid‰n v‰lill‰‰n ei ole t‰ysin selv‰. Seileenej‰ kuvailtiin kuitenkin
+-- varsinkin myˆhemmin -- vanhemmiksi satyreiksi. Heid‰n ulkon‰kˆns‰
+oli ruma ja el‰imellinen. Nen‰ oli tylpp‰, huulet paksut, usein koko
+ruumis karvan peitossa. -- _Marsyas_ oli alkuaan phrygialainen
+virtajumala, joka kreikkalaisessa jumalauskossa muuttui huilua
+soittavaksi satyriksi. Huilunsa h‰n oli saanut Athena jumalattarelta,
+joka oli heitt‰nyt sen pois huomattuaan sen rumentavan kasvojen
+ilmeit‰. Kilpailussa Apollon kanssa, jossa t‰m‰ soitti kitaraa, Marsyas
+h‰visi, ja Apollon nylki h‰net el‰v‰lt‰. Aihe Walter Runebergin
+tunnettuun veistokseen. -- _Olympos_ Platonin mukaan oli Marsyaan
+oppilas.
+
+[33] _Korybantit_ olivat phrygialaisen ‰itijumalan, Kybelen
+seuralaisia, jotka hurjilla tansseilla saattoivat jumalatarta. Kybelen
+palvelijattaret joutuivat koettaessaan j‰ljitell‰ korybantteja,
+hurmiotilaan, jossa he saattoivat tuskaa tuntematta haavoittaa itse‰‰n.
+
+[34] _Seireenit_ ja heid‰n laulunsa ovat jokaiselle tuttuja
+Odysseiasta. He olivat alkuaan kuolonhengett‰ri‰ ja heit‰ kuvailtiin
+osittain linnuiksi, osittain neitosiksi.
+
+[35] _Potidaia_ oli korinttolainen kolonia Makedoniassa. Kuuluttuaan
+pitk‰n aikaa Ateenan valtioliittoon se luopui siit‰, mutta vallattiin
+takaisin v. 429.
+
+[36] Runos‰e on Iliadista 4, 242.
+
+[37] _Delion_ oli Boiotian kaakkoisrannikolla. Siell‰ theebalaiset
+voittivat ateenalaiset v. 424.
+
+[38] Sanat ovat komediasta Pilvet, s. 362. Vrt. johdantoa.
+
+[39] _Brasidas_, kuuluisa spartalainen sotap‰‰llikkˆ ja
+peloponnesolaissotien ensi vaiheessa Spartan mahtavin mies.
+
+[40] _Kharmides_ ja _Euthydemos_ olivat kumpikin sofisteja, joiden
+mukaan kaksi Platonin dialogia on saanut nimens‰.
+
+[41] Jokaista tragediakolmikkoa seurasi hilpe‰s‰vyinen satyridraama,
+jossa seileenit ja satyrit muodostivat khoorin. T‰llaiseen Sokrates
+leikillisesti vertaa Alkibiadeen puhetta siihen sis‰ltyvine
+seileeni- ja satyrivertauksineen.
+
+
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Pidot, by Platon
+
+*** END OF THIS PROJECT GUTENBERG EBOOK PIDOT ***
+
+***** This file should be named 53293-8.txt or 53293-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/3/2/9/53293/
+
+Produced by Tapio Riikonen
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org/license
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
